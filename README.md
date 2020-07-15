@@ -32,7 +32,7 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 
   <img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
   
-**Miscelaneous:**
+**Miscellaneous:**
 
 - 🤔 I’m currently pursuing certificates on [Coursera](https://www.coursera.org);
 - 🌱 I love to implement daily thoughts or ideas that were brought up during a trivial conversation ([Example](https://github.com/guilyx/secret-santa));
