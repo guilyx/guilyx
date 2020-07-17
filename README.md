@@ -42,6 +42,9 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 - 📫 How to reach me: <erwin.lejeune15@gmail.com>;
 - 📝[Resume](https://github.com/guilyx/guilyx/files/4924811/erwinlejeune_internships.pdf)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 **Languages and Tools:**  
 
 <code><img height="40" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
