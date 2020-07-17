@@ -1,3 +1,5 @@
+![Update time stats](https://github.com/guilyx/guilyx/workflows/Update%20time%20stats/badge.svg?event=check_run)
+
 ### Hello 👋, I'm [guilyx](https://guilyx.github.io) 
 
 <br/>
