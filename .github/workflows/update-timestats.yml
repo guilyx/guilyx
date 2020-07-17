@@ -1,4 +1,4 @@
-name: Update time stats
+name: time-stats-build
 
 on:
   schedule:
