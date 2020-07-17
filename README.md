@@ -1,4 +1,4 @@
-![Update time stats](https://github.com/guilyx/guilyx/workflows/Update%20time%20stats/badge.svg?event=check_run)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/Update%20time%20stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
 
 ### Hello 👋, I'm [guilyx](https://guilyx.github.io) 
 
