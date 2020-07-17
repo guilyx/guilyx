@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/Update%20time%20stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/time-stats-build/badge.svg)](https://github.com/guilyx/guilyx/actions)
 
 ### Hello 👋, I'm [guilyx](https://guilyx.github.io) 
 
