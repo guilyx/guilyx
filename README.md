@@ -1,6 +1,6 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/time-stats-build/badge.svg)](https://github.com/guilyx/guilyx/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://komarev.com/ghpvc/?username=guilyx)
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
 ### Hello 👋, I'm [guilyx](https://guilyx.github.io) 
 
@@ -26,8 +26,6 @@
 <a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992">
   <img align="left" alt="guilyx's Codingames" width="25px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
 I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in France. <br />
 I'm a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**  <br />
