@@ -1,4 +1,5 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/time-stats-build/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 
 ### Hello 👋, I'm [guilyx](https://guilyx.github.io) 
 
@@ -44,6 +45,8 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 - 📫 How to reach me: <erwin.lejeune15@gmail.com>;
 - 📝[Resume](https://github.com/guilyx/guilyx/files/4924811/erwinlejeune_internships.pdf)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 ```text
 Week #29 : July 13 - 18
