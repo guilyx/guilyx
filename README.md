@@ -45,6 +45,11 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 - 📝[Resume](https://github.com/guilyx/guilyx/files/4924811/erwinlejeune_internships.pdf)
 
 <!--START_SECTION:waka-->
+```text
+Week #29 : July 13 - 18
+
+
+```
 <!--END_SECTION:waka-->
 
 **Languages and Tools:**  
