@@ -1,5 +1,6 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/time-stats-build/badge.svg)](https://github.com/guilyx/guilyx/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+![](https://komarev.com/ghpvc/?username=guilyx)
 
 ### Hello 👋, I'm [guilyx](https://guilyx.github.io) 
 
