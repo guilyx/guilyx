@@ -44,14 +44,17 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 - 📫 How to reach me: <erwin.lejeune15@gmail.com>;
 - 📝[Resume](https://github.com/guilyx/guilyx/files/4924811/erwinlejeune_internships.pdf)
 
+**:zap: Recent Activity:**
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#9](https://github.com//guilyx/AStar/pull/9) in [guilyx/AStar](https://github.com//guilyx/AStar)
 2. ❗️ Opened issue [#1612](https://github.com//timburgan/timburgan/issues/1612) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
 3. ❗️ Opened issue [#1518](https://github.com//timburgan/timburgan/issues/1518) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
 4. ❗️ Closed issue [#1](https://github.com//guilyx/guilyx/issues/1) in [guilyx/guilyx](https://github.com//guilyx/guilyx)
 5. ❗️ Opened issue [#1](https://github.com//guilyx/guilyx/issues/1) in [guilyx/guilyx](https://github.com//guilyx/guilyx)
-Protocol Buffer1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-```
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 **Languages and Tools:**  
