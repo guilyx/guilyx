@@ -48,9 +48,9 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
 ```text
-Week #29 : July 13 - 18
-
-
+Bash        1 hr 9 mins         ██████████████████████░░░   88.47 % 
+Go          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Protocol Buffer1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 <!--END_SECTION:waka-->
 
