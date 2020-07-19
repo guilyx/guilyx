@@ -55,6 +55,13 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+```text
+Go          4 hrs 39 mins       ████████████████████░░░░░   79.57 % 
+Bash        1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Protocol Buffer1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+JSON        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
 <!--END_SECTION:waka-->
 
 **Languages and Tools:**  
