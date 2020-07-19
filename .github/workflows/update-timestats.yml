@@ -2,8 +2,8 @@ name: time-stats-build
 
 on:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    # Runs at 5:30am UTC
+    - cron: '30 5 * * *'
 
 jobs:
   update-readme:
