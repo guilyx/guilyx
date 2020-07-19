@@ -25,7 +25,7 @@
 </a>
 <a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992">
   <img align="left" alt="guilyx's Codingames" width="25px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
-</a>
+</a> <br /> <br />
 
 I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in France. <br />
 I'm a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**  <br />
