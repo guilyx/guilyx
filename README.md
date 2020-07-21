@@ -36,8 +36,13 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
   
 **Miscellaneous:**
 
-- 🤔 I’m currently pursuing certificates on [Coursera](https://www.coursera.org);
-- 🌱 I love to implement daily thoughts or ideas that were brought up during a trivial conversation ([Example](https://github.com/guilyx/secret-santa));
+- 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
+- 🤹🏽 Fields I enjoy the most :
+  - 🤖 Robotics 
+  - 🎛 Embedded Systems
+  - 🖼 Computer Vision
+  - 📊 Data Science
+  - 🛠 DIY IoT
 - 📈 I’m learning Go;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: An associate professor responsible for one of my academic projects (Xenomai/ROS bridge) is currently pushing for a publication.
