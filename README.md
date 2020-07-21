@@ -48,10 +48,10 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com//athul/waka-readme/issues/16) in [athul/waka-readme](https://github.com//athul/waka-readme)
-2. 🗣 Commented on [#15](https://github.com//athul/waka-readme/issues/15) in [athul/waka-readme](https://github.com//athul/waka-readme)
-3. 💪 Opened PR [#10](https://github.com//guilyx/AStar/pull/10) in [guilyx/AStar](https://github.com//guilyx/AStar)
-4. ❗️ Opened issue [#15](https://github.com//athul/waka-readme/issues/15) in [athul/waka-readme](https://github.com//athul/waka-readme)
-5. 💪 Opened PR [#106](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/106) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+2. 🗣 Commented on [#16](https://github.com//athul/waka-readme/issues/16) in [athul/waka-readme](https://github.com//athul/waka-readme)
+3. 🗣 Commented on [#15](https://github.com//athul/waka-readme/issues/15) in [athul/waka-readme](https://github.com//athul/waka-readme)
+4. 💪 Opened PR [#10](https://github.com//guilyx/AStar/pull/10) in [guilyx/AStar](https://github.com//guilyx/AStar)
+5. ❗️ Opened issue [#15](https://github.com//athul/waka-readme/issues/15) in [athul/waka-readme](https://github.com//athul/waka-readme)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
