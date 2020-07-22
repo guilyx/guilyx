@@ -3,14 +3,14 @@ name: time-stats-build
 on:
   schedule:
     # Runs at 7:30am UTC
-    - cron: '17 15 * * *'
+    - cron: '30 7 * * *'
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: joe733/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
