@@ -6,25 +6,25 @@
 
 <br/>
 <a href="https://twitter.com/spida_rwin">
-  <img align="left" alt="guilyx | Twitter" width="25px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img align="left" alt="guilyx | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img align="left" alt="guilyx's LinkdeIN" width="25px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="guilyx's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://www.facebook.com/erwin.lejeune">
-  <img align="left" alt="guilyx's Facebook" width="25px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="guilyx's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.instagram.com/spid_erwin">
-  <img align="left" alt="guilyx's Instagram" width="25px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="guilyx's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img align="left" alt="guilyx's Spotify" width="25px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  <img align="left" alt="guilyx's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 <a href="https://www.codewars.com/users/Guilyx">
-  <img align="left" alt="guilyx's Codewars" width="25px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
+  <img align="left" alt="guilyx's Codewars" width="30px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
 </a>
 <a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992">
-  <img align="left" alt="guilyx's Codingames" width="25px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
+  <img align="left" alt="guilyx's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a> <br /> <br />
 
 I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in France. <br />
@@ -73,17 +73,17 @@ Protocol Buffer52 mins             █░░░░░░░░░░░░░░
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/golang.png"></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
-<code><img height="40" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
-<code><img height="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/golang.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
 
 
