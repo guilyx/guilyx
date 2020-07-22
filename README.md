@@ -61,13 +61,13 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2020 - 20 July, 2020
+Week: 14 July, 2020 - 21 July, 2020
 
-Go                7 hrs 40 mins   ██████████████░░░░░░░░░░░   55.76 % 
-Bash              3 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-Julia             1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Protocol Buffer   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Markdown          14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Go          11 hrs 37 mins      █████████████░░░░░░░░░░░░   54.17 % 
+Bash        5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   26.76 % 
+Julia       1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Other       56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Protocol Buffer52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 <!--END_SECTION:waka-->
 
