@@ -16,3 +16,4 @@ jobs:
           USERNAME: guilyx # optional, it will automatically use the username of the owner of the repository who's executing the workflow.
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
