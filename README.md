@@ -55,8 +55,8 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 1. 🗣 Commented on [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
 2. 🗣 Commented on [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
 3. 🗣 Commented on [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-4. ❗️ Opened issue [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-5. 🗣 Commented on [#16](https://github.com//athul/waka-readme/issues/16) in [athul/waka-readme](https://github.com//athul/waka-readme)
+4. 🗣 Commented on [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+5. ❗️ Opened issue [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
