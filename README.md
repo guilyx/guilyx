@@ -52,11 +52,11 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-2. 🗣 Commented on [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-3. 🗣 Commented on [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+1. ❗️ Closed issue [#8](https://github.com//guilyx/AStar/issues/8) in [guilyx/AStar](https://github.com//guilyx/AStar)
+2. ❗️ Opened issue [#11](https://github.com//guilyx/AStar/issues/11) in [guilyx/AStar](https://github.com//guilyx/AStar)
+3. 🎉 Merged PR [#9](https://github.com//guilyx/AStar/pull/9) in [guilyx/AStar](https://github.com//guilyx/AStar)
 4. 🗣 Commented on [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-5. ❗️ Opened issue [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+5. 🗣 Commented on [#6](https://github.com//anmol098/waka-readme-stats/issues/6) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
