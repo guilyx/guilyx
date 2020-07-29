@@ -52,11 +52,11 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com//guilyx/AStar/pull/24) in [guilyx/AStar](https://github.com//guilyx/AStar)
-2. 💪 Opened PR [#24](https://github.com//guilyx/AStar/pull/24) in [guilyx/AStar](https://github.com//guilyx/AStar)
-3. ❗️ Opened issue [#23](https://github.com//guilyx/AStar/issues/23) in [guilyx/AStar](https://github.com//guilyx/AStar)
-4. 💪 Opened PR [#22](https://github.com//guilyx/AStar/pull/22) in [guilyx/AStar](https://github.com//guilyx/AStar)
-5. 🎉 Merged PR [#21](https://github.com//guilyx/AStar/pull/21) in [guilyx/AStar](https://github.com//guilyx/AStar)
+1. ❗️ Opened issue [#172](https://github.com//benjaminsampica/benjaminsampica/issues/172) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
+2. 🎉 Merged PR [#24](https://github.com//guilyx/AStar/pull/24) in [guilyx/AStar](https://github.com//guilyx/AStar)
+3. 💪 Opened PR [#24](https://github.com//guilyx/AStar/pull/24) in [guilyx/AStar](https://github.com//guilyx/AStar)
+4. ❗️ Opened issue [#23](https://github.com//guilyx/AStar/issues/23) in [guilyx/AStar](https://github.com//guilyx/AStar)
+5. 💪 Opened PR [#22](https://github.com//guilyx/AStar/pull/22) in [guilyx/AStar](https://github.com//guilyx/AStar)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
