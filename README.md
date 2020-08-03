@@ -1,6 +1,7 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-836-blue)
 
 ### Hello 👋, I'm [guilyx](https://guilyx.github.io) 
 
@@ -60,19 +61,6 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-836-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 1,434 Contributions in year 2020
- > 
-> 📦 Used 0 Bytes in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 29 Public Repository 
- > 
-> 🔑 None Owned Private Repository 
 
 **I'm a night 🦉** 
 
@@ -110,25 +98,6 @@ Other                    47 mins             ░░░░░░░░░░░�
 Protocol Buffer          43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
 
 ```
-
-**I mostly code in C++** 
-
-```text
-C++          12 repos       ████████░░░░░░░░░░░░░░░░░   34.29% 
-C            9 repos        ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-Python       9 repos        ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-VHDL         2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
-Shell        1 repos        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-HTML         1 repos        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-Go           1 repos        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/guilyx/guilyx/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
