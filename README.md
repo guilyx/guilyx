@@ -52,11 +52,11 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#506](https://github.com//JonathanGin52/JonathanGin52/issues/506) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#505](https://github.com//JonathanGin52/JonathanGin52/issues/505) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#25](https://github.com//guilyx/AStar/issues/25) in [guilyx/AStar](https://github.com//guilyx/AStar)
-4. ❗️ Opened issue [#172](https://github.com//benjaminsampica/benjaminsampica/issues/172) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
-5. 🎉 Merged PR [#24](https://github.com//guilyx/AStar/pull/24) in [guilyx/AStar](https://github.com//guilyx/AStar)
+1. ❗️ Opened issue [#122](https://github.com//JessicaLim8/JessicaLim8/issues/122) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+2. ❗️ Opened issue [#121](https://github.com//JessicaLim8/JessicaLim8/issues/121) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+3. ❗️ Opened issue [#506](https://github.com//JonathanGin52/JonathanGin52/issues/506) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#505](https://github.com//JonathanGin52/JonathanGin52/issues/505) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+5. ❗️ Opened issue [#25](https://github.com//guilyx/AStar/issues/25) in [guilyx/AStar](https://github.com//guilyx/AStar)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
