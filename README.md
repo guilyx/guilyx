@@ -52,11 +52,11 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com//phin1x/go-ipp/pull/14) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
-2. 🗣 Commented on [#13](https://github.com//phin1x/go-ipp/issues/13) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
-3. 💪 Opened PR [#13](https://github.com//phin1x/go-ipp/pull/13) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
-4. 💪 Opened PR [#12](https://github.com//phin1x/go-ipp/pull/12) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
-5. ❗️ Opened issue [#122](https://github.com//JessicaLim8/JessicaLim8/issues/122) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+1. ❗️ Opened issue [#2](https://github.com//guilyx/guilyx.github.io/issues/2) in [guilyx/guilyx.github.io](https://github.com//guilyx/guilyx.github.io)
+2. 💪 Opened PR [#14](https://github.com//phin1x/go-ipp/pull/14) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
+3. 🗣 Commented on [#13](https://github.com//phin1x/go-ipp/issues/13) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
+4. 💪 Opened PR [#13](https://github.com//phin1x/go-ipp/pull/13) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
+5. 💪 Opened PR [#12](https://github.com//phin1x/go-ipp/pull/12) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
