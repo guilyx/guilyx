@@ -45,7 +45,7 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
   - 🛠 DIY IoT
 - 📈 I’m learning Go;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: An associate professor responsible for one of my academic projects (Xenomai/ROS bridge) is currently pushing for a publication.
+- ⚡️ Fun-Fact: As there was apparently no currated list for Github Pages hosted Portfolioes, I created [this repo](https://github.com/guilyx/awesome-github-pages-portfolios)
 - 📫 How to reach me: <erwin.lejeune15@gmail.com>;
 - 📝[Resume](https://github.com/guilyx/guilyx/files/4924811/erwinlejeune_internships.pdf)
 
