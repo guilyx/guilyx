@@ -52,11 +52,11 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com//varadbhogayata/varadbhogayata.github.io/issues/11) in [varadbhogayata/varadbhogayata.github.io](https://github.com//varadbhogayata/varadbhogayata.github.io)
-2. ❗️ Opened issue [#2](https://github.com//guilyx/guilyx.github.io/issues/2) in [guilyx/guilyx.github.io](https://github.com//guilyx/guilyx.github.io)
-3. 💪 Opened PR [#14](https://github.com//phin1x/go-ipp/pull/14) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
-4. 🗣 Commented on [#13](https://github.com//phin1x/go-ipp/issues/13) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
-5. 💪 Opened PR [#13](https://github.com//phin1x/go-ipp/pull/13) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
+1. 🎉 Merged PR [#1](https://github.com//guilyx/awesome-github-pages-portfolios/pull/1) in [guilyx/awesome-github-pages-portfolios](https://github.com//guilyx/awesome-github-pages-portfolios)
+2. 🗣 Commented on [#1](https://github.com//guilyx/awesome-github-pages-portfolios/issues/1) in [guilyx/awesome-github-pages-portfolios](https://github.com//guilyx/awesome-github-pages-portfolios)
+3. ❗️ Opened issue [#11](https://github.com//varadbhogayata/varadbhogayata.github.io/issues/11) in [varadbhogayata/varadbhogayata.github.io](https://github.com//varadbhogayata/varadbhogayata.github.io)
+4. ❗️ Opened issue [#2](https://github.com//guilyx/guilyx.github.io/issues/2) in [guilyx/guilyx.github.io](https://github.com//guilyx/guilyx.github.io)
+5. 💪 Opened PR [#14](https://github.com//phin1x/go-ipp/pull/14) in [phin1x/go-ipp](https://github.com//phin1x/go-ipp)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
