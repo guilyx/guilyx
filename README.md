@@ -60,7 +60,7 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-16.4%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-20.0%20million%20Lines%20of%20code-blue)
 
 **I'm a night 🦉** 
 
