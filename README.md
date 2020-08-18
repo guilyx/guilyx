@@ -52,11 +52,11 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#68](https://github.com//anmol098/waka-readme-stats/issues/68) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-2. 💪 Opened PR [#66](https://github.com//anmol098/waka-readme-stats/pull/66) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-3. 🗣 Commented on [#23](https://github.com//anmol098/waka-readme-stats/issues/23) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com//guilyx/awesome-github-pages-portfolios/pull/1) in [guilyx/awesome-github-pages-portfolios](https://github.com//guilyx/awesome-github-pages-portfolios)
-5. 🗣 Commented on [#1](https://github.com//guilyx/awesome-github-pages-portfolios/issues/1) in [guilyx/awesome-github-pages-portfolios](https://github.com//guilyx/awesome-github-pages-portfolios)
+1. ❗️ Opened issue [#8](https://github.com//guilyx/secret-santa/issues/8) in [guilyx/secret-santa](https://github.com//guilyx/secret-santa)
+2. ❗️ Opened issue [#68](https://github.com//anmol098/waka-readme-stats/issues/68) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+3. 💪 Opened PR [#66](https://github.com//anmol098/waka-readme-stats/pull/66) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+4. 🗣 Commented on [#23](https://github.com//anmol098/waka-readme-stats/issues/23) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+5. 🎉 Merged PR [#1](https://github.com//guilyx/awesome-github-pages-portfolios/pull/1) in [guilyx/awesome-github-pages-portfolios](https://github.com//guilyx/awesome-github-pages-portfolios)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
