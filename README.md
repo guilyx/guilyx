@@ -60,7 +60,7 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.9%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -91,9 +91,9 @@ Sunday       156 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Go                       17 hrs 2 mins       ████████████░░░░░░░░░░░░░   49.78% 
-YAML                     5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
-Bash                     4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
+Go                       17 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.79% 
+YAML                     5 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
+Bash                     4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
 Other                    2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.15% 
 PHP                      2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.03%
 
