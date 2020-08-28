@@ -27,27 +27,16 @@
   <img align="left" alt="guilyx's Codingames" width="30px" src="https://image.flaticon.com/icons/svg/2010/2010522.svg" />
 </a> <br /> <br />
 
-I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in France. <br />
-I'm a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**  <br />
-I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS).  <br />
-Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
+I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in France. I also work as a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**. I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS). Besides software engineering, I'm a Small Forward in my Basketball Varsity team.
 
-  <img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
-  
-**Miscellaneous:**
+<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 
 - 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
-- 🤹🏽 Fields I enjoy the most :
-  - 🤖 Robotics 
-  - 🎛 Embedded Systems
-  - 🖼 Computer Vision
-  - 📊 Data Science
-  - 🛠 DIY IoT
-- 📈 I’m learning Go;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: As there was apparently no currated list for Github Pages hosted Portfolioes, I created [this repo](https://github.com/guilyx/awesome-github-pages-portfolios)
-- 📫 How to reach me: <erwin.lejeune15@gmail.com>;
-- 📝[Resume](https://github.com/guilyx/guilyx/files/4924811/erwinlejeune_internships.pdf)
+- 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🎛 Embedded Systems, 🖼 Computer Vision, 📊 Data Science]
+- 📈 I’m fluent in [C/C++, Python, Go, Julia, Matlab];
+- 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
+- ⚡️ I am currently aiming with two publications along with [Sampreet Sarkar](https://github.com/sampreets3) at RTAS'2021 and ICRA'2021 for our work on Real-Time constrained ROS using Xenomai.
+- 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
 
 **:zap: Recent Activity:**
 
