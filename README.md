@@ -21,9 +21,6 @@
 <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
   <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
-<a href="https://www.codingame.com/profile/452b06c872f9773a58e7abff97b738a98661992">
-  <img align="center" alt="guilyx's Codingames" width="35px" src="https://image.flaticon.com/icons/svg/993/993515.svg" />
-</a> <br /> <br />
 </p>
 
 I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in France. I also work as a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**. I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS). Besides software engineering, I'm a Small Forward in my Basketball Varsity team.
