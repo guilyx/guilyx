@@ -43,11 +43,11 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#73](https://github.com//ashutosh1919/masterPortfolio/issues/73) in [ashutosh1919/masterPortfolio](https://github.com//ashutosh1919/masterPortfolio)
-2. ❗️ Opened issue [#47](https://github.com//hashirshoaeb/home/issues/47) in [hashirshoaeb/home](https://github.com//hashirshoaeb/home)
-3. ❗️ Opened issue [#38](https://github.com//Liberxue/liberxue.github.io/issues/38) in [Liberxue/liberxue.github.io](https://github.com//Liberxue/liberxue.github.io)
-4. ❗️ Opened issue [#5](https://github.com//saragong/hello/issues/5) in [saragong/hello](https://github.com//saragong/hello)
-5. ❗️ Opened issue [#50](https://github.com//evanca/quick-portfolio/issues/50) in [evanca/quick-portfolio](https://github.com//evanca/quick-portfolio)
+1. 🗣 Commented on [#47](https://github.com//hashirshoaeb/home/issues/47) in [hashirshoaeb/home](https://github.com//hashirshoaeb/home)
+2. ❗️ Opened issue [#73](https://github.com//ashutosh1919/masterPortfolio/issues/73) in [ashutosh1919/masterPortfolio](https://github.com//ashutosh1919/masterPortfolio)
+3. ❗️ Opened issue [#47](https://github.com//hashirshoaeb/home/issues/47) in [hashirshoaeb/home](https://github.com//hashirshoaeb/home)
+4. ❗️ Opened issue [#38](https://github.com//Liberxue/liberxue.github.io/issues/38) in [Liberxue/liberxue.github.io](https://github.com//Liberxue/liberxue.github.io)
+5. ❗️ Opened issue [#5](https://github.com//saragong/hello/issues/5) in [saragong/hello](https://github.com//saragong/hello)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
