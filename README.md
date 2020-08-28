@@ -43,11 +43,11 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com//PatilShreyas/PatilShreyas.github.io/issues/29) in [PatilShreyas/PatilShreyas.github.io](https://github.com//PatilShreyas/PatilShreyas.github.io)
-2. 🎉 Merged PR [#2](https://github.com//guilyx/awesome-github-pages-portfolios/pull/2) in [guilyx/awesome-github-pages-portfolios](https://github.com//guilyx/awesome-github-pages-portfolios)
-3. ❗️ Opened issue [#1](https://github.com//pr2tik1/pr2tik1.github.io/issues/1) in [pr2tik1/pr2tik1.github.io](https://github.com//pr2tik1/pr2tik1.github.io)
-4. ❗️ Opened issue [#9](https://github.com//guilyx/secret-santa/issues/9) in [guilyx/secret-santa](https://github.com//guilyx/secret-santa)
-5. ❗️ Closed issue [#8](https://github.com//guilyx/secret-santa/issues/8) in [guilyx/secret-santa](https://github.com//guilyx/secret-santa)
+1. ❗️ Opened issue [#73](https://github.com//ashutosh1919/masterPortfolio/issues/73) in [ashutosh1919/masterPortfolio](https://github.com//ashutosh1919/masterPortfolio)
+2. ❗️ Opened issue [#47](https://github.com//hashirshoaeb/home/issues/47) in [hashirshoaeb/home](https://github.com//hashirshoaeb/home)
+3. ❗️ Opened issue [#38](https://github.com//Liberxue/liberxue.github.io/issues/38) in [Liberxue/liberxue.github.io](https://github.com//Liberxue/liberxue.github.io)
+4. ❗️ Opened issue [#5](https://github.com//saragong/hello/issues/5) in [saragong/hello](https://github.com//saragong/hello)
+5. ❗️ Opened issue [#50](https://github.com//evanca/quick-portfolio/issues/50) in [evanca/quick-portfolio](https://github.com//evanca/quick-portfolio)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
