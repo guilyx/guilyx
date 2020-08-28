@@ -43,11 +43,11 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com//guilyx/secret-santa/issues/9) in [guilyx/secret-santa](https://github.com//guilyx/secret-santa)
-2. ❗️ Closed issue [#8](https://github.com//guilyx/secret-santa/issues/8) in [guilyx/secret-santa](https://github.com//guilyx/secret-santa)
-3. ❗️ Opened issue [#8](https://github.com//guilyx/secret-santa/issues/8) in [guilyx/secret-santa](https://github.com//guilyx/secret-santa)
-4. ❗️ Opened issue [#68](https://github.com//anmol098/waka-readme-stats/issues/68) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-5. 💪 Opened PR [#66](https://github.com//anmol098/waka-readme-stats/pull/66) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+1. ❗️ Opened issue [#1](https://github.com//pr2tik1/pr2tik1.github.io/issues/1) in [pr2tik1/pr2tik1.github.io](https://github.com//pr2tik1/pr2tik1.github.io)
+2. ❗️ Opened issue [#9](https://github.com//guilyx/secret-santa/issues/9) in [guilyx/secret-santa](https://github.com//guilyx/secret-santa)
+3. ❗️ Closed issue [#8](https://github.com//guilyx/secret-santa/issues/8) in [guilyx/secret-santa](https://github.com//guilyx/secret-santa)
+4. ❗️ Opened issue [#8](https://github.com//guilyx/secret-santa/issues/8) in [guilyx/secret-santa](https://github.com//guilyx/secret-santa)
+5. ❗️ Opened issue [#68](https://github.com//anmol098/waka-readme-stats/issues/68) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
