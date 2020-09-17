@@ -39,11 +39,11 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com//hashirshoaeb/home/issues/47) in [hashirshoaeb/home](https://github.com//hashirshoaeb/home)
-2. ❗️ Opened issue [#73](https://github.com//ashutosh1919/masterPortfolio/issues/73) in [ashutosh1919/masterPortfolio](https://github.com//ashutosh1919/masterPortfolio)
-3. ❗️ Opened issue [#47](https://github.com//hashirshoaeb/home/issues/47) in [hashirshoaeb/home](https://github.com//hashirshoaeb/home)
-4. ❗️ Opened issue [#38](https://github.com//Liberxue/liberxue.github.io/issues/38) in [Liberxue/liberxue.github.io](https://github.com//Liberxue/liberxue.github.io)
-5. ❗️ Opened issue [#5](https://github.com//saragong/hello/issues/5) in [saragong/hello](https://github.com//saragong/hello)
+1. ❗️ Opened issue [#6](https://github.com//guilyx/realtime-scheduler/issues/6) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
+2. ❗️ Opened issue [#5](https://github.com//guilyx/realtime-scheduler/issues/5) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
+3. ❗️ Opened issue [#4](https://github.com//guilyx/realtime-scheduler/issues/4) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
+4. ❗️ Opened issue [#3](https://github.com//guilyx/realtime-scheduler/issues/3) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
+5. 🎉 Merged PR [#2](https://github.com//guilyx/realtime-scheduler/pull/2) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
