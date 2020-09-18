@@ -37,8 +37,9 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 - 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
 
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=guilyx)](https://github.com/ryo-ma/github-profile-trophy)
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
+
 
 **:zap: Recent Activity:**
 
