@@ -108,10 +108,8 @@ Other                    15 mins             ░░░░░░░░░░░�
 <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
-
-
-![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=guilyx&show_icons=true&hide_border=true)
-
 <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilyx&show_icons=true&hide_border=true">
+
 <a href="https://www.buymeacoffee.com/dq01aOE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
