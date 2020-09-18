@@ -36,6 +36,8 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 - ⚡️ I am currently writing two articles along with [Sampreet Sarkar](https://github.com/sampreets3) to submit at **RTAS'2021** and **ICRA'2021** for our work on Real-Time constrained ROS using Xenomai.
 - 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=guilyx)](https://github.com/ryo-ma/github-profile-trophy)
+
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
