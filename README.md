@@ -33,7 +33,7 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 - 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🎛 Embedded Systems, 🖼 Computer Vision, 📊 Data Science]
 - 📈 I’m fluent in [C/C++, Python, Go, Julia, Matlab];
 - 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
-- ⚡️ I am currently writing two articles along with [Sampreet Sarkar](https://github.com/sampreets3) to submit at **RTAS'2021** and **ICRA'2021** for our work on Real-Time constrained ROS using Xenomai.
+- ⚡️ I am currently writing an article along with [Sampreet Sarkar](https://github.com/sampreets3) to submit at **ICCAR 2021** for our work on Real-Time constrained ROS using Xenomai.
 - 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
 
 <p align="center">
