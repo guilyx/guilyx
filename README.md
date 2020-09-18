@@ -110,6 +110,8 @@ Other                    15 mins             ░░░░░░░░░░░�
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilyx&show_icons=true&hide_border=true">
+</p>
 
+<p align="center">
 <a href="https://www.buymeacoffee.com/dq01aOE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
