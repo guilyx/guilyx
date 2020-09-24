@@ -44,11 +44,11 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//guilyx/realtime-scheduler/pull/7) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
-2. ❗️ Closed issue [#3](https://github.com//guilyx/realtime-scheduler/issues/3) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
-3. 💪 Opened PR [#7](https://github.com//guilyx/realtime-scheduler/pull/7) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
-4. ❗️ Opened issue [#6](https://github.com//guilyx/realtime-scheduler/issues/6) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
-5. ❗️ Opened issue [#5](https://github.com//guilyx/realtime-scheduler/issues/5) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
+1. 💪 Opened PR [#8](https://github.com//guilyx/realtime-scheduler/pull/8) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
+2. 🎉 Merged PR [#7](https://github.com//guilyx/realtime-scheduler/pull/7) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
+3. ❗️ Closed issue [#3](https://github.com//guilyx/realtime-scheduler/issues/3) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
+4. 💪 Opened PR [#7](https://github.com//guilyx/realtime-scheduler/pull/7) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
+5. ❗️ Opened issue [#6](https://github.com//guilyx/realtime-scheduler/issues/6) in [guilyx/realtime-scheduler](https://github.com//guilyx/realtime-scheduler)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
