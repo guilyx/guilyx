@@ -44,11 +44,11 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/guilyx/raspberry_alexa_dht22/issues/1) in [guilyx/raspberry_alexa_dht22](https://github.com/guilyx/raspberry_alexa_dht22)
-2. ❗️ Opened issue [#5](https://github.com/robotcraft19/robotcraft-pathfinding-stage/issues/5) in [robotcraft19/robotcraft-pathfinding-stage](https://github.com/robotcraft19/robotcraft-pathfinding-stage)
-3. ❗️ Opened issue [#4](https://github.com/robotcraft19/robotcraft-pathfinding-stage/issues/4) in [robotcraft19/robotcraft-pathfinding-stage](https://github.com/robotcraft19/robotcraft-pathfinding-stage)
-4. ❗️ Opened issue [#3](https://github.com/robotcraft19/robotcraft-pathfinding-stage/issues/3) in [robotcraft19/robotcraft-pathfinding-stage](https://github.com/robotcraft19/robotcraft-pathfinding-stage)
-5. 🎉 Merged PR [#2](https://github.com/robotcraft19/robotcraft-pathfinding-stage/pull/2) in [robotcraft19/robotcraft-pathfinding-stage](https://github.com/robotcraft19/robotcraft-pathfinding-stage)
+1. ❗️ Closed issue [#14](https://github.com/guilyx/realtime-scheduler/issues/14) in [guilyx/realtime-scheduler](https://github.com/guilyx/realtime-scheduler)
+2. ❗️ Opened issue [#1](https://github.com/guilyx/raspberry_alexa_dht22/issues/1) in [guilyx/raspberry_alexa_dht22](https://github.com/guilyx/raspberry_alexa_dht22)
+3. ❗️ Opened issue [#5](https://github.com/robotcraft19/robotcraft-pathfinding-stage/issues/5) in [robotcraft19/robotcraft-pathfinding-stage](https://github.com/robotcraft19/robotcraft-pathfinding-stage)
+4. ❗️ Opened issue [#4](https://github.com/robotcraft19/robotcraft-pathfinding-stage/issues/4) in [robotcraft19/robotcraft-pathfinding-stage](https://github.com/robotcraft19/robotcraft-pathfinding-stage)
+5. ❗️ Opened issue [#3](https://github.com/robotcraft19/robotcraft-pathfinding-stage/issues/3) in [robotcraft19/robotcraft-pathfinding-stage](https://github.com/robotcraft19/robotcraft-pathfinding-stage)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
