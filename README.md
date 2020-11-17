@@ -44,11 +44,11 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/guilyx/awesome-github-pages-portfolios/pull/3) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
-2. 🗣 Commented on [#3](https://github.com/guilyx/awesome-github-pages-portfolios/issues/3) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
-3. ❗️ Closed issue [#21](https://github.com/MasterERTS/ros2_realtime_statistics/issues/21) in [MasterERTS/ros2_realtime_statistics](https://github.com/MasterERTS/ros2_realtime_statistics)
-4. ❗️ Opened issue [#21](https://github.com/MasterERTS/ros2_realtime_statistics/issues/21) in [MasterERTS/ros2_realtime_statistics](https://github.com/MasterERTS/ros2_realtime_statistics)
-5. ❗️ Closed issue [#14](https://github.com/guilyx/realtime-scheduler/issues/14) in [guilyx/realtime-scheduler](https://github.com/guilyx/realtime-scheduler)
+1. ❗️ Opened issue [#2](https://github.com/guilyx/go-pddl/issues/2) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
+2. ❗️ Opened issue [#1](https://github.com/guilyx/go-pddl/issues/1) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
+3. 🎉 Merged PR [#3](https://github.com/guilyx/awesome-github-pages-portfolios/pull/3) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
+4. 🗣 Commented on [#3](https://github.com/guilyx/awesome-github-pages-portfolios/issues/3) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
+5. ❗️ Closed issue [#21](https://github.com/MasterERTS/ros2_realtime_statistics/issues/21) in [MasterERTS/ros2_realtime_statistics](https://github.com/MasterERTS/ros2_realtime_statistics)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
