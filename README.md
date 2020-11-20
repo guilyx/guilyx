@@ -44,11 +44,11 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/guilyx/go-pddl/issues/3) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
-2. ❗️ Opened issue [#2](https://github.com/guilyx/go-pddl/issues/2) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
-3. ❗️ Opened issue [#1](https://github.com/guilyx/go-pddl/issues/1) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
-4. 🎉 Merged PR [#3](https://github.com/guilyx/awesome-github-pages-portfolios/pull/3) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
-5. 🗣 Commented on [#3](https://github.com/guilyx/awesome-github-pages-portfolios/issues/3) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
+1. 💪 Opened PR [#5](https://github.com/guilyx/go-pddl/pull/5) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
+2. ❗️ Opened issue [#4](https://github.com/guilyx/go-pddl/issues/4) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
+3. ❗️ Opened issue [#3](https://github.com/guilyx/go-pddl/issues/3) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
+4. ❗️ Opened issue [#2](https://github.com/guilyx/go-pddl/issues/2) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
+5. ❗️ Opened issue [#1](https://github.com/guilyx/go-pddl/issues/1) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
