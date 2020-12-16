@@ -52,7 +52,7 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.5%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -83,9 +83,8 @@ Sunday       159 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Go                       14 hrs 59 mins      ███████████████████████░░   91.5% 
-Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.3% 
-Racket                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
+Go                       13 hrs 46 mins      ███████████████████████░░   92.96% 
+Other                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.99% 
 GAS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 ```
