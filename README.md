@@ -45,11 +45,11 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/APLA-Toolbox/go-pddl/issues/11) in [APLA-Toolbox/go-pddl](https://github.com/APLA-Toolbox/go-pddl)
-2. ❗️ Closed issue [#2](https://github.com/APLA-Toolbox/go-pddl/issues/2) in [APLA-Toolbox/go-pddl](https://github.com/APLA-Toolbox/go-pddl)
-3. 🎉 Merged PR [#10](https://github.com/guilyx/go-pddl/pull/10) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
-4. 💪 Opened PR [#10](https://github.com/guilyx/go-pddl/pull/10) in [guilyx/go-pddl](https://github.com/guilyx/go-pddl)
-5. ❗️ Opened issue [#8](https://github.com/potassco/plasp/issues/8) in [potassco/plasp](https://github.com/potassco/plasp)
+1. ❗️ Closed issue [#5](https://github.com/JuliaPlanners/PDDL.jl/issues/5) in [JuliaPlanners/PDDL.jl](https://github.com/JuliaPlanners/PDDL.jl)
+2. 🗣 Commented on [#5](https://github.com/JuliaPlanners/PDDL.jl/issues/5) in [JuliaPlanners/PDDL.jl](https://github.com/JuliaPlanners/PDDL.jl)
+3. ❗️ Opened issue [#5](https://github.com/JuliaPlanners/PDDL.jl/issues/5) in [JuliaPlanners/PDDL.jl](https://github.com/JuliaPlanners/PDDL.jl)
+4. ❗️ Opened issue [#11](https://github.com/APLA-Toolbox/go-pddl/issues/11) in [APLA-Toolbox/go-pddl](https://github.com/APLA-Toolbox/go-pddl)
+5. ❗️ Closed issue [#2](https://github.com/APLA-Toolbox/go-pddl/issues/2) in [APLA-Toolbox/go-pddl](https://github.com/APLA-Toolbox/go-pddl)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
