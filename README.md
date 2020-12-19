@@ -45,11 +45,11 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/APLA-Toolbox/jl-pddl-wrapper/issues/3) in [APLA-Toolbox/jl-pddl-wrapper](https://github.com/APLA-Toolbox/jl-pddl-wrapper)
-2. 💪 Opened PR [#4](https://github.com/APLA-Toolbox/jl-pddl-wrapper/pull/4) in [APLA-Toolbox/jl-pddl-wrapper](https://github.com/APLA-Toolbox/jl-pddl-wrapper)
-3. ❗️ Opened issue [#3](https://github.com/APLA-Toolbox/jl-pddl-wrapper/issues/3) in [APLA-Toolbox/jl-pddl-wrapper](https://github.com/APLA-Toolbox/jl-pddl-wrapper)
-4. ❗️ Opened issue [#2](https://github.com/APLA-Toolbox/jl-pddl-wrapper/issues/2) in [APLA-Toolbox/jl-pddl-wrapper](https://github.com/APLA-Toolbox/jl-pddl-wrapper)
-5. 🎉 Merged PR [#1](https://github.com/APLA-Toolbox/jl-pddl-wrapper/pull/1) in [APLA-Toolbox/jl-pddl-wrapper](https://github.com/APLA-Toolbox/jl-pddl-wrapper)
+1. ❗️ Opened issue [#12](https://github.com/APLA-Toolbox/pyjulia-pddl/issues/12) in [APLA-Toolbox/pyjulia-pddl](https://github.com/APLA-Toolbox/pyjulia-pddl)
+2. ❗️ Opened issue [#11](https://github.com/APLA-Toolbox/pyjulia-pddl/issues/11) in [APLA-Toolbox/pyjulia-pddl](https://github.com/APLA-Toolbox/pyjulia-pddl)
+3. ❗️ Opened issue [#10](https://github.com/APLA-Toolbox/pyjulia-pddl/issues/10) in [APLA-Toolbox/pyjulia-pddl](https://github.com/APLA-Toolbox/pyjulia-pddl)
+4. ❗️ Opened issue [#9](https://github.com/APLA-Toolbox/pyjulia-pddl/issues/9) in [APLA-Toolbox/pyjulia-pddl](https://github.com/APLA-Toolbox/pyjulia-pddl)
+5. ❗️ Opened issue [#8](https://github.com/APLA-Toolbox/pyjulia-pddl/issues/8) in [APLA-Toolbox/pyjulia-pddl](https://github.com/APLA-Toolbox/pyjulia-pddl)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
