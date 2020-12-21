@@ -1,7 +1,6 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
-[![](https://gitwar.herokuapp.com/badge?username=guilyx&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx
 
 ### Hello 👋, I'm [guilyx](https://guilyx.github.io) 
 
@@ -24,18 +23,11 @@
 </a>
 </p>
 
-I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in France. I also work as a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**. I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS). Besides software engineering, I'm a Small Forward in my Basketball Varsity team.
+I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in France. I also work as a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**. I will start interning at [@CM-Robotics](https://cm-robotics.com) in **Robotics Software Engineering** in March 2021.
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 </p>
-
-- 📖 I’m currently learning new things on [Coursera](https://www.coursera.org);
-- 🤹🏽 Fields I enjoy the most include [🤖 Robotics, 🎛 Embedded Systems, 🖼 Computer Vision, 📊 Data Science]
-- 📈 I’m fluent in [C/C++, Python, Go, Julia, Matlab];
-- 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
-- ⚡️ I am currently writing an article along with [Sampreet Sarkar](https://github.com/sampreets3) to submit at **ICCAR 2021** for our work on Real-Time constrained ROS using Xenomai.
-- 📫 How to reach me: <erwinlejeune.pro@gmail.com>;
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
@@ -53,7 +45,6 @@ I'm a **Graduate Student 👨🏽‍💼 [@ECN](https://www.ec-nantes.fr)** in F
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-312%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
