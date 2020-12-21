@@ -35,11 +35,11 @@ I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-na
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/APLA-Toolbox/pddl-plarser/pull/25) in [APLA-Toolbox/pddl-plarser](https://github.com/APLA-Toolbox/pddl-plarser)
-2. ❗️ Closed issue [#14](https://github.com/APLA-Toolbox/pddl-plarser/issues/14) in [APLA-Toolbox/pddl-plarser](https://github.com/APLA-Toolbox/pddl-plarser)
-3. ❗️ Closed issue [#11](https://github.com/APLA-Toolbox/pddl-plarser/issues/11) in [APLA-Toolbox/pddl-plarser](https://github.com/APLA-Toolbox/pddl-plarser)
-4. 🎉 Merged PR [#24](https://github.com/APLA-Toolbox/pddl-plarser/pull/24) in [APLA-Toolbox/pddl-plarser](https://github.com/APLA-Toolbox/pddl-plarser)
-5. 🎉 Merged PR [#23](https://github.com/APLA-Toolbox/pyjulia-pddl/pull/23) in [APLA-Toolbox/pyjulia-pddl](https://github.com/APLA-Toolbox/pyjulia-pddl)
+1. 🎉 Merged PR [#26](https://github.com/APLA-Toolbox/pddl-plarser/pull/26) in [APLA-Toolbox/pddl-plarser](https://github.com/APLA-Toolbox/pddl-plarser)
+2. ❗️ Closed issue [#22](https://github.com/APLA-Toolbox/pddl-plarser/issues/22) in [APLA-Toolbox/pddl-plarser](https://github.com/APLA-Toolbox/pddl-plarser)
+3. 🎉 Merged PR [#25](https://github.com/APLA-Toolbox/pddl-plarser/pull/25) in [APLA-Toolbox/pddl-plarser](https://github.com/APLA-Toolbox/pddl-plarser)
+4. ❗️ Closed issue [#14](https://github.com/APLA-Toolbox/pddl-plarser/issues/14) in [APLA-Toolbox/pddl-plarser](https://github.com/APLA-Toolbox/pddl-plarser)
+5. ❗️ Closed issue [#11](https://github.com/APLA-Toolbox/pddl-plarser/issues/11) in [APLA-Toolbox/pddl-plarser](https://github.com/APLA-Toolbox/pddl-plarser)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
