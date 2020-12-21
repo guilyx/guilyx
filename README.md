@@ -2,8 +2,6 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
-### Hello 👋, I'm [guilyx](https://guilyx.github.io) 
-
 <p align="center">
 <br/>
 <a href="https://twitter.com/spida_rwin">
