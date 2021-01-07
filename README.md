@@ -35,11 +35,11 @@ I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-na
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#85](https://github.com/APLA-Toolbox/PythonPDDL/issues/85) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-2. ❗️ Opened issue [#2](https://github.com/APLA-Toolbox/pddl-examples/issues/2) in [APLA-Toolbox/pddl-examples](https://github.com/APLA-Toolbox/pddl-examples)
-3. 🎉 Merged PR [#84](https://github.com/APLA-Toolbox/PythonPDDL/pull/84) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-4. ❗️ Closed issue [#81](https://github.com/APLA-Toolbox/PythonPDDL/issues/81) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-5. ❗️ Closed issue [#80](https://github.com/APLA-Toolbox/PythonPDDL/issues/80) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+1. 💪 Opened PR [#86](https://github.com/APLA-Toolbox/PythonPDDL/pull/86) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+2. ❗️ Opened issue [#85](https://github.com/APLA-Toolbox/PythonPDDL/issues/85) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+3. ❗️ Opened issue [#2](https://github.com/APLA-Toolbox/pddl-examples/issues/2) in [APLA-Toolbox/pddl-examples](https://github.com/APLA-Toolbox/pddl-examples)
+4. 🎉 Merged PR [#84](https://github.com/APLA-Toolbox/PythonPDDL/pull/84) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+5. ❗️ Closed issue [#81](https://github.com/APLA-Toolbox/PythonPDDL/issues/81) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
