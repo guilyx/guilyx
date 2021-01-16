@@ -38,8 +38,8 @@ I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-na
 1. 🎉 Merged PR [#1](https://github.com/APLA-Toolbox/docker-pythonpddl/pull/1) in [APLA-Toolbox/docker-pythonpddl](https://github.com/APLA-Toolbox/docker-pythonpddl)
 2. 🎉 Merged PR [#91](https://github.com/APLA-Toolbox/PythonPDDL/pull/91) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 3. ❗️ Closed issue [#90](https://github.com/APLA-Toolbox/PythonPDDL/issues/90) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-4. ❗️ Opened issue [#1](https://github.com/guilyx/pymapf/issues/1) in [guilyx/pymapf](https://github.com/guilyx/pymapf)
-5. 💪 Opened PR [#91](https://github.com/APLA-Toolbox/PythonPDDL/pull/91) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+4. 💪 Opened PR [#91](https://github.com/APLA-Toolbox/PythonPDDL/pull/91) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+5. ❗️ Opened issue [#90](https://github.com/APLA-Toolbox/PythonPDDL/issues/90) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
