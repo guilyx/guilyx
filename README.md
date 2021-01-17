@@ -35,11 +35,11 @@ I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-na
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/APLA-Toolbox/pymapf/pull/16) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-2. ❗️ Opened issue [#17](https://github.com/APLA-Toolbox/pymapf/issues/17) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-3. 💪 Opened PR [#16](https://github.com/APLA-Toolbox/pymapf/pull/16) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-4. 🎉 Merged PR [#15](https://github.com/APLA-Toolbox/pymapf/pull/15) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-5. 💪 Opened PR [#15](https://github.com/APLA-Toolbox/pymapf/pull/15) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+1. ❗️ Closed issue [#4](https://github.com/APLA-Toolbox/pymapf/issues/4) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+2. 🎉 Merged PR [#16](https://github.com/APLA-Toolbox/pymapf/pull/16) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+3. ❗️ Opened issue [#17](https://github.com/APLA-Toolbox/pymapf/issues/17) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+4. 💪 Opened PR [#16](https://github.com/APLA-Toolbox/pymapf/pull/16) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+5. 🎉 Merged PR [#15](https://github.com/APLA-Toolbox/pymapf/pull/15) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
