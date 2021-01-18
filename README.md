@@ -35,11 +35,11 @@ I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-na
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/guilyx/cooperative-astar/issues/2) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
-2. ❗️ Closed issue [#77](https://github.com/APLA-Toolbox/PythonPDDL/issues/77) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-3. ❗️ Closed issue [#72](https://github.com/APLA-Toolbox/PythonPDDL/issues/72) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-4. 🎉 Merged PR [#92](https://github.com/APLA-Toolbox/PythonPDDL/pull/92) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-5. ❗️ Closed issue [#89](https://github.com/APLA-Toolbox/PythonPDDL/issues/89) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+1. ❗️ Opened issue [#3](https://github.com/APLA-Toolbox/pddl-examples/issues/3) in [APLA-Toolbox/pddl-examples](https://github.com/APLA-Toolbox/pddl-examples)
+2. 🗣 Commented on [#2](https://github.com/guilyx/cooperative-astar/issues/2) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
+3. ❗️ Closed issue [#77](https://github.com/APLA-Toolbox/PythonPDDL/issues/77) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+4. ❗️ Closed issue [#72](https://github.com/APLA-Toolbox/PythonPDDL/issues/72) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+5. 🎉 Merged PR [#92](https://github.com/APLA-Toolbox/PythonPDDL/pull/92) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
