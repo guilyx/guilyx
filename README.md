@@ -35,11 +35,11 @@ I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-na
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/guilyx/cooperative-astar/issues/3) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
-2. ❗️ Opened issue [#3](https://github.com/APLA-Toolbox/pddl-examples/issues/3) in [APLA-Toolbox/pddl-examples](https://github.com/APLA-Toolbox/pddl-examples)
-3. 🗣 Commented on [#2](https://github.com/guilyx/cooperative-astar/issues/2) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
-4. ❗️ Closed issue [#77](https://github.com/APLA-Toolbox/PythonPDDL/issues/77) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-5. ❗️ Closed issue [#72](https://github.com/APLA-Toolbox/PythonPDDL/issues/72) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+1. 🎉 Merged PR [#4](https://github.com/guilyx/awesome-github-pages-portfolios/pull/4) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
+2. 🗣 Commented on [#4](https://github.com/guilyx/awesome-github-pages-portfolios/issues/4) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
+3. ❗️ Opened issue [#3](https://github.com/guilyx/cooperative-astar/issues/3) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
+4. ❗️ Opened issue [#3](https://github.com/APLA-Toolbox/pddl-examples/issues/3) in [APLA-Toolbox/pddl-examples](https://github.com/APLA-Toolbox/pddl-examples)
+5. 🗣 Commented on [#2](https://github.com/guilyx/cooperative-astar/issues/2) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
