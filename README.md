@@ -35,11 +35,11 @@ I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-na
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#94](https://github.com/APLA-Toolbox/PythonPDDL/issues/94) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-2. 🎉 Merged PR [#93](https://github.com/APLA-Toolbox/PythonPDDL/pull/93) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-3. 🎉 Merged PR [#4](https://github.com/guilyx/awesome-github-pages-portfolios/pull/4) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
-4. 🗣 Commented on [#4](https://github.com/guilyx/awesome-github-pages-portfolios/issues/4) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
-5. ❗️ Opened issue [#3](https://github.com/guilyx/cooperative-astar/issues/3) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
+1. ❗️ Opened issue [#98](https://github.com/APLA-Toolbox/PythonPDDL/issues/98) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+2. 💪 Opened PR [#97](https://github.com/APLA-Toolbox/PythonPDDL/pull/97) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+3. 🎉 Merged PR [#95](https://github.com/APLA-Toolbox/PythonPDDL/pull/95) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+4. ❗️ Opened issue [#96](https://github.com/APLA-Toolbox/PythonPDDL/issues/96) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+5. 💪 Opened PR [#95](https://github.com/APLA-Toolbox/PythonPDDL/pull/95) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
