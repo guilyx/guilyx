@@ -35,11 +35,11 @@ I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-na
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#284](https://github.com/yasinkuyu/binance-trader/issues/284) in [yasinkuyu/binance-trader](https://github.com/yasinkuyu/binance-trader)
-2. ❗️ Opened issue [#19](https://github.com/APLA-Toolbox/pymapf/issues/19) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-3. ❗️ Opened issue [#18](https://github.com/APLA-Toolbox/pymapf/issues/18) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-4. ❗️ Opened issue [#4](https://github.com/guilyx/cooperative-astar/issues/4) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
-5. 💪 Opened PR [#99](https://github.com/APLA-Toolbox/PythonPDDL/pull/99) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+1. ❗️ Closed issue [#284](https://github.com/yasinkuyu/binance-trader/issues/284) in [yasinkuyu/binance-trader](https://github.com/yasinkuyu/binance-trader)
+2. ❗️ Opened issue [#284](https://github.com/yasinkuyu/binance-trader/issues/284) in [yasinkuyu/binance-trader](https://github.com/yasinkuyu/binance-trader)
+3. ❗️ Opened issue [#19](https://github.com/APLA-Toolbox/pymapf/issues/19) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+4. ❗️ Opened issue [#18](https://github.com/APLA-Toolbox/pymapf/issues/18) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+5. ❗️ Opened issue [#4](https://github.com/guilyx/cooperative-astar/issues/4) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
