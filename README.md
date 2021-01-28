@@ -35,11 +35,11 @@ I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-na
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/APLA-Toolbox/pymapf/pull/21) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-2. ❗️ Closed issue [#10](https://github.com/APLA-Toolbox/pymapf/issues/10) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-3. ❗️ Closed issue [#2](https://github.com/APLA-Toolbox/pymapf/issues/2) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-4. 🗣 Commented on [#2](https://github.com/guilyx/cooperative-astar/issues/2) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
-5. ❌ Closed PR [#2](https://github.com/guilyx/cooperative-astar/pull/2) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
+1. 🎉 Merged PR [#100](https://github.com/APLA-Toolbox/PythonPDDL/pull/100) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+2. ❗️ Closed issue [#3](https://github.com/guilyx/cooperative-astar/issues/3) in [guilyx/cooperative-astar](https://github.com/guilyx/cooperative-astar)
+3. 💪 Opened PR [#22](https://github.com/APLA-Toolbox/pymapf/pull/22) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+4. 🎉 Merged PR [#21](https://github.com/APLA-Toolbox/pymapf/pull/21) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+5. ❗️ Closed issue [#10](https://github.com/APLA-Toolbox/pymapf/issues/10) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
