@@ -74,7 +74,7 @@ Sunday       151 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   16 mins             █████████████████████████   100.0%
 
 ```
 
