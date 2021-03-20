@@ -35,11 +35,11 @@ I'm a Robotics (Software) Engineer at **[Coalescent Mobile Robotics](https://cm-
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#369](https://github.com/SteveMacenski/slam_toolbox/issues/369) in [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
-2. 💪 Opened PR [#2228](https://github.com/ros-planning/navigation2/pull/2228) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
-3. 🎉 Merged PR [#101](https://github.com/APLA-Toolbox/PythonPDDL/pull/101) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-4. 🎉 Merged PR [#30](https://github.com/APLA-Toolbox/pymapf/pull/30) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-5. 🎉 Merged PR [#32](https://github.com/APLA-Toolbox/pymapf/pull/32) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+1. ❗️ Closed issue [#369](https://github.com/SteveMacenski/slam_toolbox/issues/369) in [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
+2. 🗣 Commented on [#369](https://github.com/SteveMacenski/slam_toolbox/issues/369) in [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
+3. ❗️ Opened issue [#369](https://github.com/SteveMacenski/slam_toolbox/issues/369) in [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
+4. 💪 Opened PR [#2228](https://github.com/ros-planning/navigation2/pull/2228) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
+5. 🎉 Merged PR [#101](https://github.com/APLA-Toolbox/PythonPDDL/pull/101) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
