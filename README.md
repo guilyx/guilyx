@@ -21,11 +21,21 @@
 </a>
 </p>
 
-I'm a Robotics (Software) Engineer at **[Coalescent Mobile Robotics](https://cm-robotics.com)**, I develop, improve and research applications related to Autonomous Navigation (Perception, Path-Planning, SLAM) for the retail industry.
+```yaml
+name: Erwin Lejeune
+education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+job: Robotics Software Engineer
+company: Coalescent Mobile Robotics
+located_in: Odense, Denmark
 
-<p align="center">
-<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
-</p>
+technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
+                      "Object Detection", "Sensor Fusion", "SLAM"]
+currently_learning: ["Behaviour Trees", "PetriNets"]
+hobbies: ["Basketball", "Cinema", "Rapsberry Pi Dumb Projects",
+          "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
+
+relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
+```
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
