@@ -35,11 +35,11 @@ I'm a Robotics (Software) Engineer at **[Coalescent Mobile Robotics](https://cm-
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cmrobotics/tsdf-plusplus/issues/1) in [cmrobotics/tsdf-plusplus](https://github.com/cmrobotics/tsdf-plusplus)
-2. 🗣 Commented on [#9](https://github.com/SICKAG/sick_safetyscanners2/issues/9) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
-3. 💪 Opened PR [#1](https://github.com/cmrobotics/sick_safetyscanners2/pull/1) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
-4. ❗️ Opened issue [#9](https://github.com/SICKAG/sick_safetyscanners2/issues/9) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
-5. 🎉 Merged PR [#41](https://github.com/APLA-Toolbox/pymapf/pull/41) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+1. 🗣 Commented on [#1](https://github.com/cmrobotics/sick_safetyscanners2/issues/1) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
+2. 🗣 Commented on [#1](https://github.com/cmrobotics/tsdf-plusplus/issues/1) in [cmrobotics/tsdf-plusplus](https://github.com/cmrobotics/tsdf-plusplus)
+3. 🗣 Commented on [#9](https://github.com/SICKAG/sick_safetyscanners2/issues/9) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
+4. 💪 Opened PR [#1](https://github.com/cmrobotics/sick_safetyscanners2/pull/1) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
+5. ❗️ Opened issue [#9](https://github.com/SICKAG/sick_safetyscanners2/issues/9) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
