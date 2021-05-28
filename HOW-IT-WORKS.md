@@ -1,1 +1,9 @@
 # COMING SOON
+
+## SPOTIFY API
+
+## GET REFRESH TOKEN
+
+## VERCEL
+
+## ENV
