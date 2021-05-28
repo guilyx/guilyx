@@ -19,7 +19,6 @@
   "homepage": "https://github.com/andyruwruw/andyruwruw#readme",
   "dependencies": {
     "@vercel/node": "^1.9.1",
-    "@types/spotify-api": "0.0.5",
     "axios": "^0.21.1",
     "chess-web-api": "^1.0.10",
     "isomorphic-unfetch": "^3.0.0",
