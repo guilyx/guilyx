@@ -23,10 +23,11 @@
 
 ```yaml
 name: Erwin Lejeune
+located_in: Odense, Denmark
+from: Nantes (France)
 education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
 job: Robotics Software Engineer
 company: Coalescent Mobile Robotics
-located_in: Odense, Denmark
 
 technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
                       "Object Detection", "Sensor Fusion", "SLAM"]
