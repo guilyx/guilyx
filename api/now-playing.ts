@@ -56,7 +56,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
         audioFeatures = await trackAudioFeatures(item.id, Authorization);
       }
     } else {
-      return res.status(417).end();
+      return res.status(500).end();
     }
     
 
