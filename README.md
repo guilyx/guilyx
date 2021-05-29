@@ -55,6 +55,7 @@ relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
 </p>
  
 ```yaml
+section: spotify components info
 tutorial_path: guilyx/guilyx/how-to.md
 original_idea: natemoo-re
 improved_by: andyruwruw
