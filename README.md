@@ -55,8 +55,7 @@ relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
 </p>
  
 <p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>from <a href="https://github.com/andyruwruw">natemoo-re</a></i>
+  <i>checkout `HOW-TO.md` to set the spotify components up. huge thanks to `natemoo-re` and `andyruwruw`</i>
 </p>
 
 
