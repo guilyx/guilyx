@@ -54,11 +54,12 @@ relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
   <img src="https://guilyx.vercel.app/api/top-played">
 </p>
  
-<p align="center">
-  ```
-  *checkout `HOW-TO.md` to set the spotify components up. huge thanks to `natemoo-re` and `andyruwruw`*
-  ```
-</p>
+```yaml
+tutorial_path: guilyx/guilyx/how-to.md
+original_idea: natemoo-re
+improved_by: andyruwruw
+note: thanks to both of them!
+```
 
 
 **:zap: Recent Activity:**
