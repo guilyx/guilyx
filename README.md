@@ -43,6 +43,21 @@ relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
 </p>
 
 
+<p align="center">
+  <a href="https://guilyx.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://guilyx.vercel.app/api/now-playing">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://guilyx.vercel.app/api/top-played">
+</p>
+ 
+<p align="center">
+  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  <i>from <a href="https://github.com/andyruwruw">natemoo-re</a></i>
+</p>
 
 
 **:zap: Recent Activity:**
