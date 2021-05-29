@@ -51,9 +51,14 @@ export default async function (req: VercelRequest, res: VercelResponse) {
     // The music bars are colored based on the songs danceability, energy and happiness
     // And they move to the beat of the song :)
     let audioFeatures: IAudioFeaturesResponse | object = null;
-    if (Object.keys(item).length) {
-      audioFeatures = await trackAudioFeatures(item.id, Authorization);
+    if(item) {
+      if (Object.keys(item).length) {
+        audioFeatures = await trackAudioFeatures(item.id, Authorization);
+      }
+    } else {
+      return res.status(417).end();
     }
+    
 
     // Hey! I'm returning an image!
     res.setHeader(
