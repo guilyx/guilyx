@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cmrobotics/sick_safetyscanners2/issues/1) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
-2. 🗣 Commented on [#1](https://github.com/cmrobotics/tsdf-plusplus/issues/1) in [cmrobotics/tsdf-plusplus](https://github.com/cmrobotics/tsdf-plusplus)
-3. 🗣 Commented on [#9](https://github.com/SICKAG/sick_safetyscanners2/issues/9) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
-4. 💪 Opened PR [#1](https://github.com/cmrobotics/sick_safetyscanners2/pull/1) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
-5. ❗️ Opened issue [#9](https://github.com/SICKAG/sick_safetyscanners2/issues/9) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
+1. ❗️ Opened issue [#5](https://github.com/guilyx/guilyx/issues/5) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+2. ❗️ Closed issue [#4](https://github.com/guilyx/guilyx/issues/4) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+3. ❗️ Closed issue [#2](https://github.com/guilyx/guilyx/issues/2) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+4. ❗️ Closed issue [#3](https://github.com/guilyx/guilyx/issues/3) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+5. ❗️ Opened issue [#4](https://github.com/guilyx/guilyx/issues/4) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
