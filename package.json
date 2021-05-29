@@ -1,5 +1,5 @@
 {
-  "name": "andyruwruw-profile-page",
+  "name": "guilyx-profile-page",
   "version": "1.1.1",
   "description": "Github profile README.md",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andyruwruw/andyruwruw.git"
+    "url": "git+https://github.com/guilyx/guilyx.git"
   },
   "author": "Andrew Young",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andyruwruw/andyruwruw/issues"
+    "url": "https://github.com/guilyx/guilyx/issues"
   },
-  "homepage": "https://github.com/andyruwruw/andyruwruw#readme",
+  "homepage": "https://github.com/guilyx/guilyx#readme",
   "dependencies": {
     "@vercel/node": "^1.9.1",
     "axios": "^0.21.1",
@@ -26,6 +26,22 @@
     "querystring": "^0.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "typescript": "^3.9.7"
-  }
+    "typescript": "^3.9.7",
+    "faunadb": "^2.14.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.22",
+    "@types/react": "^16.9.42",
+    "@types/react-dom": "^16.9.8",
+    "@types/spotify-api": "0.0.5",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
+    "open": "^7.2.1",
+    "prettier": "^2.0.5",
+    "dotenv": "^10.0.0"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "keywords": []
 }
