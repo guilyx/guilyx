@@ -55,7 +55,9 @@ relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
 </p>
  
 <p align="center">
-  <i>checkout `HOW-TO.md` to set the spotify components up. huge thanks to `natemoo-re` and `andyruwruw`</i>
+  ```
+  *checkout `HOW-TO.md` to set the spotify components up. huge thanks to `natemoo-re` and `andyruwruw`*
+  ```
 </p>
 
 
