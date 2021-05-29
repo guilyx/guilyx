@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/guilyx/guilyx/issues/5) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-2. ❗️ Closed issue [#4](https://github.com/guilyx/guilyx/issues/4) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-3. ❗️ Closed issue [#2](https://github.com/guilyx/guilyx/issues/2) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-4. ❗️ Closed issue [#3](https://github.com/guilyx/guilyx/issues/3) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-5. ❗️ Opened issue [#4](https://github.com/guilyx/guilyx/issues/4) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+1. ❗️ Opened issue [#6](https://github.com/andyruwruw/andyruwruw/issues/6) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
+2. ❗️ Opened issue [#5](https://github.com/guilyx/guilyx/issues/5) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+3. ❗️ Closed issue [#4](https://github.com/guilyx/guilyx/issues/4) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+4. ❗️ Closed issue [#2](https://github.com/guilyx/guilyx/issues/2) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+5. ❗️ Closed issue [#3](https://github.com/guilyx/guilyx/issues/3) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
