@@ -33,6 +33,10 @@ export default async function (req: VercelRequest, res: VercelResponse) {
     if (!item) {
       const response = await lastPlayed(Authorization);
       item = response.item;
+      if (!item) {
+        const err = response.error_msg + ', track_id = ' + response.track_id;
+        return res.send(err);
+      }
     }
 
     // If the link was clicked, reroute them to the href
