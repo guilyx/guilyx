@@ -33,6 +33,9 @@ export default async function (req: VercelRequest, res: VercelResponse) {
     if (!item) {
       const response = await lastPlayed(Authorization);
       item = response.item;
+      if (!item) {
+        return res.send('Couldnt get last played song!')
+      }
     }
 
     // If the link was clicked, reroute them to the href
@@ -51,14 +54,9 @@ export default async function (req: VercelRequest, res: VercelResponse) {
     // The music bars are colored based on the songs danceability, energy and happiness
     // And they move to the beat of the song :)
     let audioFeatures: IAudioFeaturesResponse | object = null;
-    if(item) {
-      if (Object.keys(item).length) {
-        audioFeatures = await trackAudioFeatures(item.id, Authorization);
-      }
-    } else {
-      return res.status(500).end();
+    if (Object.keys(item).length) {
+      audioFeatures = await trackAudioFeatures(item.id, Authorization);
     }
-    
 
     // Hey! I'm returning an image!
     res.setHeader(
