@@ -24,6 +24,8 @@ export default async function (req: VercelRequest, res: VercelResponse) {
     'user-read-currently-playing',
     'user-read-playback-state',
     'user-top-read',
+    'user-read-private',
+    'playlist-read-private'
   ];
 
   const url: string = `https://accounts.spotify.com/authorize?${querystring.stringify({
