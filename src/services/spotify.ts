@@ -83,6 +83,7 @@ export async function lastPlayed(Authorization: string): Promise<ICurrentlyPlayi
   });
 
   const { status } = response;
+  const stringResponse = response.json.toString() + 'failed to request most recently played track';
 
   if (status === 200) {
     const data: ICursorBasedPagingObject<IPlayHistoryObject> = await response.json();
@@ -114,7 +115,7 @@ export async function lastPlayed(Authorization: string): Promise<ICurrentlyPlayi
     progress_ms: 0,
     is_playing: false,
     track_id: '',
-    error_msg: 'failed to request most recently played track',
+    error_msg: stringResponse,
     item: null,
     currently_playing_type: '',
     actions: {},
