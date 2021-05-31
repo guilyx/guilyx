@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/guilyx/guilyx/pull/6) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-2. 💪 Opened PR [#6](https://github.com/guilyx/guilyx/pull/6) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-3. 🗣 Commented on [#42](https://github.com/APLA-Toolbox/pymapf/issues/42) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-4. 🗣 Commented on [#42](https://github.com/APLA-Toolbox/pymapf/issues/42) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-5. ❗️ Closed issue [#6](https://github.com/andyruwruw/andyruwruw/issues/6) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
+1. 🎉 Merged PR [#7](https://github.com/guilyx/guilyx/pull/7) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+2. 💪 Opened PR [#7](https://github.com/guilyx/guilyx/pull/7) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+3. 🎉 Merged PR [#6](https://github.com/guilyx/guilyx/pull/6) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+4. 💪 Opened PR [#6](https://github.com/guilyx/guilyx/pull/6) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+5. 🗣 Commented on [#42](https://github.com/APLA-Toolbox/pymapf/issues/42) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
