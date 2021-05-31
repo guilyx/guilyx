@@ -57,6 +57,11 @@ interface ICurrentlyPlayingResponse {
   Authorization: string;
 }
 
+interface ISpotifyError {
+  status: number;
+  message: string;
+}
+
 interface IAudioFeaturesResponse {
   duration_ms : number;
   key : number;
