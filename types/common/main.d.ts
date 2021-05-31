@@ -49,6 +49,8 @@ interface ICurrentlyPlayingResponse {
   timestamp: number;
   progress_ms: number;
   is_playing: boolean;
+  track_id: string;
+  error_msg: string;
   item: ITrackObject | null;
   currently_playing_type: string;
   actions: object;

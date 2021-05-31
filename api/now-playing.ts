@@ -33,9 +33,6 @@ export default async function (req: VercelRequest, res: VercelResponse) {
     if (!item) {
       const response = await lastPlayed(Authorization);
       item = response.item;
-      if (!item) {
-        return res.send('Couldnt get last played song!')
-      }
     }
 
     // If the link was clicked, reroute them to the href
