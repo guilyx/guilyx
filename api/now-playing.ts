@@ -34,7 +34,8 @@ export default async function (req: VercelRequest, res: VercelResponse) {
       const response = await lastPlayed(Authorization);
       item = response.item;
       if (!item) {
-        return res.send('Couldnt get last played song!')
+        const err = response.error_msg + ', track_id = ' + response.track_id;
+        return res.send(err);
       }
     }
 
