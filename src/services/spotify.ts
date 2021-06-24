@@ -110,8 +110,8 @@ export async function lastPlayed(): Promise<ICurrentlyPlayingResponse> {
     }
   }
 
-  const data_error: ISpotifyError = await response.json();
-  const error_msg = "HTTP ERROR [" + data_error.status + "] -- " + data_error.message;
+  const data_error: ICursorBasedPagingObject<ISpotifyError> = await response.json();
+  const error_msg = "HTTP ERROR [" + status + "] -- " + data_error.message;
 
   return {
     context: null,
