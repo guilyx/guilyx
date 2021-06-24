@@ -75,7 +75,7 @@ export async function nowPlaying(): Promise<ICurrentlyPlayingResponse> {
  *
  * @returns {Promise<ICursorBasedPagingObject | object>} Currently Playing Spotify Object
  */
-export async function lastPlayed(Authorization: string): Promise<ICurrentlyPlayingResponse> {
+export async function lastPlayed(): Promise<ICurrentlyPlayingResponse> {
   const Authorization: string = await getAuthorizationToken();
   const response: Response = await fetch('https://api.spotify.com/v1/me/player/recently-played?limit=1', {
     headers: {
