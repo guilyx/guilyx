@@ -84,7 +84,7 @@ export async function lastPlayed(Authorization: string): Promise<ICurrentlyPlayi
 
   const { status } = response;
 
-  if (1 === 1) {
+  if (status === 200) {
     const data: ICursorBasedPagingObject<IPlayHistoryObject> = await response.json();
 
     const trackResponse: Response = await fetch(`https://api.spotify.com/v1/tracks/${ data.items[0].track.id }`, {
