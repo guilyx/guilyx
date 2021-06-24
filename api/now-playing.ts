@@ -31,7 +31,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
     } = await nowPlaying();
 
     if (!item) {
-      const response = await lastPlayed(Authorization);
+      const response = await lastPlayed();
       item = response.item;
       if (!item) {
         const err = response.error_msg + ', track_id = ' + response.track_id;
