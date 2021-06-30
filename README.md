@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/SICKAG/sick_safetyscanners2/issues/9) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
-2. 🗣 Commented on [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
-3. ❗️ Reopened issue [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
-4. ❗️ Closed issue [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
-5. 🗣 Commented on [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
+1. 💪 Opened PR [#11](https://github.com/SICKAG/sick_safetyscanners2/pull/11) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
+2. 🗣 Commented on [#9](https://github.com/SICKAG/sick_safetyscanners2/issues/9) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
+3. 🗣 Commented on [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
+4. ❗️ Reopened issue [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
+5. ❗️ Closed issue [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
