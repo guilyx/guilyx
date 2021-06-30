@@ -41,9 +41,6 @@ Value: MY_SECRET_ID
 
 Name: SPOTIFY_REFRESH_TOKEN
 Value: MY_REFRESH_TOKEN
-
-Name: STATE
-Value: random
 ```
 ## Testing
 
