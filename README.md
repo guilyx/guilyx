@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
-2. 🗣 Commented on [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
-3. ❗️ Opened issue [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
-4. 🎉 Merged PR [#4](https://github.com/guilyx/airplane-booking/pull/4) in [guilyx/airplane-booking](https://github.com/guilyx/airplane-booking)
-5. 💪 Opened PR [#2](https://github.com/cmrobotics/navigation2/pull/2) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+1. 🗣 Commented on [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
+2. ❗️ Reopened issue [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
+3. ❗️ Closed issue [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
+4. 🗣 Commented on [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
+5. ❗️ Opened issue [#7](https://github.com/andyruwruw/andyruwruw/issues/7) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
