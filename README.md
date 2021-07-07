@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/SICKAG/sick_safetyscanners2/issues/11) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
-2. ❗️ Closed issue [#418](https://github.com/SteveMacenski/slam_toolbox/issues/418) in [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
-3. ❗️ Opened issue [#418](https://github.com/SteveMacenski/slam_toolbox/issues/418) in [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
-4. 💪 Opened PR [#11](https://github.com/SICKAG/sick_safetyscanners2/pull/11) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
-5. 🗣 Commented on [#9](https://github.com/SICKAG/sick_safetyscanners2/issues/9) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
+1. 🎉 Merged PR [#2](https://github.com/cmrobotics/navigation2/pull/2) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+2. 🗣 Commented on [#11](https://github.com/SICKAG/sick_safetyscanners2/issues/11) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
+3. ❗️ Closed issue [#418](https://github.com/SteveMacenski/slam_toolbox/issues/418) in [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
+4. ❗️ Opened issue [#418](https://github.com/SteveMacenski/slam_toolbox/issues/418) in [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
+5. 💪 Opened PR [#11](https://github.com/SICKAG/sick_safetyscanners2/pull/11) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
