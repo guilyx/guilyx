@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/cmrobotics/sick_safetyscanners2/pull/2) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
-2. 💪 Opened PR [#3](https://github.com/cmrobotics/navigation2/pull/3) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
-3. 💪 Opened PR [#316](https://github.com/rst-tu-dortmund/teb_local_planner/pull/316) in [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner)
-4. ❌ Closed PR [#58](https://github.com/ros-perception/pointcloud_to_laserscan/pull/58) in [ros-perception/pointcloud_to_laserscan](https://github.com/ros-perception/pointcloud_to_laserscan)
-5. 🗣 Commented on [#58](https://github.com/ros-perception/pointcloud_to_laserscan/issues/58) in [ros-perception/pointcloud_to_laserscan](https://github.com/ros-perception/pointcloud_to_laserscan)
+1. 🗣 Commented on [#11](https://github.com/SICKAG/sick_safetyscanners2/issues/11) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
+2. 🎉 Merged PR [#2](https://github.com/cmrobotics/sick_safetyscanners2/pull/2) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
+3. 💪 Opened PR [#2](https://github.com/cmrobotics/sick_safetyscanners2/pull/2) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
+4. 💪 Opened PR [#3](https://github.com/cmrobotics/navigation2/pull/3) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+5. 💪 Opened PR [#316](https://github.com/rst-tu-dortmund/teb_local_planner/pull/316) in [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
