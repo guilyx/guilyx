@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/APLA-Toolbox/PythonPDDL/pull/113) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-2. 🎉 Merged PR [#112](https://github.com/APLA-Toolbox/PythonPDDL/pull/112) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-3. 🎉 Merged PR [#108](https://github.com/APLA-Toolbox/PythonPDDL/pull/108) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-4. 🎉 Merged PR [#109](https://github.com/APLA-Toolbox/PythonPDDL/pull/109) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-5. 🎉 Merged PR [#110](https://github.com/APLA-Toolbox/PythonPDDL/pull/110) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+1. 💪 Opened PR [#3](https://github.com/cmrobotics/result/pull/3) in [cmrobotics/result](https://github.com/cmrobotics/result)
+2. 🎉 Merged PR [#113](https://github.com/APLA-Toolbox/PythonPDDL/pull/113) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+3. 🎉 Merged PR [#112](https://github.com/APLA-Toolbox/PythonPDDL/pull/112) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+4. 🎉 Merged PR [#108](https://github.com/APLA-Toolbox/PythonPDDL/pull/108) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+5. 🎉 Merged PR [#109](https://github.com/APLA-Toolbox/PythonPDDL/pull/109) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
