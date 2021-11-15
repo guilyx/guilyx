@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#48](https://github.com/APLA-Toolbox/pymapf/issues/48) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-2. 🎉 Merged PR [#51](https://github.com/APLA-Toolbox/pymapf/pull/51) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-3. 🎉 Merged PR [#52](https://github.com/APLA-Toolbox/pymapf/pull/52) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-4. 🎉 Merged PR [#53](https://github.com/APLA-Toolbox/pymapf/pull/53) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-5. 💪 Opened PR [#5](https://github.com/cmrobotics/navigation2/pull/5) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+1. 🎉 Merged PR [#5](https://github.com/cmrobotics/navigation2/pull/5) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+2. ❗️ Closed issue [#48](https://github.com/APLA-Toolbox/pymapf/issues/48) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+3. 🎉 Merged PR [#51](https://github.com/APLA-Toolbox/pymapf/pull/51) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+4. 🎉 Merged PR [#52](https://github.com/APLA-Toolbox/pymapf/pull/52) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+5. 🎉 Merged PR [#53](https://github.com/APLA-Toolbox/pymapf/pull/53) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
