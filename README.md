@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/APLA-Toolbox/pymapf/pull/54) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-2. 💪 Opened PR [#4](https://github.com/cmrobotics/sick_safetyscanners2/pull/4) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
-3. 💪 Opened PR [#6](https://github.com/cmrobotics/navigation2/pull/6) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
-4. 🎉 Merged PR [#5](https://github.com/cmrobotics/navigation2/pull/5) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
-5. ❗️ Closed issue [#48](https://github.com/APLA-Toolbox/pymapf/issues/48) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+1. 🎉 Merged PR [#6](https://github.com/cmrobotics/navigation2/pull/6) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+2. 🎉 Merged PR [#4](https://github.com/cmrobotics/sick_safetyscanners2/pull/4) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
+3. 🎉 Merged PR [#54](https://github.com/APLA-Toolbox/pymapf/pull/54) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+4. 💪 Opened PR [#4](https://github.com/cmrobotics/sick_safetyscanners2/pull/4) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
+5. 💪 Opened PR [#6](https://github.com/cmrobotics/navigation2/pull/6) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
