@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/cmrobotics/navigation2/pull/7) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
-2. 🎉 Merged PR [#6](https://github.com/cmrobotics/navigation2/pull/6) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
-3. 🎉 Merged PR [#4](https://github.com/cmrobotics/sick_safetyscanners2/pull/4) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
-4. 🎉 Merged PR [#54](https://github.com/APLA-Toolbox/pymapf/pull/54) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
-5. 💪 Opened PR [#4](https://github.com/cmrobotics/sick_safetyscanners2/pull/4) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
+1. 🎉 Merged PR [#115](https://github.com/APLA-Toolbox/PythonPDDL/pull/115) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+2. 🎉 Merged PR [#116](https://github.com/APLA-Toolbox/PythonPDDL/pull/116) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+3. 🎉 Merged PR [#7](https://github.com/cmrobotics/navigation2/pull/7) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+4. 💪 Opened PR [#7](https://github.com/cmrobotics/navigation2/pull/7) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+5. 🎉 Merged PR [#6](https://github.com/cmrobotics/navigation2/pull/6) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
