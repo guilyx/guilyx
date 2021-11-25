@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#115](https://github.com/APLA-Toolbox/PythonPDDL/pull/115) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-2. 🎉 Merged PR [#116](https://github.com/APLA-Toolbox/PythonPDDL/pull/116) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-3. 🎉 Merged PR [#7](https://github.com/cmrobotics/navigation2/pull/7) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
-4. 💪 Opened PR [#7](https://github.com/cmrobotics/navigation2/pull/7) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
-5. 🎉 Merged PR [#6](https://github.com/cmrobotics/navigation2/pull/6) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+1. 💪 Opened PR [#8](https://github.com/cmrobotics/navigation2/pull/8) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+2. ❌ Closed PR [#2708](https://github.com/ros-planning/navigation2/pull/2708) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
+3. 💪 Opened PR [#2708](https://github.com/ros-planning/navigation2/pull/2708) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
+4. 🎉 Merged PR [#115](https://github.com/APLA-Toolbox/PythonPDDL/pull/115) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+5. 🎉 Merged PR [#116](https://github.com/APLA-Toolbox/PythonPDDL/pull/116) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
