@@ -70,6 +70,8 @@ note: thanks to both of them!
 5. 🎉 Merged PR [#8](https://github.com/cmrobotics/navigation2/pull/8) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
 <!--END_SECTION:activity-->
 
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--START_SECTION:waka-->
 
 **I'm a Night 🦉** 
@@ -112,3 +114,6 @@ Markdown                 16 mins             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
