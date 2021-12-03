@@ -63,11 +63,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/guilyx/guilyx/pull/10) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-2. 🎉 Merged PR [#11](https://github.com/guilyx/guilyx/pull/11) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-3. 🎉 Merged PR [#9](https://github.com/guilyx/guilyx/pull/9) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-4. 🎉 Merged PR [#8](https://github.com/guilyx/guilyx/pull/8) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-5. 🎉 Merged PR [#8](https://github.com/cmrobotics/navigation2/pull/8) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+1. 🗣 Commented on [#325](https://github.com/rst-tu-dortmund/teb_local_planner/issues/325) in [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner)
+2. 🗣 Commented on [#326](https://github.com/rst-tu-dortmund/teb_local_planner/issues/326) in [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner)
+3. 🎉 Merged PR [#10](https://github.com/guilyx/guilyx/pull/10) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+4. 🎉 Merged PR [#11](https://github.com/guilyx/guilyx/pull/11) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+5. 🎉 Merged PR [#9](https://github.com/guilyx/guilyx/pull/9) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
