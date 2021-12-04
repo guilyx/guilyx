@@ -15,7 +15,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: guilyx # optional, it will automatically use the username of the owner of the repository who's executing the workflow.
           SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
+          SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
