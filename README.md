@@ -63,11 +63,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#715](https://github.com/ros-perception/image_pipeline/pull/715) in [ros-perception/image_pipeline](https://github.com/ros-perception/image_pipeline)
-2. 💪 Opened PR [#68](https://github.com/ros2/message_filters/pull/68) in [ros2/message_filters](https://github.com/ros2/message_filters)
-3. 🗣 Commented on [#427](https://github.com/ros2/geometry2/issues/427) in [ros2/geometry2](https://github.com/ros2/geometry2)
-4. ❗️ Opened issue [#334](https://github.com/rst-tu-dortmund/teb_local_planner/issues/334) in [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner)
-5. 🗣 Commented on [#325](https://github.com/rst-tu-dortmund/teb_local_planner/issues/325) in [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner)
+1. 🗣 Commented on [#715](https://github.com/ros-perception/image_pipeline/issues/715) in [ros-perception/image_pipeline](https://github.com/ros-perception/image_pipeline)
+2. 💪 Opened PR [#715](https://github.com/ros-perception/image_pipeline/pull/715) in [ros-perception/image_pipeline](https://github.com/ros-perception/image_pipeline)
+3. 💪 Opened PR [#68](https://github.com/ros2/message_filters/pull/68) in [ros2/message_filters](https://github.com/ros2/message_filters)
+4. 🗣 Commented on [#427](https://github.com/ros2/geometry2/issues/427) in [ros2/geometry2](https://github.com/ros2/geometry2)
+5. ❗️ Opened issue [#334](https://github.com/rst-tu-dortmund/teb_local_planner/issues/334) in [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
