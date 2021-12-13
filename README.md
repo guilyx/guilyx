@@ -39,14 +39,6 @@ relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-
-<p align="center">
-  <a href="https://guilyx.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://guilyx.vercel.app/api/now-playing">
-  </a>
-</p>
-
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
