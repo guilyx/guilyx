@@ -22,12 +22,12 @@
 name: Erwin Lejeune
 located_in: Odense, Denmark
 from: Nantes (France)
+job: Navigation and Control Engineer
 education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-job: Robotics Software Engineer
 company: Coalescent Mobile Robotics
 
-technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
-                      "Object Detection", "Sensor Fusion", "SLAM"]
+technical_interests: ["Local Planners", "Path Following", "Obstacle Avoidance", 
+                      "Object Detection", "Precision Approach Controllers", "SLAM"]
 currently_learning: ["Behaviour Trees", "PetriNets"]
 hobbies: ["Basketball", "Cinema", "Rapsberry Pi Dumb Projects",
           "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
