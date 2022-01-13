@@ -61,11 +61,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#485](https://github.com/ros2/geometry2/issues/485) in [ros2/geometry2](https://github.com/ros2/geometry2)
-2. ❗️ Opened issue [#32](https://github.com/kittinan/spotify-github-profile/issues/32) in [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
-3. 🎉 Merged PR [#1](https://github.com/cmrobotics/voxblox/pull/1) in [cmrobotics/voxblox](https://github.com/cmrobotics/voxblox)
-4. 🗣 Commented on [#13](https://github.com/SICKAG/sick_safetyscanners2/issues/13) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
-5. 💪 Opened PR [#10](https://github.com/famez/J1939-Framework/pull/10) in [famez/J1939-Framework](https://github.com/famez/J1939-Framework)
+1. 🗣 Commented on [#2626](https://github.com/ros-planning/navigation2/issues/2626) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
+2. 🗣 Commented on [#485](https://github.com/ros2/geometry2/issues/485) in [ros2/geometry2](https://github.com/ros2/geometry2)
+3. ❗️ Opened issue [#32](https://github.com/kittinan/spotify-github-profile/issues/32) in [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
+4. 🎉 Merged PR [#1](https://github.com/cmrobotics/voxblox/pull/1) in [cmrobotics/voxblox](https://github.com/cmrobotics/voxblox)
+5. 🗣 Commented on [#13](https://github.com/SICKAG/sick_safetyscanners2/issues/13) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
