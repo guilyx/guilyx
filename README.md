@@ -61,11 +61,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2626](https://github.com/ros-planning/navigation2/issues/2626) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
-2. 🗣 Commented on [#485](https://github.com/ros2/geometry2/issues/485) in [ros2/geometry2](https://github.com/ros2/geometry2)
-3. ❗️ Opened issue [#32](https://github.com/kittinan/spotify-github-profile/issues/32) in [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile)
-4. 🎉 Merged PR [#1](https://github.com/cmrobotics/voxblox/pull/1) in [cmrobotics/voxblox](https://github.com/cmrobotics/voxblox)
-5. 🗣 Commented on [#13](https://github.com/SICKAG/sick_safetyscanners2/issues/13) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
+1. 🎉 Merged PR [#3](https://github.com/cmrobotics/teb_local_planner/pull/3) in [cmrobotics/teb_local_planner](https://github.com/cmrobotics/teb_local_planner)
+2. 💪 Opened PR [#3](https://github.com/cmrobotics/teb_local_planner/pull/3) in [cmrobotics/teb_local_planner](https://github.com/cmrobotics/teb_local_planner)
+3. 💪 Opened PR [#350](https://github.com/rst-tu-dortmund/teb_local_planner/pull/350) in [rst-tu-dortmund/teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner)
+4. 🗣 Commented on [#2626](https://github.com/ros-planning/navigation2/issues/2626) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
+5. 🗣 Commented on [#485](https://github.com/ros2/geometry2/issues/485) in [ros2/geometry2](https://github.com/ros2/geometry2)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
