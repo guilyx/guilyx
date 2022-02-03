@@ -26,13 +26,10 @@ job: Navigation and Control Engineer
 education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
 company: Coalescent Mobile Robotics
 
-technical_interests: ["Local Planners", "Path Following", "Obstacle Avoidance", 
-                      "Object Detection", "Precision Approach Controllers", "SLAM"]
-currently_learning: ["Behaviour Trees", "PetriNets"]
-hobbies: ["Basketball", "Cinema", "Rapsberry Pi Dumb Projects",
-          "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
-
-relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", "Localization", "Sensor Fusion", "Embedded Systems"]
+technical_background: ["Graph Theory", "Optimization", "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
+currently_learning: ["microROS"]
+hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
 <p align="center">
