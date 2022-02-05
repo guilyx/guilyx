@@ -58,11 +58,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/guilyx/awesome-free-robotics-courses/pull/3) in [guilyx/awesome-free-robotics-courses](https://github.com/guilyx/awesome-free-robotics-courses)
-2. 💪 Opened PR [#3](https://github.com/guilyx/awesome-free-robotics-courses/pull/3) in [guilyx/awesome-free-robotics-courses](https://github.com/guilyx/awesome-free-robotics-courses)
-3. 🗣 Commented on [#448](https://github.com/micro-ROS/micro_ros_setup/issues/448) in [micro-ROS/micro_ros_setup](https://github.com/micro-ROS/micro_ros_setup)
-4. 🎉 Merged PR [#2](https://github.com/guilyx/awesome-free-robotics-courses/pull/2) in [guilyx/awesome-free-robotics-courses](https://github.com/guilyx/awesome-free-robotics-courses)
-5. 💪 Opened PR [#2](https://github.com/guilyx/awesome-free-robotics-courses/pull/2) in [guilyx/awesome-free-robotics-courses](https://github.com/guilyx/awesome-free-robotics-courses)
+1. 🎉 Merged PR [#4](https://github.com/guilyx/awesome-free-robotics-courses/pull/4) in [guilyx/awesome-free-robotics-courses](https://github.com/guilyx/awesome-free-robotics-courses)
+2. 💪 Opened PR [#4](https://github.com/guilyx/awesome-free-robotics-courses/pull/4) in [guilyx/awesome-free-robotics-courses](https://github.com/guilyx/awesome-free-robotics-courses)
+3. 🎉 Merged PR [#3](https://github.com/guilyx/awesome-free-robotics-courses/pull/3) in [guilyx/awesome-free-robotics-courses](https://github.com/guilyx/awesome-free-robotics-courses)
+4. 💪 Opened PR [#3](https://github.com/guilyx/awesome-free-robotics-courses/pull/3) in [guilyx/awesome-free-robotics-courses](https://github.com/guilyx/awesome-free-robotics-courses)
+5. 🗣 Commented on [#448](https://github.com/micro-ROS/micro_ros_setup/issues/448) in [micro-ROS/micro_ros_setup](https://github.com/micro-ROS/micro_ros_setup)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
