@@ -19,17 +19,17 @@
 </p>
 
 ```yaml
-name: Erwin Lejeune
-located_in: Odense, Denmark
-from: Nantes (France)
-job: Navigation and Control Engineer
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Coalescent Mobile Robotics
+name: Bauyrzhan Zhakanov
+located_in: Genoa, Italy
+from: Balkhash (Kazakhstan)
+job: Robotics and Vision Engineer
+education: ["MSc in Robotics", "Bachelor's in Mechatronics"]
+# company: Coalescent Mobile Robotics
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Graph Theory", "Optimization", "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["microROS"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+fields_of_interests: ["Machine Learning", "Artificial Intelligence", "Image Processing", "Computer Vision"]
+technical_background: ["Python", "C/C++", "Java", "MATLAB", "ROS/ROS2, "Unity"]
+currently_learning: ["Mobile Robots", "Software Architecture", "Human-Computer Interaction"]
+hobbies: ["Basketball", "Cinema", "IoT", "Economics"]
 ```
 
 <p align="center">
@@ -55,7 +55,7 @@ note: thanks to both of them!
 ```
 
 
-**:zap: Recent Activity:**
+<!-- **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#485](https://github.com/ros2/geometry2/issues/485) in [ros2/geometry2](https://github.com/ros2/geometry2)
@@ -90,7 +90,7 @@ Friday       82 commits     ████░░░░░░░░░░░░░�
 Saturday     34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
 Sunday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
 
-```
+``` -->
 
 
 📊 **This Week I Spent My Time On** 
@@ -115,7 +115,7 @@ cmr_stm3_msgs            5 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/02/2022 17:02:47 UTC
+ <!-- Last Updated on 25/02/2022 17:02:47 UTC -->
 <!--END_SECTION:waka-->
 
 <p align="center">
