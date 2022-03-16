@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2848](https://github.com/ros-planning/navigation2/pull/2848) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
-2. ❗️ Opened issue [#2847](https://github.com/ros-planning/navigation2/issues/2847) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
-3. 🗣 Commented on [#295](https://github.com/micro-ROS/micro_ros_setup/issues/295) in [micro-ROS/micro_ros_setup](https://github.com/micro-ROS/micro_ros_setup)
-4. 🎉 Merged PR [#120](https://github.com/APLA-Toolbox/PythonPDDL/pull/120) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-5. 🎉 Merged PR [#117](https://github.com/APLA-Toolbox/PythonPDDL/pull/117) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+1. 🗣 Commented on [#2847](https://github.com/ros-planning/navigation2/issues/2847) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
+2. 💪 Opened PR [#2848](https://github.com/ros-planning/navigation2/pull/2848) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
+3. ❗️ Opened issue [#2847](https://github.com/ros-planning/navigation2/issues/2847) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
+4. 🗣 Commented on [#295](https://github.com/micro-ROS/micro_ros_setup/issues/295) in [micro-ROS/micro_ros_setup](https://github.com/micro-ROS/micro_ros_setup)
+5. 🎉 Merged PR [#120](https://github.com/APLA-Toolbox/PythonPDDL/pull/120) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
