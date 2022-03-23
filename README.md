@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/guilyx/guilyx/pull/18) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-2. 🎉 Merged PR [#13](https://github.com/guilyx/guilyx/pull/13) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-3. 🎉 Merged PR [#14](https://github.com/guilyx/guilyx/pull/14) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-4. 🎉 Merged PR [#17](https://github.com/guilyx/guilyx/pull/17) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-5. 💪 Opened PR [#5](https://github.com/cmrobotics/sick_safetyscanners2/pull/5) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
+1. 💪 Opened PR [#1](https://github.com/cmrobotics/.github/pull/1) in [cmrobotics/.github](https://github.com/cmrobotics/.github)
+2. 🎉 Merged PR [#18](https://github.com/guilyx/guilyx/pull/18) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+3. 🎉 Merged PR [#13](https://github.com/guilyx/guilyx/pull/13) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+4. 🎉 Merged PR [#14](https://github.com/guilyx/guilyx/pull/14) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+5. 🎉 Merged PR [#17](https://github.com/guilyx/guilyx/pull/17) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
