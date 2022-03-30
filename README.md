@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/APLA-Toolbox/PythonPDDL/pull/118) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-2. 🗣 Commented on [#4](https://github.com/cmrobotics/rosdistro/issues/4) in [cmrobotics/rosdistro](https://github.com/cmrobotics/rosdistro)
-3. 💪 Opened PR [#9](https://github.com/cmrobotics/navigation2/pull/9) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
-4. 💪 Opened PR [#2](https://github.com/cmrobotics/.github/pull/2) in [cmrobotics/.github](https://github.com/cmrobotics/.github)
-5. 🎉 Merged PR [#1](https://github.com/cmrobotics/.github/pull/1) in [cmrobotics/.github](https://github.com/cmrobotics/.github)
+1. 🎉 Merged PR [#9](https://github.com/cmrobotics/navigation2/pull/9) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+2. 🎉 Merged PR [#118](https://github.com/APLA-Toolbox/PythonPDDL/pull/118) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+3. 🗣 Commented on [#4](https://github.com/cmrobotics/rosdistro/issues/4) in [cmrobotics/rosdistro](https://github.com/cmrobotics/rosdistro)
+4. 💪 Opened PR [#9](https://github.com/cmrobotics/navigation2/pull/9) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+5. 💪 Opened PR [#2](https://github.com/cmrobotics/.github/pull/2) in [cmrobotics/.github](https://github.com/cmrobotics/.github)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
