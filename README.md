@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/cmrobotics/cmr_tests_utils/pull/2) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-2. 💪 Opened PR [#2](https://github.com/cmrobotics/cmr_tests_utils/pull/2) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-3. 🗣 Commented on [#10](https://github.com/cmrobotics/navigation2/issues/10) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
-4. 🎉 Merged PR [#2](https://github.com/cmrobotics/.github/pull/2) in [cmrobotics/.github](https://github.com/cmrobotics/.github)
-5. 🎉 Merged PR [#9](https://github.com/cmrobotics/navigation2/pull/9) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+1. 🗣 Commented on [#291](https://github.com/ros-planning/navigation.ros.org/issues/291) in [ros-planning/navigation.ros.org](https://github.com/ros-planning/navigation.ros.org)
+2. 🎉 Merged PR [#2](https://github.com/cmrobotics/cmr_tests_utils/pull/2) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+3. 💪 Opened PR [#2](https://github.com/cmrobotics/cmr_tests_utils/pull/2) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+4. 🗣 Commented on [#10](https://github.com/cmrobotics/navigation2/issues/10) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+5. 🎉 Merged PR [#2](https://github.com/cmrobotics/.github/pull/2) in [cmrobotics/.github](https://github.com/cmrobotics/.github)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
