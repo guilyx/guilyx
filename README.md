@@ -70,6 +70,8 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-292%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -101,17 +103,16 @@ Sunday       50 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   1 min               ███████████████████░░░░░░   76.67% 
-Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   23.33%
+Python                   1 min               ████████████████████████░   97.01% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99%
 
 🐱‍💻 Projects: 
-minimum_jerk_trajectory_p1 min               ███████████████████░░░░░░   79.03% 
-Unknown Project          0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.97%
+minimum_jerk_trajectory_p1 min               █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/05/2022 17:08:45 UTC
+ Last Updated on 07/05/2022 17:05:13 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
