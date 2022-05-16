@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/cmrobotics/yolact_ros_msgs/pull/1) in [cmrobotics/yolact_ros_msgs](https://github.com/cmrobotics/yolact_ros_msgs)
-2. ❌ Closed PR [#1](https://github.com/cmrobotics/DF-VO/pull/1) in [cmrobotics/DF-VO](https://github.com/cmrobotics/DF-VO)
-3. 🗣 Commented on [#3](https://github.com/cmrobotics/cmr_tests_utils/issues/3) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-4. 💪 Opened PR [#3](https://github.com/cmrobotics/cmr_tests_utils/pull/3) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-5. ❌ Closed PR [#522](https://github.com/ros2/geometry2/pull/522) in [ros2/geometry2](https://github.com/ros2/geometry2)
+1. 💪 Opened PR [#4](https://github.com/cmrobotics/cmr_tests_utils/pull/4) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+2. 🎉 Merged PR [#3](https://github.com/cmrobotics/cmr_tests_utils/pull/3) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+3. ❌ Closed PR [#1](https://github.com/cmrobotics/yolact_ros_msgs/pull/1) in [cmrobotics/yolact_ros_msgs](https://github.com/cmrobotics/yolact_ros_msgs)
+4. ❌ Closed PR [#1](https://github.com/cmrobotics/DF-VO/pull/1) in [cmrobotics/DF-VO](https://github.com/cmrobotics/DF-VO)
+5. 🗣 Commented on [#3](https://github.com/cmrobotics/cmr_tests_utils/issues/3) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
