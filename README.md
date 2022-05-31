@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/cmrobotics/cmr_tests_utils/issues/5) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-2. 🗣 Commented on [#5](https://github.com/cmrobotics/cmr_tests_utils/issues/5) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-3. 💪 Opened PR [#5](https://github.com/cmrobotics/cmr_tests_utils/pull/5) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-4. ❌ Closed PR [#4](https://github.com/cmrobotics/cmr_tests_utils/pull/4) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-5. 🗣 Commented on [#4](https://github.com/cmrobotics/cmr_tests_utils/issues/4) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+1. 🗣 Commented on [#18](https://github.com/SICKAG/sick_safetyscanners2/issues/18) in [SICKAG/sick_safetyscanners2](https://github.com/SICKAG/sick_safetyscanners2)
+2. ❌ Closed PR [#5](https://github.com/cmrobotics/sick_safetyscanners2/pull/5) in [cmrobotics/sick_safetyscanners2](https://github.com/cmrobotics/sick_safetyscanners2)
+3. 🗣 Commented on [#5](https://github.com/cmrobotics/cmr_tests_utils/issues/5) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+4. 🗣 Commented on [#5](https://github.com/cmrobotics/cmr_tests_utils/issues/5) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+5. 💪 Opened PR [#5](https://github.com/cmrobotics/cmr_tests_utils/pull/5) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
