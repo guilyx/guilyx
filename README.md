@@ -103,15 +103,15 @@ Sunday       51 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/06/2022 17:09:44 UTC
+ Last Updated on 07/06/2022 17:07:47 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
