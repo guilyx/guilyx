@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/cmrobotics/cmr_tests_utils/pull/8) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-2. 🎉 Merged PR [#9](https://github.com/cmrobotics/cmr_tests_utils/pull/9) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-3. 🎉 Merged PR [#2](https://github.com/cmrobotics/cmr_clients_utils/pull/2) in [cmrobotics/cmr_clients_utils](https://github.com/cmrobotics/cmr_clients_utils)
-4. 🎉 Merged PR [#1](https://github.com/cmrobotics/cmr_clients_utils/pull/1) in [cmrobotics/cmr_clients_utils](https://github.com/cmrobotics/cmr_clients_utils)
-5. 💪 Opened PR [#8](https://github.com/cmrobotics/cmr_tests_utils/pull/8) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+1. 💪 Opened PR [#1](https://github.com/guilyx/quaternion-conventions/pull/1) in [guilyx/quaternion-conventions](https://github.com/guilyx/quaternion-conventions)
+2. 🎉 Merged PR [#8](https://github.com/cmrobotics/cmr_tests_utils/pull/8) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+3. 🎉 Merged PR [#9](https://github.com/cmrobotics/cmr_tests_utils/pull/9) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+4. 🎉 Merged PR [#2](https://github.com/cmrobotics/cmr_clients_utils/pull/2) in [cmrobotics/cmr_clients_utils](https://github.com/cmrobotics/cmr_clients_utils)
+5. 🎉 Merged PR [#1](https://github.com/cmrobotics/cmr_clients_utils/pull/1) in [cmrobotics/cmr_clients_utils](https://github.com/cmrobotics/cmr_clients_utils)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
