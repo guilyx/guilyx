@@ -103,15 +103,17 @@ Sunday       53 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      20 mins             ███████████████████░░░░░░   76.03% 
+Other                    6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.97%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+docking_controller       20 mins             ███████████████████░░░░░░   76.03% 
+workspace                6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.97%
 
 ```
 
 
- Last Updated on 08/07/2022 17:13:58 UTC
+ Last Updated on 09/07/2022 17:01:29 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
