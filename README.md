@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/cmrobotics/cmr_geometry_utils/pull/3) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
-2. 💪 Opened PR [#1](https://github.com/clemense/quaternion-conventions/pull/1) in [clemense/quaternion-conventions](https://github.com/clemense/quaternion-conventions)
-3. ❌ Closed PR [#1](https://github.com/guilyx/quaternion-conventions/pull/1) in [guilyx/quaternion-conventions](https://github.com/guilyx/quaternion-conventions)
-4. 💪 Opened PR [#1](https://github.com/guilyx/quaternion-conventions/pull/1) in [guilyx/quaternion-conventions](https://github.com/guilyx/quaternion-conventions)
-5. 🎉 Merged PR [#8](https://github.com/cmrobotics/cmr_tests_utils/pull/8) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+1. 🎉 Merged PR [#3](https://github.com/cmrobotics/cmr_geometry_utils/pull/3) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
+2. 💪 Opened PR [#3](https://github.com/cmrobotics/cmr_geometry_utils/pull/3) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
+3. 💪 Opened PR [#1](https://github.com/clemense/quaternion-conventions/pull/1) in [clemense/quaternion-conventions](https://github.com/clemense/quaternion-conventions)
+4. ❌ Closed PR [#1](https://github.com/guilyx/quaternion-conventions/pull/1) in [guilyx/quaternion-conventions](https://github.com/guilyx/quaternion-conventions)
+5. 💪 Opened PR [#1](https://github.com/guilyx/quaternion-conventions/pull/1) in [guilyx/quaternion-conventions](https://github.com/guilyx/quaternion-conventions)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
