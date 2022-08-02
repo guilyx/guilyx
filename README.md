@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/2) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-2. ❗️ Opened issue [#1](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/1) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-3. 🗣 Commented on [#4](https://github.com/cmrobotics/cmr_geometry_utils/issues/4) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
-4. 🗣 Commented on [#4](https://github.com/cmrobotics/cmr_geometry_utils/issues/4) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
-5. 🎉 Merged PR [#3](https://github.com/cmrobotics/cmr_geometry_utils/pull/3) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
+1. 🗣 Commented on [#5](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/5) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+2. ❗️ Opened issue [#5](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/5) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+3. ❗️ Opened issue [#4](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/4) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+4. ❗️ Opened issue [#3](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/3) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+5. ❗️ Opened issue [#2](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/2) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
