@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/7) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-2. 💪 Opened PR [#7](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/7) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-3. 🎉 Merged PR [#5](https://github.com/cmrobotics/cmr_geometry_utils/pull/5) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
-4. ❗️ Closed issue [#2](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/2) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-5. ❗️ Closed issue [#1](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/1) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+1. 🎉 Merged PR [#4](https://github.com/cmrobotics/teb_local_planner/pull/4) in [cmrobotics/teb_local_planner](https://github.com/cmrobotics/teb_local_planner)
+2. 🎉 Merged PR [#7](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/7) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+3. 💪 Opened PR [#7](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/7) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+4. 🎉 Merged PR [#5](https://github.com/cmrobotics/cmr_geometry_utils/pull/5) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
+5. ❗️ Closed issue [#2](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/2) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
