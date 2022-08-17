@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/cmrobotics/cmr_tests_utils/pull/10) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-2. 🎉 Merged PR [#4](https://github.com/cmrobotics/teb_local_planner/pull/4) in [cmrobotics/teb_local_planner](https://github.com/cmrobotics/teb_local_planner)
-3. 🎉 Merged PR [#7](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/7) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-4. 💪 Opened PR [#7](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/7) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-5. 🎉 Merged PR [#5](https://github.com/cmrobotics/cmr_geometry_utils/pull/5) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
+1. 🎉 Merged PR [#1](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/1) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+2. 💪 Opened PR [#10](https://github.com/cmrobotics/cmr_tests_utils/pull/10) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+3. 🎉 Merged PR [#4](https://github.com/cmrobotics/teb_local_planner/pull/4) in [cmrobotics/teb_local_planner](https://github.com/cmrobotics/teb_local_planner)
+4. 🎉 Merged PR [#7](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/7) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+5. 💪 Opened PR [#7](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/7) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
