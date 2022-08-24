@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/cmrobotics/cmr_tests_utils/pull/11) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-2. 🎉 Merged PR [#10](https://github.com/cmrobotics/cmr_tests_utils/pull/10) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-3. 💪 Opened PR [#11](https://github.com/cmrobotics/cmr_tests_utils/pull/11) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-4. 🎉 Merged PR [#1](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/1) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-5. 💪 Opened PR [#10](https://github.com/cmrobotics/cmr_tests_utils/pull/10) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
+1. ❗️ Opened issue [#2](https://github.com/guilyx/rviz_plugin_example/issues/2) in [guilyx/rviz_plugin_example](https://github.com/guilyx/rviz_plugin_example)
+2. ❗️ Opened issue [#1](https://github.com/guilyx/rviz_plugin_example/issues/1) in [guilyx/rviz_plugin_example](https://github.com/guilyx/rviz_plugin_example)
+3. ❗️ Opened issue [#7](https://github.com/guilyx/rclpy_utils/issues/7) in [guilyx/rclpy_utils](https://github.com/guilyx/rclpy_utils)
+4. ❗️ Opened issue [#8](https://github.com/guilyx/rclcpp_utils/issues/8) in [guilyx/rclcpp_utils](https://github.com/guilyx/rclcpp_utils)
+5. ❗️ Opened issue [#5](https://github.com/guilyx/versatile_controller/issues/5) in [guilyx/versatile_controller](https://github.com/guilyx/versatile_controller)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
