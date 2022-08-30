@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/cmrobotics/cmr_clients_utils/pull/3) in [cmrobotics/cmr_clients_utils](https://github.com/cmrobotics/cmr_clients_utils)
-2. ❗️ Opened issue [#2](https://github.com/guilyx/rviz_plugin_example/issues/2) in [guilyx/rviz_plugin_example](https://github.com/guilyx/rviz_plugin_example)
-3. ❗️ Opened issue [#1](https://github.com/guilyx/rviz_plugin_example/issues/1) in [guilyx/rviz_plugin_example](https://github.com/guilyx/rviz_plugin_example)
-4. ❗️ Opened issue [#7](https://github.com/guilyx/rclpy_utils/issues/7) in [guilyx/rclpy_utils](https://github.com/guilyx/rclpy_utils)
-5. ❗️ Opened issue [#8](https://github.com/guilyx/rclcpp_utils/issues/8) in [guilyx/rclcpp_utils](https://github.com/guilyx/rclcpp_utils)
+1. 💪 Opened PR [#18](https://github.com/cmrobotics/navigation2/pull/18) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
+2. 🎉 Merged PR [#3](https://github.com/cmrobotics/cmr_clients_utils/pull/3) in [cmrobotics/cmr_clients_utils](https://github.com/cmrobotics/cmr_clients_utils)
+3. ❗️ Opened issue [#2](https://github.com/guilyx/rviz_plugin_example/issues/2) in [guilyx/rviz_plugin_example](https://github.com/guilyx/rviz_plugin_example)
+4. ❗️ Opened issue [#1](https://github.com/guilyx/rviz_plugin_example/issues/1) in [guilyx/rviz_plugin_example](https://github.com/guilyx/rviz_plugin_example)
+5. ❗️ Opened issue [#7](https://github.com/guilyx/rclpy_utils/issues/7) in [guilyx/rclpy_utils](https://github.com/guilyx/rclpy_utils)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
