@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/cmrobotics/cmr_geometry_utils/pull/7) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
-2. 🗣 Commented on [#12](https://github.com/cmrobotics/cmr_tests_utils/issues/12) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-3. 🎉 Merged PR [#2](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/2) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-4. 💪 Opened PR [#18](https://github.com/cmrobotics/navigation2/pull/18) in [cmrobotics/navigation2](https://github.com/cmrobotics/navigation2)
-5. 🎉 Merged PR [#3](https://github.com/cmrobotics/cmr_clients_utils/pull/3) in [cmrobotics/cmr_clients_utils](https://github.com/cmrobotics/cmr_clients_utils)
+1. 🎉 Merged PR [#3](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/3) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+2. 🗣 Commented on [#3](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/3) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+3. 🎉 Merged PR [#6](https://github.com/cmrobotics/cmr_geometry_utils/pull/6) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
+4. 🎉 Merged PR [#7](https://github.com/cmrobotics/cmr_geometry_utils/pull/7) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
+5. 💪 Opened PR [#7](https://github.com/cmrobotics/cmr_geometry_utils/pull/7) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
