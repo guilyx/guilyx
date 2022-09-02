@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/guilyx/odom_tracker/issues/1) in [guilyx/odom_tracker](https://github.com/guilyx/odom_tracker)
-2. 🗣 Commented on [#6](https://github.com/guilyx/versatile_controller/issues/6) in [guilyx/versatile_controller](https://github.com/guilyx/versatile_controller)
-3. ❗️ Opened issue [#7](https://github.com/guilyx/versatile_controller/issues/7) in [guilyx/versatile_controller](https://github.com/guilyx/versatile_controller)
-4. ❗️ Opened issue [#6](https://github.com/guilyx/versatile_controller/issues/6) in [guilyx/versatile_controller](https://github.com/guilyx/versatile_controller)
-5. 🎉 Merged PR [#3](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/3) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+1. 🎉 Merged PR [#4](https://github.com/guilyx/pandemic-dataviz/pull/4) in [guilyx/pandemic-dataviz](https://github.com/guilyx/pandemic-dataviz)
+2. 🎉 Merged PR [#6](https://github.com/guilyx/airplane-booking/pull/6) in [guilyx/airplane-booking](https://github.com/guilyx/airplane-booking)
+3. 🗣 Commented on [#22](https://github.com/guilyx/guilyx/issues/22) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+4. 🗣 Commented on [#20](https://github.com/guilyx/guilyx/issues/20) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+5. 🗣 Commented on [#20](https://github.com/guilyx/guilyx/issues/20) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
