@@ -60,11 +60,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/3) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-2. 🗣 Commented on [#3](https://github.com/cmrobotics/minimum_jerk_relative_move/issues/3) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-3. 🎉 Merged PR [#6](https://github.com/cmrobotics/cmr_geometry_utils/pull/6) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
-4. 🎉 Merged PR [#7](https://github.com/cmrobotics/cmr_geometry_utils/pull/7) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
-5. 💪 Opened PR [#7](https://github.com/cmrobotics/cmr_geometry_utils/pull/7) in [cmrobotics/cmr_geometry_utils](https://github.com/cmrobotics/cmr_geometry_utils)
+1. ❗️ Opened issue [#1](https://github.com/guilyx/odom_tracker/issues/1) in [guilyx/odom_tracker](https://github.com/guilyx/odom_tracker)
+2. 🗣 Commented on [#6](https://github.com/guilyx/versatile_controller/issues/6) in [guilyx/versatile_controller](https://github.com/guilyx/versatile_controller)
+3. ❗️ Opened issue [#7](https://github.com/guilyx/versatile_controller/issues/7) in [guilyx/versatile_controller](https://github.com/guilyx/versatile_controller)
+4. ❗️ Opened issue [#6](https://github.com/guilyx/versatile_controller/issues/6) in [guilyx/versatile_controller](https://github.com/guilyx/versatile_controller)
+5. 🎉 Merged PR [#3](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/3) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
