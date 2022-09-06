@@ -76,12 +76,70 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293%20Thousand%20lines%20of%20code-blue)
 
+**🐱 My GitHub Data** 
 
- Last Updated on 06/09/2022 17:08:30 UTC
+> 📦 325.3 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    135 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
+🌆 Daytime    489 commits    ██████████████░░░░░░░░░░░   56.93% 
+🌃 Evening    161 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.74% 
+🌙 Night      74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       162 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
+Tuesday      172 commits    █████░░░░░░░░░░░░░░░░░░░░   20.02% 
+Wednesday    175 commits    █████░░░░░░░░░░░░░░░░░░░░   20.37% 
+Thursday     149 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
+Friday       111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
+Saturday     38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.42% 
+Sunday       52 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.05%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+C++                      3 hrs 31 mins       ███████████████████░░░░░░   77.46% 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.18% 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.19%
+
+🐱‍💻 Projects: 
+navigation2              3 hrs 27 mins       ███████████████████░░░░░░   75.95% 
+footprint_updater_server 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
+cmr_tests_utils          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+serena_bringup           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
+behaviour_trees          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
+
+```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
+
+
+ Last Updated on 06/09/2022 21:56:55 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
