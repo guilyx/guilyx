@@ -144,10 +144,6 @@ workspace                4 mins              ░░░░░░░░░░░�
  Last Updated on 12/09/2022 17:20:35 UTC
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
-
 Liked it ?
 
 *ETH: **0x482A82761710aeAf04665BB28E32Fb256B4a7bC8***
@@ -155,3 +151,7 @@ Liked it ?
 *BTC: **bc1q0c45w3jvlwclvuv9axlwq4sfu2kqy4w9xx225j***
 
 *DOT: **1Nt7G2igCuvYrfuD2Y3mCkFaU4iLS9AZytyVgZ5VBUKktjX***
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
