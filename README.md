@@ -82,7 +82,7 @@ note: thanks to both of them!
 
 **🐱 My GitHub Data** 
 
-> 🏆 921 Contributions in the Year 2022
+> 🏆 922 Contributions in the Year 2022
  > 
 > 📦 325.5 kB Used in GitHub's Storage 
  > 
@@ -121,14 +121,10 @@ Sunday       43 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-HTML                     21 mins             ███████████████░░░░░░░░░░   61.72% 
-XML                      11 mins             ████████░░░░░░░░░░░░░░░░░   32.24% 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.04%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-elejeune.xyz             20 mins             ██████████████░░░░░░░░░░░   58.42% 
-guilyx.github.io         11 mins             ████████░░░░░░░░░░░░░░░░░   32.24% 
-anniew.xyz               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.34%
+No Activity Tracked This Week
 
 ```
 
@@ -137,7 +133,7 @@ anniew.xyz               3 mins              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2022 17:20:16 UTC
+ Last Updated on 21/09/2022 17:16:28 UTC
 <!--END_SECTION:waka-->
 
 Liked it ?
