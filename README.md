@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Rangobotics/.github/pull/2) in [Rangobotics/.github](https://github.com/Rangobotics/.github)
-2. 💪 Opened PR [#2](https://github.com/Rangobotics/.github/pull/2) in [Rangobotics/.github](https://github.com/Rangobotics/.github)
-3. 🎉 Merged PR [#1](https://github.com/Rangobotics/.github/pull/1) in [Rangobotics/.github](https://github.com/Rangobotics/.github)
-4. 💪 Opened PR [#1](https://github.com/Rangobotics/.github/pull/1) in [Rangobotics/.github](https://github.com/Rangobotics/.github)
-5. ❗️ Opened issue [#2](https://github.com/guilyx/basic_health_monitor/issues/2) in [guilyx/basic_health_monitor](https://github.com/guilyx/basic_health_monitor)
+1. 🎉 Merged PR [#9](https://github.com/guilyx/crypto-dca-bot/pull/9) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+2. 💪 Opened PR [#9](https://github.com/guilyx/crypto-dca-bot/pull/9) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+3. ❗️ Opened issue [#8](https://github.com/guilyx/crypto-dca-bot/issues/8) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+4. ❗️ Closed issue [#6](https://github.com/guilyx/crypto-dca-bot/issues/6) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+5. ❗️ Closed issue [#5](https://github.com/guilyx/crypto-dca-bot/issues/5) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
