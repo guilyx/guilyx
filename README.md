@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/guilyx/crypto-dca-bot/issues/2) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
-2. ❗️ Opened issue [#13](https://github.com/guilyx/crypto-dca-bot/issues/13) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
-3. ❗️ Opened issue [#12](https://github.com/guilyx/crypto-dca-bot/issues/12) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
-4. 🎉 Merged PR [#11](https://github.com/guilyx/crypto-dca-bot/pull/11) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
-5. 💪 Opened PR [#11](https://github.com/guilyx/crypto-dca-bot/pull/11) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+1. 🗣 Commented on [#1](https://github.com/guilyx/crypto-dca-bot/issues/1) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+2. 🗣 Commented on [#2](https://github.com/guilyx/crypto-dca-bot/issues/2) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+3. ❗️ Opened issue [#13](https://github.com/guilyx/crypto-dca-bot/issues/13) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+4. ❗️ Opened issue [#12](https://github.com/guilyx/crypto-dca-bot/issues/12) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+5. 🎉 Merged PR [#11](https://github.com/guilyx/crypto-dca-bot/pull/11) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
