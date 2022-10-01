@@ -76,13 +76,13 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-784%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-294%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 999 Contributions in the Year 2022
+> 🏆 1,000 Contributions in the Year 2022
  > 
 > 📦 324.2 kB Used in GitHub's Storage 
  > 
@@ -121,18 +121,18 @@ Sunday       13 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   7 hrs 17 mins       ████████████████░░░░░░░░░   64.77% 
-C++                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.36% 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99%
+Python                   8 hrs 7 mins        ████████████████░░░░░░░░░   66.05% 
+C++                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.58% 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
 
 🐱‍💻 Projects: 
-crypto-dca-bot           9 hrs 12 mins       ████████████████████░░░░░   81.85% 
-shelf_detector           41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.18% 
-locations_utils          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-docking_controller       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
-trading                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24%
+crypto-dca-bot           10 hrs 14 mins      ████████████████████░░░░░   83.29% 
+shelf_detector           41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+locations_utils          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+docking_controller       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+trading                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
 
 ```
 
@@ -141,7 +141,7 @@ trading                  15 mins             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2022 17:19:38 UTC
+ Last Updated on 01/10/2022 17:10:12 UTC
 <!--END_SECTION:waka-->
 
 Liked it ?
