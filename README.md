@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/guilyx/python-nexo/pull/17) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
-2. ❗️ Closed issue [#16](https://github.com/guilyx/python-nexo/issues/16) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
-3. ❗️ Opened issue [#16](https://github.com/guilyx/python-nexo/issues/16) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
-4. 🎉 Merged PR [#15](https://github.com/guilyx/python-nexo/pull/15) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
-5. 💪 Opened PR [#15](https://github.com/guilyx/python-nexo/pull/15) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+1. ❗️ Opened issue [#18](https://github.com/guilyx/python-nexo/issues/18) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+2. 🎉 Merged PR [#17](https://github.com/guilyx/python-nexo/pull/17) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+3. 💪 Opened PR [#17](https://github.com/guilyx/python-nexo/pull/17) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+4. ❗️ Closed issue [#16](https://github.com/guilyx/python-nexo/issues/16) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+5. ❗️ Opened issue [#16](https://github.com/guilyx/python-nexo/issues/16) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
