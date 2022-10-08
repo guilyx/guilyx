@@ -66,11 +66,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/guilyx/crypto-dca-bot/pull/16) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
-2. 🎉 Merged PR [#15](https://github.com/guilyx/crypto-dca-bot/pull/15) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
-3. 💪 Opened PR [#15](https://github.com/guilyx/crypto-dca-bot/pull/15) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
-4. 💪 Opened PR [#22](https://github.com/guilyx/python-nexo/pull/22) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
-5. 🎉 Merged PR [#14](https://github.com/guilyx/crypto-dca-bot/pull/14) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+1. 🎉 Merged PR [#22](https://github.com/guilyx/python-nexo/pull/22) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+2. 💪 Opened PR [#16](https://github.com/guilyx/crypto-dca-bot/pull/16) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+3. 🎉 Merged PR [#15](https://github.com/guilyx/crypto-dca-bot/pull/15) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+4. 💪 Opened PR [#15](https://github.com/guilyx/crypto-dca-bot/pull/15) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+5. 💪 Opened PR [#22](https://github.com/guilyx/python-nexo/pull/22) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
