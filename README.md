@@ -76,13 +76,13 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,168 Contributions in the Year 2022
+> 🏆 1,170 Contributions in the Year 2022
  > 
 > 📦 324.4 kB Used in GitHub's Storage 
  > 
@@ -121,18 +121,18 @@ Sunday       13 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   18 hrs 7 mins       ██████████████████░░░░░░░   74.07% 
-Markdown                 1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.07% 
-YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-C++                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
-Bash                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
+Python                   14 hrs 48 mins      ██████████████████░░░░░░░   71.9% 
+Markdown                 1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
+YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+C++                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.83% 
+Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
 
 🐱‍💻 Projects: 
-python-nexo              16 hrs 37 mins      █████████████████░░░░░░░░   67.91% 
-crypto-dca-bot           5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.71% 
-minimum_jerk_relative_mov1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-serena_bringup           54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.73% 
-nexo-api-wrapper         13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+python-nexo              12 hrs 50 mins      ███████████████░░░░░░░░░░   62.35% 
+crypto-dca-bot           5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.4% 
+minimum_jerk_relative_mov1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
+serena_bringup           54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
+shelf_detector           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
 
 ```
 
@@ -141,7 +141,7 @@ nexo-api-wrapper         13 mins             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/10/2022 17:18:58 UTC
+ Last Updated on 10/10/2022 17:22:57 UTC
 <!--END_SECTION:waka-->
 
 Liked it ?
