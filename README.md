@@ -76,13 +76,13 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,171 Contributions in the Year 2022
+> 🏆 1,172 Contributions in the Year 2022
  > 
 > 📦 324.4 kB Used in GitHub's Storage 
  > 
@@ -121,18 +121,18 @@ Sunday       13 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   9 hrs 43 mins       █████████████████░░░░░░░░   70.06% 
-Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
-C++                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
-YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
-XML                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
+Python                   7 hrs 17 mins       ████████████████░░░░░░░░░   65.0% 
+C++                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.88% 
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
+YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 🐱‍💻 Projects: 
-python-nexo              5 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   42.57% 
-crypto-dca-bot           5 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.58% 
-minimum_jerk_relative_mov1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
-serena_bringup           54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
-shelf_detector           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
+crypto-dca-bot           5 hrs 40 mins       ████████████░░░░░░░░░░░░░   50.55% 
+python-nexo              3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   27.33% 
+minimum_jerk_relative_mov1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
+serena_bringup           54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+shelf_detector           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94%
 
 ```
 
@@ -141,7 +141,7 @@ shelf_detector           13 mins             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2022 17:20:35 UTC
+ Last Updated on 12/10/2022 17:34:13 UTC
 <!--END_SECTION:waka-->
 
 Liked it ?
