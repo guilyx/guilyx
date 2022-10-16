@@ -36,7 +36,8 @@ past experiences:
 
 fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", "Localization", "Sensor Fusion", "Embedded Systems"]
 technical_background: ["Motion Planning", "Optimization", "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Aerial Robotics"]
+currently_learning: ["Social Media Bots", "Crypto Trading Bots", "Aerial Robotics"]
+will_learn: ["Web3"]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
