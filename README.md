@@ -77,13 +77,13 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,186 Contributions in the Year 2022
+> 🏆 1,187 Contributions in the Year 2022
  > 
 > 📦 324.5 kB Used in GitHub's Storage 
  > 
@@ -122,14 +122,12 @@ Sunday       16 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 55 mins       ███████████████████████░░   93.69% 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+Python                   2 hrs 39 mins       ███████████████████████░░   93.76% 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🐱‍💻 Projects: 
-crypto-dca-bot           3 hrs 6 mins        ████████████████████████░   99.36% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
-trading                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+crypto-dca-bot           2 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
@@ -138,7 +136,7 @@ trading                  0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/10/2022 17:34:40 UTC
+ Last Updated on 18/10/2022 17:26:49 UTC
 <!--END_SECTION:waka-->
 
 Liked it ?
