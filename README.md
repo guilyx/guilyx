@@ -77,13 +77,13 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,192 Contributions in the Year 2022
+> 🏆 1,193 Contributions in the Year 2022
  > 
 > 📦 324.5 kB Used in GitHub's Storage 
  > 
@@ -122,17 +122,18 @@ Sunday       16 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 15 mins       ███████████████████░░░░░░   78.61% 
-C++                      34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.16% 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+Python                   1 hr 26 mins        ███████████████░░░░░░░░░░   62.54% 
+C++                      34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.22% 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.91% 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
 
 🐱‍💻 Projects: 
-crypto-dca-bot           2 hrs 15 mins       ███████████████████░░░░░░   78.71% 
-docking_controller       36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97% 
-cmr_clients_utils        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
-behaviour_trees          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+crypto-dca-bot           1 hr 26 mins        ███████████████░░░░░░░░░░   62.66% 
+docking_controller       36 mins             ██████░░░░░░░░░░░░░░░░░░░   26.23% 
+alchemy-nft-api          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+cmr_clients_utils        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
+behaviour_trees          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 ```
 
@@ -141,7 +142,7 @@ behaviour_trees          0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/10/2022 17:20:46 UTC
+ Last Updated on 22/10/2022 17:12:05 UTC
 <!--END_SECTION:waka-->
 
 Liked it ?
