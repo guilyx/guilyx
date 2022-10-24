@@ -67,11 +67,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/guilyx/crypto-dca-bot/pull/18) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
-2. ❗️ Opened issue [#24](https://github.com/guilyx/python-nexo/issues/24) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
-3. ❗️ Closed issue [#9](https://github.com/guilyx/python-nexo/issues/9) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
-4. ❗️ Closed issue [#21](https://github.com/guilyx/python-nexo/issues/21) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
-5. 🎉 Merged PR [#23](https://github.com/guilyx/python-nexo/pull/23) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+1. 🎉 Merged PR [#5](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/5) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+2. 💪 Opened PR [#18](https://github.com/guilyx/crypto-dca-bot/pull/18) in [guilyx/crypto-dca-bot](https://github.com/guilyx/crypto-dca-bot)
+3. ❗️ Opened issue [#24](https://github.com/guilyx/python-nexo/issues/24) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+4. ❗️ Closed issue [#9](https://github.com/guilyx/python-nexo/issues/9) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+5. ❗️ Closed issue [#21](https://github.com/guilyx/python-nexo/issues/21) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
