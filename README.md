@@ -147,7 +147,7 @@ serena_description       12 mins             ██░░░░░░░░░�
 
 Liked it ?
 
-*ETH: **0x482A82761710aeAf04665BB28E32Fb256B4a7bC8***
+*ETH: **0xcC1C1E8F5fD3c832d970C8d5A62Ff9dD74259B1f***
 
 *BTC: **bc1q0c45w3jvlwclvuv9axlwq4sfu2kqy4w9xx225j***
 
