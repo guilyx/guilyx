@@ -77,13 +77,13 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,236 Contributions in the Year 2022
+> 🏆 1,237 Contributions in the Year 2022
  > 
 > 📦 324.5 kB Used in GitHub's Storage 
  > 
@@ -122,18 +122,18 @@ Sunday       15 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      2 hrs 57 mins       ████████████████░░░░░░░░░   64.36% 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
-Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75%
+C++                      3 hrs 18 mins       █████████████████░░░░░░░░   70.12% 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.63% 
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
+XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.16% 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.63%
 
 🐱‍💻 Projects: 
-navigation2              56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-robot_health_checker     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-docking_controller       35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-serena_bringup           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
-leg_filter               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.37%
+docking_controller       57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.13% 
+navigation2              56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04% 
+robot_health_checker     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
+serena_bringup           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
+leg_filter               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.21%
 
 ```
 
@@ -142,7 +142,7 @@ leg_filter               17 mins             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2022 17:09:40 UTC
+ Last Updated on 29/10/2022 17:04:02 UTC
 <!--END_SECTION:waka-->
 
 Liked it ?
