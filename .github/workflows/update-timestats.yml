@@ -10,6 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "True"
