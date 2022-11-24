@@ -67,11 +67,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/guilyx/python-nexo/issues/25) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
-2. 🗣 Commented on [#3256](https://github.com/ros-planning/navigation2/issues/3256) in [ros-planning/navigation2](https://github.com/ros-planning/navigation2)
-3. 🎉 Merged PR [#13](https://github.com/cmrobotics/cmr_tests_utils/pull/13) in [cmrobotics/cmr_tests_utils](https://github.com/cmrobotics/cmr_tests_utils)
-4. 🎉 Merged PR [#6](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/6) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
-5. 💪 Opened PR [#6](https://github.com/cmrobotics/minimum_jerk_relative_move/pull/6) in [cmrobotics/minimum_jerk_relative_move](https://github.com/cmrobotics/minimum_jerk_relative_move)
+1. 💪 Opened PR [#342](https://github.com/anmol098/waka-readme-stats/pull/342) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. 🎉 Merged PR [#2](https://github.com/guilyx/waka-readme/pull/2) in [guilyx/waka-readme](https://github.com/guilyx/waka-readme)
+3. 💪 Opened PR [#2](https://github.com/guilyx/waka-readme/pull/2) in [guilyx/waka-readme](https://github.com/guilyx/waka-readme)
+4. 💪 Opened PR [#110](https://github.com/athul/waka-readme/pull/110) in [athul/waka-readme](https://github.com/athul/waka-readme)
+5. 🎉 Merged PR [#1](https://github.com/guilyx/waka-readme/pull/1) in [guilyx/waka-readme](https://github.com/guilyx/waka-readme)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
