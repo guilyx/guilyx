@@ -18,7 +18,6 @@ jobs:
           COMMIT_EMAIL: "erwin.lejeune15@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: guilyx # optional, it will automatically use the username of the owner of the repository who's executing the workflow.
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "False"
