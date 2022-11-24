@@ -28,6 +28,6 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_COMMIT: "True"
-          SHOW_LOC_CHART: "True"
-          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_SHORT_INFO: "True"
