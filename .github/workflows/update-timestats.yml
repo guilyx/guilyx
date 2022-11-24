@@ -11,7 +11,6 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "True"
@@ -22,6 +21,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
+          SHOW_UPDATED_DATE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE: "True"
