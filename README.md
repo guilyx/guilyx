@@ -128,6 +128,9 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
  Last Updated on 25/11/2022 08:26:46 UTC
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-simple-->
+<!--START_SECTION:waka-simple-->
+
 Liked it ?
 
 *ETH: **0xcC1C1E8F5fD3c832d970C8d5A62Ff9dD74259B1f***
