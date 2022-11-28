@@ -69,9 +69,9 @@ note: thanks to both of them!
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#110](https://github.com/athul/waka-readme/issues/110) in [athul/waka-readme](https://github.com/athul/waka-readme)
 2. 🗣 Commented on [#110](https://github.com/athul/waka-readme/issues/110) in [athul/waka-readme](https://github.com/athul/waka-readme)
-3. 🗣 Commented on [#23](https://github.com/guilyx/guilyx/issues/23) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-4. 💪 Opened PR [#342](https://github.com/anmol098/waka-readme-stats/pull/342) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. 🎉 Merged PR [#2](https://github.com/guilyx/waka-readme/pull/2) in [guilyx/waka-readme](https://github.com/guilyx/waka-readme)
+3. 🗣 Commented on [#110](https://github.com/athul/waka-readme/issues/110) in [athul/waka-readme](https://github.com/athul/waka-readme)
+4. 🗣 Commented on [#110](https://github.com/athul/waka-readme/issues/110) in [athul/waka-readme](https://github.com/athul/waka-readme)
+5. 🗣 Commented on [#23](https://github.com/guilyx/guilyx/issues/23) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
