@@ -129,11 +129,11 @@ com_uhura                10 mins             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
-<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
 
 Liked it ?
 
-*ETH: **0xcC1C1E8F5fD3c832d970C8d5A62Ff9dD74259B1f***
+*ERC-20: **0xcC1C1E8F5fD3c832d970C8d5A62Ff9dD74259B1f***
 
 *BTC: **bc1q0c45w3jvlwclvuv9axlwq4sfu2kqy4w9xx225j***
 
