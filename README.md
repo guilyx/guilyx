@@ -135,7 +135,7 @@ com_uhura                11 mins             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 29 November 2022
+From: 16 July 2020 - To: 30 November 2022
 
 Total Time: 828 hrs 23 mins
 
