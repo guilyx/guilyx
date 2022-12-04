@@ -70,11 +70,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/athul/waka-readme/issues/110) in [athul/waka-readme](https://github.com/athul/waka-readme)
-2. 🗣 Commented on [#110](https://github.com/athul/waka-readme/issues/110) in [athul/waka-readme](https://github.com/athul/waka-readme)
-3. 🗣 Commented on [#110](https://github.com/athul/waka-readme/issues/110) in [athul/waka-readme](https://github.com/athul/waka-readme)
+1. 🗣 Commented on [#11](https://github.com/guilyx/python-nexo/issues/11) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+2. ❗️ Opened issue [#26](https://github.com/guilyx/python-nexo/issues/26) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+3. 🗣 Commented on [#169](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/169) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 4. 🗣 Commented on [#110](https://github.com/athul/waka-readme/issues/110) in [athul/waka-readme](https://github.com/athul/waka-readme)
-5. 🗣 Commented on [#23](https://github.com/guilyx/guilyx/issues/23) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+5. 🗣 Commented on [#110](https://github.com/athul/waka-readme/issues/110) in [athul/waka-readme](https://github.com/athul/waka-readme)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
