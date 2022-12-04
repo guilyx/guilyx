@@ -135,7 +135,7 @@ waka-readme              16 mins             ███░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 02 December 2022
+From: 16 July 2020 - To: 03 December 2022
 
 Total Time: 828 hrs 50 mins
 
