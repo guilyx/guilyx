@@ -135,7 +135,7 @@ gimbal_node_sim          8 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 09 December 2022
+From: 16 July 2020 - To: 10 December 2022
 
 Total Time: 843 hrs 19 mins
 
