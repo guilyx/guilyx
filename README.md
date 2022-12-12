@@ -70,11 +70,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/guilyx/guilyx/issues/23) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-2. ❗️ Closed issue [#22](https://github.com/guilyx/guilyx/issues/22) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-3. ❗️ Closed issue [#20](https://github.com/guilyx/guilyx/issues/20) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-4. ❗️ Closed issue [#24](https://github.com/guilyx/python-nexo/issues/24) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
-5. 🎉 Merged PR [#28](https://github.com/guilyx/python-nexo/pull/28) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
+1. ❗️ Opened issue [#19](https://github.com/Sango-Club/crypto-dca-bot/issues/19) in [Sango-Club/crypto-dca-bot](https://github.com/Sango-Club/crypto-dca-bot)
+2. ❗️ Closed issue [#23](https://github.com/guilyx/guilyx/issues/23) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+3. ❗️ Closed issue [#22](https://github.com/guilyx/guilyx/issues/22) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+4. ❗️ Closed issue [#20](https://github.com/guilyx/guilyx/issues/20) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+5. ❗️ Closed issue [#24](https://github.com/guilyx/python-nexo/issues/24) in [guilyx/python-nexo](https://github.com/guilyx/python-nexo)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
