@@ -135,7 +135,7 @@ netbox-client-arrc-latest11 mins             ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 15 December 2022
+From: 16 July 2020 - To: 16 December 2022
 
 Total Time: 852 hrs 36 mins
 
