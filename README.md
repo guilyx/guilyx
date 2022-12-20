@@ -151,11 +151,15 @@ Other              37 hrs 33 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 Liked it ?
 
-*ERC-20: **0xcC1C1E8F5fD3c832d970C8d5A62Ff9dD74259B1f***
+*ERC-20 / EVM: **0xebcc98573c3cd9b5b61900d1304da938b5036a0d***
 
 *BTC: **bc1q0c45w3jvlwclvuv9axlwq4sfu2kqy4w9xx225j***
 
 *DOT: **1Nt7G2igCuvYrfuD2Y3mCkFaU4iLS9AZytyVgZ5VBUKktjX***
+
+*DAG: **DAG7rGLbD71VrU6nWPrepdzcyRS6rFVvfWjwRKg5***
+
+*LUNC: **terra12n3xscq5efr7mfd6pk5ehtlsgmaazlezhypa7g***
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
