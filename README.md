@@ -80,13 +80,13 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,363 Contributions in the Year 2022
+> 🏆 1,365 Contributions in the Year 2022
  > 
 > 📦 324.7 kB Used in GitHub's Storage 
  > 
@@ -113,23 +113,23 @@ note: thanks to both of them!
 ⌚︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-C++                      12 hrs 1 min        ███████████████░░░░░░░░░░   62.1% 
-Python                   2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-Bash                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.31% 
-C                        1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.36% 
-CMake                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   5.23%
+C++                      12 hrs 42 mins      ███████████████░░░░░░░░░░   62.32% 
+Python                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
+C                        1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+Bash                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
+CMake                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.3%
 
 🐱‍💻 Projects: 
-swarm_mission            12 hrs 57 mins      ████████████████░░░░░░░░░   66.9% 
-crypto-dca-bot           2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
-swarm_simulation         1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.04% 
-netbox-client-arrc-latest1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
-arrc-library             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48%
+swarm_mission            12 hrs 44 mins      ███████████████░░░░░░░░░░   62.46% 
+crypto-dca-bot           2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
+arrc-library             2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
+swarm_simulation         1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
+netbox-client-arrc-latest1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.7%
 
 ```
 
 
- Last Updated on 22/12/2022 12:42:58 UTC
+ Last Updated on 23/12/2022 12:39:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
