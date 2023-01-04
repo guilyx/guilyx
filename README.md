@@ -150,7 +150,7 @@ Liked it ?
 
 *ERC-20 / EVM: **0xebcc98573c3cd9b5b61900d1304da938b5036a0d***
 
-*BTC: **bc1q0c45w3jvlwclvuv9axlwq4sfu2kqy4w9xx225j***
+*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
 
 *DOT: **1Nt7G2igCuvYrfuD2Y3mCkFaU4iLS9AZytyVgZ5VBUKktjX***
 
