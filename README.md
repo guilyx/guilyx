@@ -3,6 +3,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
 <p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+
+<p align="center">
 <br/>
 <a href="https://twitter.com/rangonomics">
   <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
