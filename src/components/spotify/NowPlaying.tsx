@@ -2,11 +2,6 @@ import React from 'react';
 
 import ConvertSVG from '../ConvertSVG';
 import Text from '../Text';
-declare module '@vue/runtime-dom' {
-  export interface CSSProperties {
-    '--offset-x': any
-  }
-}
 
 export interface IPlayerProps {
   cover?: string;
@@ -15,7 +10,7 @@ export interface IPlayerProps {
   progress: number;
   duration: number;
   isPlaying: boolean;
-  audioFeatures: IAudioFeaturesResponse | object;
+  audioFeatures: IAudioFeaturesResponse;
 }
 
 export interface IAudioFeaturesResponse {
