@@ -13,7 +13,7 @@ import {
   lastPlayed,
   trackAudioFeatures,
 } from '../src/services/spotify';
-import { Player } from '../src/components/spotify/NowPlaying';
+import { Player, IAudioFeaturesResponse } from '../src/components/spotify/NowPlaying';
 
 /**
  * Returns an image displaying my current playback state, with nice music bars
