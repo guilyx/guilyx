@@ -15,7 +15,7 @@ export interface IPlayerProps {
   progress: number;
   duration: number;
   isPlaying: boolean;
-  audioFeatures: IAudioFeaturesResponse;
+  audioFeatures: IAudioFeaturesResponse | object;
 }
 
 export interface IAudioFeaturesResponse {
