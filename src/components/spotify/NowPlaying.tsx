@@ -13,7 +13,7 @@ export interface IPlayerProps {
   audioFeatures: IAudioFeaturesResponse;
 }
 
-export IAudioFeaturesResponse
+export interface IAudioFeaturesResponse
 
 /**
  * Displays currently playing track
