@@ -70,9 +70,9 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/guilyx/guilyx/pull/24) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-2. ❗️ Opened issue [#19](https://github.com/Sango-Club/crypto-dca-bot/issues/19) in [Sango-Club/crypto-dca-bot](https://github.com/Sango-Club/crypto-dca-bot)
-3. ❗️ Closed issue [#23](https://github.com/guilyx/guilyx/issues/23) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+1. 🗣 Commented on [#25](https://github.com/guilyx/guilyx/issues/25) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+2. 🎉 Merged PR [#24](https://github.com/guilyx/guilyx/pull/24) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+3. ❗️ Opened issue [#19](https://github.com/Sango-Club/crypto-dca-bot/issues/19) in [Sango-Club/crypto-dca-bot](https://github.com/Sango-Club/crypto-dca-bot)
 4. ❗️ Closed issue [#22](https://github.com/guilyx/guilyx/issues/22) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 5. ❗️ Closed issue [#20](https://github.com/guilyx/guilyx/issues/20) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
