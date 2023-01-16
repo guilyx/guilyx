@@ -45,11 +45,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-<p align="center">
-  <a href="https://guilyx.vercel.app/api/now-playing">
+  <a href="https://guilyx.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
     <img src="https://guilyx.vercel.app/api/now-playing">
   </a>
 </p>
@@ -57,6 +54,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <p align="center">
   <img src="https://guilyx.vercel.app/api/top-played">
 </p>
+ 
  
 ```yaml
 section: spotify components info

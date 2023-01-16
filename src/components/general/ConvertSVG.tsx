@@ -1,17 +1,22 @@
+// Packages
 import React from 'react';
 
+// Local Imports
+import { CONVERT_SVG_CSS } from './config';
+
 interface IConvertSVGParameters {
-  children: React.ReactNode,
-  height: string,
-  width: string,
+  children: React.ReactNode;
+  height: string;
+  width: string;
 }
 
 /**
- * Most important component here. Allows us to send components as images back to Github
- * Everything we make will be inside
+ * Most important component here. Allows us to send components as images back to Github.
+ * Everything we make will be inside.
  *
- * @param {string} width
- * @param {string} height
+ * @param {string} width Width of the component.
+ * @param {string} height Height of the component.
+ * @returns {React.FC} Functional React component.
  */
 const ConvertSVG: React.StatelessComponent<{
   height: string,
@@ -32,12 +37,7 @@ const ConvertSVG: React.StatelessComponent<{
       height={height}>
       <div {...{ xmlns: "http://www.w3.org/1999/xhtml" }}>
         <style>
-          {`
-            * {
-              margin: 0;
-              box-sizing: border-box;
-            }
-          `}
+          { CONVERT_SVG_CSS }
         </style>
         { children }
       </div>
