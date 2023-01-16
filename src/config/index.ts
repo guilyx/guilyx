@@ -9,16 +9,6 @@ dotenv.config();
 export const CALLBACK_URL = 'http://localhost:3000/api/auth';
 
 /**
- * Empty FEN used for empty games.
- */
-export const EMPTY_CHESS_BOARD_FEN = '8/8/8/8/8/8/8/8/';
-
-/**
- * Location of images.
- */
-export const GITHUB_CHESS_IMAGES_DIRECTORY_URL = 'https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/src/assets/images/';
-
-/**
  * Spotify authorization endpoint.
  */
 export const SPOTIFY_AUTHORIZATION_URL = new URL('https://accounts.spotify.com/api/token');
@@ -97,26 +87,6 @@ export const SPOTIFY_AUTHORIZATION_SCOPES = [
   'user-read-currently-playing',
   'user-read-playback-state',
   'user-top-read',
-];
-
-/**
- * Chess colors for piece images.
- */
-export const CHESS_COLORS: string[] = [
-  'white',
-  'black',
-];
-
-/**
- * Chess pieces keys for piece images.
- */
-export const CHESS_PIECES: string[] = [
-  'b',
-  'k',
-  'n',
-  'p',
-  'q',
-  'r'
 ];
 
 /**

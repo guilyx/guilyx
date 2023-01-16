@@ -35,15 +35,6 @@ export class Environment {
   }
 
   /**
-   * Retrieves Chess.com username.
-   *
-   * @returns {string} Chess.com username.
-   */
-  static getChessUsername(): string {
-    return process.env.CHESS_COM_USERNAME || '#';
-  }
-
-  /**
    * Retrieves server state.
    *
    * @returns {string} Server state.
