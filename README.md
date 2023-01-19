@@ -80,13 +80,13 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 43 Contributions in the Year 2023
+> 🏆 45 Contributions in the Year 2023
  > 
 > 📦 324.8 kB Used in GitHub's Storage 
  > 
@@ -113,23 +113,23 @@ note: thanks to both of them!
 ⌚︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-C++                      19 hrs 18 mins      ██████████████░░░░░░░░░░░   59.08% 
-C                        5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
-YAML                     2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
-Bash                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.54% 
-Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.58%
+C++                      21 hrs 3 mins       ███████████████░░░░░░░░░░   60.91% 
+C                        5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
+YAML                     2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
+Bash                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
+Other                    1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
 
 🐱‍💻 Projects: 
-swarm_mission            25 hrs 50 mins      ███████████████████░░░░░░   79.04% 
-arrc-library             2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
-swarm_simulation         1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-guilyx                   1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-netbox-client-arrc-latest39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+swarm_mission            27 hrs 16 mins      ███████████████████░░░░░░   78.87% 
+arrc-library             2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.48% 
+swarm_simulation         1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
+netbox-client-arrc-latest1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
+guilyx                   45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
 
 ```
 
 
- Last Updated on 18/01/2023 12:41:36 UTC
+ Last Updated on 19/01/2023 12:46:41 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
