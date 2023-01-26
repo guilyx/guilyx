@@ -80,13 +80,13 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 57 Contributions in the Year 2023
+> 🏆 59 Contributions in the Year 2023
  > 
 > 📦 324.9 kB Used in GitHub's Storage 
  > 
@@ -113,23 +113,23 @@ note: thanks to both of them!
 ⌚︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-C++                      28 hrs 49 mins      ███████████████████░░░░░░   76.35% 
-C                        5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-YAML                     1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
-CMake                    52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
-Bash                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76%
+C++                      26 hrs 15 mins      ███████████████████░░░░░░   75.97% 
+C                        4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
+YAML                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
+CMake                    46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
+Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
 
 🐱‍💻 Projects: 
-swarm_mission            32 hrs 43 mins      █████████████████████░░░░   86.69% 
-arrc-library             2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
-netbox-client-arrc-latest1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24% 
-swarm_simulation         37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
-swarm_uav_control_ros1   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
+swarm_mission            30 hrs 22 mins      ██████████████████████░░░   87.85% 
+arrc-library             2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.9% 
+swarm_uav_control_ros1   50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
+swarm_simulation         49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
+gimbal_node_sim          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 ```
 
 
- Last Updated on 25/01/2023 12:43:33 UTC
+ Last Updated on 26/01/2023 12:46:55 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
