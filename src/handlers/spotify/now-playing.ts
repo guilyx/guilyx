@@ -7,17 +7,17 @@ import {
   decode,
   ParsedUrlQuery,
 } from 'querystring';
-import { renderToString } from 'react-dom/server';
+import { renderToString } from 'react-dom/server.js';
 
 // Local Imports
-import { convertTrackToMinimumData } from '../../helpers/spotify';
-import { convertToImageResponse } from '../../helpers/image';
-import { ERROR_MESSAGE_500 } from '../../config';
-import { Player } from '../../components/spotify/NowPlaying';
-import api from '../../api';
+import { convertTrackToMinimumData } from '../../helpers/spotify.js';
+import { convertToImageResponse } from '../../helpers/image.js';
+import { ERROR_MESSAGE_500 } from '../../config/index.js';
+import { Player } from '../../components/spotify/NowPlaying.js';
+import api from '../../api/index.js';
 
 // Types
-import { IAudioFeaturesResponse } from '../../types/spotify';
+import { IAudioFeaturesResponse } from '../../types/spotify.js';
 
 /**
  * Returns an image displaying my current playback state, with nice music bars.

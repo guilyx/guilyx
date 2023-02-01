@@ -1,4 +1,4 @@
-import spotify from './spotify';
+import spotify from './spotify.js';
 
 export default {
   spotify,
