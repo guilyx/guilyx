@@ -1,8 +1,7 @@
 {
-  "name": "andyruwruw-profile-page",
-  "version": "1.1.2",
+  "name": "guilyx-profile-page",
+  "version": "1.2.0",
   "description": "Github profile README.md",
-  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "vercel dev",
@@ -10,17 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andyruwruw/andyruwruw.git"
+    "url": "git+https://github.com/guilyx/guilyx.git"
   },
   "author": "Andrew Young",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andyruwruw/andyruwruw/issues"
+    "url": "https://github.com/guilyx/guilyx/issues"
   },
-  "homepage": "https://github.com/andyruwruw/andyruwruw#readme",
+  "homepage": "https://github.com/guilyx/guilyx#readme",
   "dependencies": {
     "@vercel/node": "^1.9.1",
     "axios": "^0.21.4",
+    "chess-web-api": "^1.0.10",
     "dotenv": "^14.2.0",
     "node-fetch": "^2.6.1",
     "querystring": "^0.2.0",
