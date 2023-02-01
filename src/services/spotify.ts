@@ -127,7 +127,7 @@ export async function lastPlayed(Authorization: string): Promise<ICurrentlyPlayi
  *
  * @returns {Promise<IAudioFeaturesResponse>} Audio features object
  */
-export async function trackAudioFeatures(id: string, Authorization: string): Promise<IAudioFeaturesResponse | object> {
+export async function trackAudioFeatures(id: string, Authorization: string): Promise<IAudioFeaturesResponse> {
   const response: Response = await fetch(`https://api.spotify.com/v1/audio-features/${id}`, {
     headers: {
       Authorization,
