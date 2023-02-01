@@ -70,9 +70,9 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#342](https://github.com/anmol098/waka-readme-stats/issues/342) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 🗣 Commented on [#25](https://github.com/guilyx/guilyx/issues/25) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-3. 🎉 Merged PR [#24](https://github.com/guilyx/guilyx/pull/24) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+1. 🎉 Merged PR [#26](https://github.com/guilyx/guilyx/pull/26) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+2. 🗣 Commented on [#342](https://github.com/anmol098/waka-readme-stats/issues/342) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+3. 🗣 Commented on [#25](https://github.com/guilyx/guilyx/issues/25) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 4. ❗️ Closed issue [#22](https://github.com/guilyx/guilyx/issues/22) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 5. ❗️ Closed issue [#20](https://github.com/guilyx/guilyx/issues/20) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
