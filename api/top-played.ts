@@ -2,7 +2,7 @@ import {
   VercelRequest,
   VercelResponse,
 } from '@vercel/node';
-import { renderToString } from 'react-dom/server';
+import { renderToString } from 'react-dom/server.js';
 
 import { TopPlayed } from '../src/components/spotify/TopPlayed';
 import { topPlayed } from '../src/services/spotify';
