@@ -77,13 +77,13 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C036%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C043%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 98 Contributions in the Year 2023
+> 🏆 100 Contributions in the Year 2023
  > 
 > 📦 324.9 kB Used in GitHub's Storage 
  > 
@@ -110,23 +110,23 @@ note: thanks to both of them!
 ⌚︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-C++                      6 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   30.83 % 
-C                        4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Docker                   3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Bash                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-CMake                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+C++                      8 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
+Docker                   3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+C                        3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Bash                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+CMake                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 🐱‍💻 Projects: 
-netbox-swarm-gui         7 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   35.02 % 
-swarm_mission            5 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   22.99 % 
-docker-swamp             4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-netbox_gui               2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-netbox-client-arrc-latest44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+netbox-swarm-gui         11 hrs 47 mins      ████████████░░░░░░░░░░░░░   48.89 % 
+docker-swamp             4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.32 % 
+swarm_mission            2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+netbox_gui               2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+netbox-client-arrc-latest1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 ```
 
 
- Last Updated on 10/02/2023 12:41:58 UTC
+ Last Updated on 11/02/2023 12:39:12 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
