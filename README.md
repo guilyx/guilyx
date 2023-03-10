@@ -130,7 +130,7 @@ swarm_simulation         1 min               ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 08 March 2023
+From: 16 July 2020 - To: 09 March 2023
 
 Total Time: 1,113 hrs 18 mins
 
