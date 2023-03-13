@@ -130,7 +130,7 @@ git                      0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 11 March 2023
+From: 16 July 2020 - To: 12 March 2023
 
 Total Time: 1,114 hrs 22 mins
 
