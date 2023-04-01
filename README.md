@@ -77,7 +77,7 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue)
 
@@ -85,11 +85,11 @@ note: thanks to both of them!
 
 > 📦 325.0 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2023
+> 🏆 195 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
@@ -109,22 +109,22 @@ note: thanks to both of them!
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-C++                      2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.33 % 
-Bash                     1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-C                        1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Other                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-CMake                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+C++                      2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
+C                        1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Bash                     1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Other                    59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+CMake                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 
 🐱‍💻 Projects: 
-swamp_netbox_bridge      2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
-swarm_mission            2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.12 % 
-swarm_simulation         1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-fake_radar_operator      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-netbox-client-arrc-latest18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+swamp_netbox_bridge      2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.35 % 
+swarm_mission            2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+swarm_simulation         1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+fake_radar_operator      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+netbox-client-arrc-latest36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
 
 
- Last Updated on 31/03/2023 12:36:01 UTC
+ Last Updated on 01/04/2023 12:32:06 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
