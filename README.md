@@ -67,8 +67,8 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#219](https://github.com/Shardeum/shardeum-docs/issues/219) in [Shardeum/shardeum-docs](https://github.com/Shardeum/shardeum-docs)
-2. 🗣 Commented on [#342](https://github.com/anmol098/waka-readme-stats/issues/342) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 🗣 Commented on [#219](https://github.com/Shardeum/shardeum-docs/issues/219) in [Shardeum/shardeum-docs](https://github.com/Shardeum/shardeum-docs)
+2. ❗️ Opened issue [#219](https://github.com/Shardeum/shardeum-docs/issues/219) in [Shardeum/shardeum-docs](https://github.com/Shardeum/shardeum-docs)
 3. 🗣 Commented on [#25](https://github.com/guilyx/guilyx/issues/25) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 4. ❗️ Closed issue [#22](https://github.com/guilyx/guilyx/issues/22) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 5. ❗️ Closed issue [#20](https://github.com/guilyx/guilyx/issues/20) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
