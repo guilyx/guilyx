@@ -130,7 +130,7 @@ swamp-middleware         26 mins             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 15 April 2023
+From: 16 July 2020 - To: 16 April 2023
 
 Total Time: 1,159 hrs 55 mins
 
