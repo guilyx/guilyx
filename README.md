@@ -25,11 +25,11 @@ job: Robotics Software Engineer (UAV Swarms)
 education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
 company: Technology Innovation Institute
 past experiences: 
-  - ["Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Jr Backend Software Engineer", "Web App (Go/Postgre/Node)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Jr Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
+  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
+  - ["Backend Software Engineer", "Web App (Go/Postgre/Node)", "Hiventive", "Fully Remote", "2020-2021"]
+  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
   - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Jr Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2019"]
+  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
   - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
 
 fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
