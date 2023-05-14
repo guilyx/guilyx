@@ -130,7 +130,7 @@ mock_detectors           23 mins             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 12 May 2023
+From: 16 July 2020 - To: 13 May 2023
 
 Total Time: 1,211 hrs 56 mins
 
