@@ -67,7 +67,7 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/ai-winter/ros_motion_planning/issues/13) in [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning)
+1. ❗ Opened issue [#13](https://github.com/ai-winter/ros_motion_planning/issues/13) in [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning)
 2. ❗️ Opened issue [#219](https://github.com/Shardeum/shardeum-docs/issues/219) in [Shardeum/shardeum-docs](https://github.com/Shardeum/shardeum-docs)
 3. 🗣 Commented on [#25](https://github.com/guilyx/guilyx/issues/25) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 4. ❗️ Closed issue [#22](https://github.com/guilyx/guilyx/issues/22) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
