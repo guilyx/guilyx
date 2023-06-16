@@ -36,8 +36,8 @@
     "@types/react-dom": "^16.9.8",
     "@types/spotify-api": "0.0.5",
     "@vue/runtime-dom": "3.2.45",
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.1",
     "open": "^7.2.1",
     "prettier": "^2.0.5",
     "dotenv": "^10.0.0"
