@@ -130,7 +130,7 @@ swarm_uav_scripts        0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 20 June 2023
+From: 16 July 2020 - To: 21 June 2023
 
 Total Time: 1,289 hrs 18 mins
 
