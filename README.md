@@ -77,7 +77,7 @@ note: thanks to both of them!
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C289%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue)
 
@@ -85,7 +85,7 @@ note: thanks to both of them!
 
 > 📦 325.0 kB Used in GitHub's Storage 
  > 
-> 🏆 398 Contributions in the Year 2023
+> 🏆 400 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -96,10 +96,10 @@ note: thanks to both of them!
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                245 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-🌆 Daytime                1859 commits        ████████░░░░░░░░░░░░░░░░░   33.58 % 
-🌃 Evening                2501 commits        ███████████░░░░░░░░░░░░░░   45.18 % 
-🌙 Night                  931 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+🌞 Morning                245 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+🌆 Daytime                1860 commits        ████████░░░░░░░░░░░░░░░░░   33.59 % 
+🌃 Evening                2502 commits        ███████████░░░░░░░░░░░░░░   45.18 % 
+🌙 Night                  931 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
 ```
 
 
@@ -109,14 +109,18 @@ note: thanks to both of them!
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CMake                    27 mins             █████████░░░░░░░░░░░░░░░░   34.87 % 
+C                        16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+C++                      13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+swarm_mission            1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/07/2023 12:43:20 UTC
+ Last Updated on 04/07/2023 12:41:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
