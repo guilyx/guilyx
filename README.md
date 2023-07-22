@@ -130,7 +130,7 @@ reverse_invest           13 mins             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 20 July 2023
+From: 16 July 2020 - To: 21 July 2023
 
 Total Time: 1,307 hrs 40 mins
 
