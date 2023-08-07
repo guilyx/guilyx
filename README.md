@@ -67,7 +67,7 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/APLA-Toolbox/pymapf/issues/66#issuecomment-1595767061) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+1. ❗ Opened issue [#25](https://github.com/ByFishh/zk-flow/issues/25) in [ByFishh/zk-flow](https://github.com/ByFishh/zk-flow)
 2. ❗ Opened issue [#13](https://github.com/ai-winter/ros_motion_planning/issues/13) in [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning)
 3. 🗣 Commented on [#25](https://github.com/guilyx/guilyx/issues/25) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 4. ❗️ Closed issue [#22](https://github.com/guilyx/guilyx/issues/22) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
