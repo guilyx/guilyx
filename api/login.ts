@@ -1,39 +1,18 @@
+// Packages
 import {
   VercelRequest,
   VercelResponse,
 } from '@vercel/node';
-import querystring from 'querystring';
 
-const redirectURL: string = 'http://localhost:3000/api/auth';
-
-const {
-  SPOTIFY_CLIENT_ID: client_id,
-  STATE: state,
-} = process.env;
+// Local Imports
+import loginHandler from '../src/handlers/development/login';
 
 /**
- * Returns Spotify authorization link, for repo owner only
+ * Returns Spotify authorization link, for author during development only.
  *
- * @param {VercelRequest} req
- * @param {VercelResponse} res
+ * @param {VercelRequest} req Request for login URL.
+ * @param {VercelResponse} res Response to request.
  */
 export default async function (req: VercelRequest, res: VercelResponse) {
-  const scopes: Array<string> = [
-    'user-read-playback-position',
-    'user-read-recently-played',
-    'user-read-currently-playing',
-    'user-read-playback-state',
-    'user-top-read',
-  ];
-
-  const url: string = `https://accounts.spotify.com/authorize?${querystring.stringify({
-    client_id,
-    redirect_uri: redirectURL,
-    response_type: 'code',
-    scope: scopes.join('%20'),
-    show_dialog: 'false',
-    state,
-  })}`;
-
-  return res.send(url);
-};
+  return await loginHandler(req, res);
+}

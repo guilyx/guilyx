@@ -1,64 +1,18 @@
-import axios, { AxiosResponse } from 'axios';
-import querystring, { ParsedUrlQueryInput } from 'querystring';
+// Packages
 import {
   VercelRequest,
   VercelResponse,
 } from '@vercel/node';
 
-const redirectURL: string = 'http://localhost:3000/api/auth';
-
-const {
-  SPOTIFY_CLIENT_ID: client_id,
-  SPOTIFY_CLIENT_SECRET: client_secret,
-  STATE,
-} = process.env;
-
-interface IAuthResponse {
-  refresh_token: string,
-  access_token: string,
-}
+// Local Imports
+import authHandler from '../src/handlers/development/auth';
 
 /**
- * Retrieves access token, for repo owner only
+ * Retrieves access token, for author during development only.
  *
- * @param {VercelRequest} req
- * @param {VercelResponse} res
- * @returns {IAuthResponse}
+ * @param {VercelRequest} req Request for login URL.
+ * @param {VercelResponse} res Response to request.
  */
 export default async function (req: VercelRequest, res: VercelResponse) {
-  const {
-    code,
-    state,
-  } = req.query;
-
-  if (code && state && state === STATE) {
-    const url: string = 'https://accounts.spotify.com/api/token';
-    const data: ParsedUrlQueryInput = {
-      code,
-      redirect_uri: redirectURL,
-      grant_type: 'authorization_code',
-    };
-
-    const options: object = {
-      headers: {
-        'Content-Type': 'application/x-www-form-urlencoded',
-        Authorization: `Basic ${Buffer.from(`${client_id}:${client_secret}`).toString('base64')}`,
-      },
-    };
-
-    const response: AxiosResponse<any> = await axios.post(
-      url,
-      querystring.stringify(data),
-      options,
-    );
-
-    const result: IAuthResponse = {
-      refresh_token: response.data.refresh_token,
-      access_token: response.data.access_token,
-    };
-
-    return res.send(result);
-  }
-
-  return res.send(false);
-};
+  return await authHandler(req, res);
+}

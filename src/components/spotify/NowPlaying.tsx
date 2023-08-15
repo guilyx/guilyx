@@ -1,52 +1,41 @@
+// Packages
 import React from 'react';
 
-import ConvertSVG from '../ConvertSVG';
-import Text from '../Text';
+// Local Imports
+import ConvertSVG from '../general/ConvertSVG';
+import { NOW_PLAYING_CSS } from './config';
+import Text from '../general/Text';
+
+// Types
+import {
+  IAudioFeaturesResponse,
+  IConvertedTrackObject,
+} from '../../types/spotify';
 
 export interface IPlayerProps {
-  cover?: string;
-  track: string;
-  artist: string;
-  progress: number;
+  audioFeatures: IAudioFeaturesResponse;
   duration: number;
   isPlaying: boolean;
-  audioFeatures: IAudioFeaturesResponse;
-}
-
-export interface IAudioFeaturesResponse {
-  duration_ms : number;
-  key : number;
-  mode : number;
-  time_signature : number;
-  acousticness : number;
-  danceability : number;
-  energy : number;
-  instrumentalness : number;
-  liveness : number;
-  loudness : number;
-  speechiness : number;
-  valence : number;
-  tempo : number;
-  id : string;
-  uri : string;
-  track_href : string;
-  analysis_url : string;
-  type : string;
+  progress: number;
+  track: IConvertedTrackObject;
 }
 
 /**
- * Displays currently playing track
+ * Displays currently playing track.
  *
- * @param {IPlayerProps} nowPlaying Currently playing context
+ * @param {IAudioFeaturesResponse} audioFeatures Audio features of currently playing track.
+ * @param {number} duration Duration of currently playing track in milliseconds.
+ * @param {boolean} isPlaying Whether or not the player is currently playing.
+ * @param {number} progress Progress of currently playing track in milliseconds.
+ * @param {IConvertedTrackObject} track Converted track object.
+ * @returns {React.FC} Functional React component.
  */
 export const Player: React.FC<IPlayerProps> = ({
-  cover,
-  track,
-  artist,
-  progress,
+  audioFeatures,
   duration,
   isPlaying,
-  audioFeatures,
+  progress,
+  track,
 }: IPlayerProps) => {
   return (
     <ConvertSVG
@@ -66,11 +55,9 @@ export const Player: React.FC<IPlayerProps> = ({
               <div
                 className="bar"
                 key={ `left-bar-${bar}` }
-                style={
-                  {
-                  offset: bar,
-                  }
-                }/>
+                style={{
+                  '--offset': bar,
+                }}/>
             ))}
           </div>
         }
@@ -91,7 +78,7 @@ export const Player: React.FC<IPlayerProps> = ({
           <img
             id="cover"
             height="48"
-            src={ cover ?? null }
+            src={ track.image ?? null }
             width="48" />
 
           <div
@@ -105,14 +92,14 @@ export const Player: React.FC<IPlayerProps> = ({
             <Text
               id="track"
               weight="bold">
-              { `${track ?? ''} `.trim() }
+              { `${track.name ?? ''} `.trim() }
             </Text>
 
             <Text
               color={ !track ? 'gray' : undefined }
               id="artist"
               size="small">
-              { artist || 'Nothing Currently' }
+              { track.artist || 'Nothing Currently' }
             </Text>
             {track && (
               <div className="progress-bar">
@@ -130,7 +117,7 @@ export const Player: React.FC<IPlayerProps> = ({
                 className="bar"
                 key={ `right-bar-${bar}` }
                 style={{
-                  offset: bar,
+                  '--offset': bar,
                 }}/>
             ))}
           </div>
@@ -138,166 +125,7 @@ export const Player: React.FC<IPlayerProps> = ({
       </div>
 
       <style>
-        {`
-          .now-playing-wrapper {
-            display: flex;
-            justify-content: center;
-            mix-blend-mode: difference;
-          }
-          
-          p {
-            display: block;
-            opacity: 0;
-          }
-          
-          img:not([src]) {
-            background: #FFF;
-            border: 1px solid #e1e4e8;
-            border-radius: 6px;
-            content: url("data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==");
-            mix-blend-mode: normal;
-          }
-          
-          .progress-bar,
-          #track,
-          #artist,
-          #cover,
-          #title {
-            animation: appear 300ms ease-out forwards;
-            opacity: 0;
-          }
-          
-          #track,
-          #artist {
-            overflow: hidden;
-            text-overflow: ellipsis;
-            width: 170px;
-            white-space: nowrap;
-          }
-          
-          #title {
-            animation-delay: 0ms;
-            margin: .5rem;
-            text-align: center;
-          }
-          
-          #track {
-            animation-delay: 400ms;
-          }
-          
-          #artist {
-            animation-delay: 500ms;
-          }
-          
-          #cover {
-            animation-delay: 300ms;
-            animation-name: cover-appear;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 3px 10px rgba(0,0,0,0.05);
-          }
-          
-          #cover:not([src]) {
-            box-shadow: none;
-          }
-          
-          .bar-container {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            width: 111px;
-          }
-          
-          .bar-container.right {
-            align-items: flex-start;
-          }
-          
-          .bar-container.left {
-            align-items: flex-end;
-          }
-          
-          .bar {
-            --offset: 0;
-
-            animation: bars ${ audioFeatures ? (audioFeatures.tempo / 60) * 1 : 1 }s ease calc(var(--offset) * -.5s) infinite;
-            background: rgba(${ audioFeatures ? audioFeatures.energy * 255 : 255 }, ${ audioFeatures ? audioFeatures.valence * 255 : 255 }, ${ audioFeatures ? audioFeatures.danceability * 255 : 255 }, .7);
-            height: 10px;
-            margin: 2px 0;
-            width: 50px;
-          }
-          
-          .progress-bar {
-            animation-delay: 550ms;
-            border: 1px solid #e1e4e8;
-            border-radius: 4px;
-            height: 4px;
-            margin: -1px;
-            margin-top: 4px;
-            overflow: hidden;
-            padding: 2px;
-            position: relative;
-            width: 100%;
-            z-index: 0;
-          }
-          
-          #progress {
-            animation: progress ${duration}ms linear;
-            animation-delay: -${progress}ms;
-            background-color: #24292e;
-            height: 6px;
-            left: 0;
-            position: absolute;
-            top: -1px;
-            transform-origin: left center;
-            width: 100%;
-          }
-          
-          .paused { 
-            animation-play-state: paused !important;
-            background: #e1e4e8 !important;
-          }
-          
-          @keyframes cover-appear {
-            from {
-              opacity: 0;
-              transform: scale(0.8);
-            }
-            to {
-              opacity: 1;
-              transform: scale(1);
-            }
-          }
-          
-          @keyframes appear {
-            from {
-              opacity: 0;
-              transform: translateX(-8px);
-            }
-            to {
-              opacity: 1;
-              transform: translateX(0);
-            }
-          }
-          
-          @keyframes progress {
-            from {
-              transform: scaleX(0)
-            }
-            to {
-              transform: scaleX(1)
-            }
-          }
-          
-          @keyframes bars {
-            0% {
-              width: 25%;
-            }
-            50% {
-              width: 90%;
-            }
-            100% {
-              width: 25%;
-            }
-          }
-        `}
+        { NOW_PLAYING_CSS(audioFeatures, duration, progress) }
       </style>
     </ConvertSVG>
   );

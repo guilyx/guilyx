@@ -9,7 +9,6 @@
     "forceConsistentCasingInFileNames": true,
     "typeRoots": [
       "node_modules/@types",
-      "./types",
       "node_modules/axios",
       "node_modules/fetch"
     ]
