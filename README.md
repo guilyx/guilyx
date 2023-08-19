@@ -7,7 +7,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://socialify.git.ci/guilyx/guilyx/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="640" height="320" />
+  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ from: Nantes (France)
 job: Robotics Software Engineer (UAV Swarms)
 education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
 company: Technology Innovation Institute
-past experiences:
+past experiences: 
   - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
   - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
   - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
@@ -38,9 +38,9 @@ past experiences:
   - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
   - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning",
+fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
                       "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Motion Planning", "Optimization",
+technical_background: ["Motion Planning", "Optimization", 
                        "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
 currently_learning: ["Web3", "React", "Vue"]
 will_learn: ["Blockchain (backend)"]
@@ -59,10 +59,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
 
+
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-
 1. ❗ Opened issue [#25](https://github.com/ByFishh/zk-flow/issues/25) in [ByFishh/zk-flow](https://github.com/ByFishh/zk-flow)
 2. ❗ Opened issue [#13](https://github.com/ai-winter/ros_motion_planning/issues/13) in [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning)
 3. 🗣 Commented on [#25](https://github.com/guilyx/guilyx/issues/25) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
@@ -71,54 +71,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 325.2 kB Used in GitHub's Storage
->
+> 📦 325.2 kB Used in GitHub's Storage 
+ > 
 > 🏆 521 Contributions in the Year 2023
->
+ > 
 > 💼 Opted to Hire
->
-> 📜 46 Public Repositories
->
-> 🔑 12 Private Repositories
->
-> **I'm a Night 🦉**
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 12 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                245 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-🌆 Daytime                1912 commits        ████████░░░░░░░░░░░░░░░░░   33.26 %
-🌃 Evening                2591 commits        ███████████░░░░░░░░░░░░░░   45.08 %
-🌙 Night                  1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 %
+🌞 Morning                245 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+🌆 Daytime                1912 commits        ████████░░░░░░░░░░░░░░░░░   33.26 % 
+🌃 Evening                2591 commits        ███████████░░░░░░░░░░░░░░   45.08 % 
+🌙 Night                  1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Dubai
 
-💬 Programming Languages:
-C++                      10 hrs 15 mins      █████████████░░░░░░░░░░░░   51.83 %
-C                        4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 %
-CMake                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-Python                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+💬 Programming Languages: 
+C++                      10 hrs 15 mins      █████████████░░░░░░░░░░░░   51.83 % 
+C                        4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+CMake                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Python                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
-🐱‍💻 Projects:
-swarm_mission            16 hrs 36 mins      █████████████████████░░░░   83.94 %
-swarm_docker             1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-swarm_ros2_utils         48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-swarm_uav_control_ros2   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-swarm_ros2_interfaces    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+🐱‍💻 Projects: 
+swarm_mission            16 hrs 36 mins      █████████████████████░░░░   83.94 % 
+swarm_docker             1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+swarm_ros2_utils         48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+swarm_uav_control_ros2   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+swarm_ros2_interfaces    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
-Last Updated on 15/08/2023 12:32:23 UTC
 
+ Last Updated on 15/08/2023 12:32:23 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
@@ -140,15 +140,15 @@ YAML               60 hrs 52 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 Liked it ?
 
-\*ERC-20 / EVM: **0xebcc98573c3cd9b5b61900d1304da938b5036a0d\***
+*ERC-20 / EVM: **0xebcc98573c3cd9b5b61900d1304da938b5036a0d***
 
-\*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv\***
+*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
 
-\*DOT: **1Nt7G2igCuvYrfuD2Y3mCkFaU4iLS9AZytyVgZ5VBUKktjX\***
+*DOT: **1Nt7G2igCuvYrfuD2Y3mCkFaU4iLS9AZytyVgZ5VBUKktjX***
 
-\*DAG: **DAG7rGLbD71VrU6nWPrepdzcyRS6rFVvfWjwRKg5\***
+*DAG: **DAG7rGLbD71VrU6nWPrepdzcyRS6rFVvfWjwRKg5***
 
-\*LUNC: **terra12n3xscq5efr7mfd6pk5ehtlsgmaazlezhypa7g\***
+*LUNC: **terra12n3xscq5efr7mfd6pk5ehtlsgmaazlezhypa7g***
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
