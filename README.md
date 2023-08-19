@@ -2,8 +2,17 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
-<p align="center">
+<!-- <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p> -->
+
+<p align="center">
+  <img
+    src="https://socialify.git.ci/guilyx/guilyx/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto"
+    alt="guilyx"
+    width="640"
+    height="320"
+  />
 </p>
 
 <p align="center">
