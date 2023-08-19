@@ -26,7 +26,7 @@ education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's 
 company: Technology Innovation Institute
 past experiences: 
   - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App (Go/Postgre/Node)", "Hiventive", "Fully Remote", "2020-2021"]
+  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
   - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
   - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
   - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
@@ -36,32 +36,22 @@ fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", 
                       "Localization", "Sensor Fusion", "Embedded Systems"]
 technical_background: ["Motion Planning", "Optimization", 
                        "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Social Media Bots", "Crypto Trading Bots", "Aerial Robotics"]
-will_learn: ["Web3"]
+currently_learning: ["Web3", "React", "Vue"]
+will_learn: ["Blockchain (backend)"]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=4" />
 </p>
 
 <p align="center">
-  <a href="https://guilyx.vercel.app/api/now-playing">
-    <img src="https://guilyx.vercel.app/api/now-playing">
-  </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 </p>
 
 <p align="center">
-  <img src="https://guilyx.vercel.app/api/top-played">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
- 
-```yaml
-section: spotify components info
-tutorial_path: guilyx/guilyx/how-to.md
-original_idea: natemoo-re
-improved_by: andyruwruw
-note: thanks to both of them!
-```
 
 
 **:zap: Recent Activity:**
@@ -74,7 +64,7 @@ note: thanks to both of them!
 5. ❗️ Closed issue [#20](https://github.com/guilyx/guilyx/issues/20) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=nightowl&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%2039%20mins-blue)
