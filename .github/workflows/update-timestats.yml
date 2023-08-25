@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Updated dev metrics"
           COMMIT_USERNAME: "guilyx"
           COMMIT_EMAIL: "erwin.lejeune15@gmail.com"
