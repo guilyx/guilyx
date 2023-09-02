@@ -63,11 +63,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/guilyx/guilyx/pull/32) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-2. 💪 Opened PR [#32](https://github.com/guilyx/guilyx/pull/32) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-3. ❗ Opened issue [#19](https://github.com/andyruwruw/andyruwruw/issues/19) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
-4. ❗ Opened issue [#25](https://github.com/ByFishh/zk-flow/issues/25) in [ByFishh/zk-flow](https://github.com/ByFishh/zk-flow)
-5. ❗️ Closed issue [#20](https://github.com/guilyx/guilyx/issues/20) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+1. 🔒 Closed issue [#25](https://github.com/ByFishh/zk-flow/issues/25) in [ByFishh/zk-flow](https://github.com/ByFishh/zk-flow)
+2. 🎉 Merged PR [#32](https://github.com/guilyx/guilyx/pull/32) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+3. 💪 Opened PR [#32](https://github.com/guilyx/guilyx/pull/32) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+4. ❗ Opened issue [#19](https://github.com/andyruwruw/andyruwruw/issues/19) in [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw)
+5. ❗ Opened issue [#25](https://github.com/ByFishh/zk-flow/issues/25) in [ByFishh/zk-flow](https://github.com/ByFishh/zk-flow)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
