@@ -124,7 +124,7 @@ txTracker                16 mins             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 08 September 2023
+From: 16 July 2020 - To: 09 September 2023
 
 Total Time: 1,409 hrs 5 mins
 
