@@ -124,7 +124,7 @@ behaviour-tree           9 mins              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 15 September 2023
+From: 16 July 2020 - To: 16 September 2023
 
 Total Time: 1,415 hrs 26 mins
 
