@@ -63,11 +63,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#26](https://github.com/guilyx/TrackDrop/pull/26) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-2. 🗣 Commented on [#26](https://github.com/guilyx/TrackDrop/pull/26#issuecomment-1713262501) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-3. ❗ Opened issue [#62](https://github.com/guilyx/TrackDrop/issues/62) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-4. ❗ Opened issue [#61](https://github.com/guilyx/TrackDrop/issues/61) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-5. 🎉 Merged PR [#60](https://github.com/guilyx/TrackDrop/pull/60) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+1. ❗ Opened issue [#1](https://github.com/guilyx/rinvest/issues/1) in [guilyx/rinvest](https://github.com/guilyx/rinvest)
+2. ❌ Closed PR [#26](https://github.com/guilyx/TrackDrop/pull/26) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+3. 🗣 Commented on [#26](https://github.com/guilyx/TrackDrop/pull/26#issuecomment-1713262501) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+4. ❗ Opened issue [#62](https://github.com/guilyx/TrackDrop/issues/62) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+5. ❗ Opened issue [#61](https://github.com/guilyx/TrackDrop/issues/61) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
