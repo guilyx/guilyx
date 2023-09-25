@@ -63,11 +63,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/guilyx/TrackDrop/pull/64) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-2. 🎉 Merged PR [#63](https://github.com/guilyx/TrackDrop/pull/63) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-3. 💪 Opened PR [#63](https://github.com/guilyx/TrackDrop/pull/63) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-4. ❗ Opened issue [#1](https://github.com/guilyx/rinvest/issues/1) in [guilyx/rinvest](https://github.com/guilyx/rinvest)
-5. ❌ Closed PR [#26](https://github.com/guilyx/TrackDrop/pull/26) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+1. 🎉 Merged PR [#64](https://github.com/guilyx/TrackDrop/pull/64) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+2. 💪 Opened PR [#64](https://github.com/guilyx/TrackDrop/pull/64) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+3. 🎉 Merged PR [#63](https://github.com/guilyx/TrackDrop/pull/63) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+4. 💪 Opened PR [#63](https://github.com/guilyx/TrackDrop/pull/63) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+5. ❗ Opened issue [#1](https://github.com/guilyx/rinvest/issues/1) in [guilyx/rinvest](https://github.com/guilyx/rinvest)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
