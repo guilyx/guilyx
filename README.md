@@ -124,7 +124,7 @@ arrc-library             8 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 29 September 2023
+From: 16 July 2020 - To: 30 September 2023
 
 Total Time: 1,437 hrs 4 mins
 
