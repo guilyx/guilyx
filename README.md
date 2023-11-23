@@ -71,13 +71,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C502%20hrs%2019%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 325.5 kB Used in GitHub's Storage 
  > 
-> 🏆 718 Contributions in the Year 2023
+> 🏆 719 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -89,8 +91,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                276 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-🌆 Daytime                2124 commits        ████████░░░░░░░░░░░░░░░░░   33.20 % 
-🌃 Evening                2989 commits        ████████████░░░░░░░░░░░░░   46.72 % 
+🌆 Daytime                2125 commits        ████████░░░░░░░░░░░░░░░░░   33.21 % 
+🌃 Evening                2989 commits        ████████████░░░░░░░░░░░░░   46.71 % 
 🌙 Night                  1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 ```
 
@@ -110,7 +112,7 @@ swarm_triangulation      0 secs              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 22/11/2023 12:35:48 UTC
+ Last Updated on 23/11/2023 12:34:58 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
