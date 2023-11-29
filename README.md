@@ -71,7 +71,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C504%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C502%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue)
 
@@ -79,7 +79,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 325.5 kB Used in GitHub's Storage 
  > 
-> 🏆 726 Contributions in the Year 2023
+> 🏆 728 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -90,10 +90,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                277 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-🌆 Daytime                2130 commits        ████████░░░░░░░░░░░░░░░░░   33.24 % 
-🌃 Evening                2992 commits        ████████████░░░░░░░░░░░░░   46.69 % 
-🌙 Night                  1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+🌞 Morning                277 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+🌆 Daytime                2121 commits        ████████░░░░░░░░░░░░░░░░░   33.20 % 
+🌃 Evening                2981 commits        ████████████░░░░░░░░░░░░░   46.67 % 
+🌙 Night                  1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
 ```
 
 
@@ -103,14 +103,17 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 20 mins        ████████████████████░░░░░   78.59 % 
+JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Solidity                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+GPT                      1 hr 20 mins        ████████████████████░░░░░   78.59 % 
+Dropped                  21 mins             █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
 ```
 
 
- Last Updated on 28/11/2023 12:36:02 UTC
+ Last Updated on 29/11/2023 12:35:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
