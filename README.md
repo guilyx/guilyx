@@ -123,7 +123,7 @@ swarm_ros2_interfaces    0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 07 December 2023
+From: 16 July 2020 - To: 08 December 2023
 
 Total Time: 1,506 hrs 34 mins
 
