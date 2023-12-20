@@ -63,11 +63,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/APLA-Toolbox/PythonPDDL/issues/131#issuecomment-1842782562) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-2. 🗣 Commented on [#36](https://github.com/guilyx/guilyx/issues/36#issuecomment-1829219514) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-3. 🗣 Commented on [#25](https://github.com/guilyx/guilyx/issues/25#issuecomment-1829210546) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-4. 🗣 Commented on [#31](https://github.com/guilyx/guilyx/issues/31#issuecomment-1829210516) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-5. 🔒 Closed issue [#31](https://github.com/guilyx/guilyx/issues/31) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+1. 🎉 Merged PR [#1](https://github.com/guilyx/ros2_utils/pull/1) in [guilyx/ros2_utils](https://github.com/guilyx/ros2_utils)
+2. 💪 Opened PR [#1](https://github.com/guilyx/ros2_utils/pull/1) in [guilyx/ros2_utils](https://github.com/guilyx/ros2_utils)
+3. 🗣 Commented on [#131](https://github.com/APLA-Toolbox/PythonPDDL/issues/131#issuecomment-1842782562) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+4. 🗣 Commented on [#36](https://github.com/guilyx/guilyx/issues/36#issuecomment-1829219514) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+5. 🗣 Commented on [#25](https://github.com/guilyx/guilyx/issues/25#issuecomment-1829210546) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
