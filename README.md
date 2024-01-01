@@ -71,7 +71,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C520%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C520%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue)
 
@@ -79,7 +79,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 334.3 kB Used in GitHub's Storage 
  > 
-> 🏆 811 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -90,9 +90,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                276 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-🌆 Daytime                2157 commits        ████████░░░░░░░░░░░░░░░░░   33.42 % 
-🌃 Evening                2984 commits        ████████████░░░░░░░░░░░░░   46.23 % 
+🌞 Morning                276 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+🌆 Daytime                2158 commits        ████████░░░░░░░░░░░░░░░░░   33.42 % 
+🌃 Evening                2985 commits        ████████████░░░░░░░░░░░░░   46.23 % 
 🌙 Night                  1038 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 ```
 
@@ -116,7 +116,7 @@ swarm_simulation_ros2    0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/12/2023 12:31:45 UTC
+ Last Updated on 01/01/2024 12:33:14 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
