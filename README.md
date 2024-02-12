@@ -124,7 +124,7 @@ CPP_INTERVIEW            27 mins             ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 10 February 2024
+From: 16 July 2020 - To: 11 February 2024
 
 Total Time: 1,578 hrs 43 mins
 
