@@ -63,11 +63,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13694](https://github.com/MetaMask/metamask-extension/issues/13694#issuecomment-1959442378) in [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
-2. 🎉 Merged PR [#65](https://github.com/guilyx/TrackDrop/pull/65) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-3. 💪 Opened PR [#65](https://github.com/guilyx/TrackDrop/pull/65) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-4. 🗣 Commented on [#36](https://github.com/guilyx/guilyx/issues/36#issuecomment-1829219514) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-5. 🗣 Commented on [#25](https://github.com/guilyx/guilyx/issues/25#issuecomment-1829210546) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+1. 🎉 Merged PR [#3](https://github.com/guilyx/etherspawn/pull/3) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
+2. 💪 Opened PR [#3](https://github.com/guilyx/etherspawn/pull/3) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
+3. 🎉 Merged PR [#2](https://github.com/guilyx/etherspawn/pull/2) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
+4. 💪 Opened PR [#2](https://github.com/guilyx/etherspawn/pull/2) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
+5. 🎉 Merged PR [#1](https://github.com/guilyx/etherspawn/pull/1) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
