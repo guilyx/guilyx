@@ -124,7 +124,7 @@ swarm_uav_control_ros2   9 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 04 March 2024
+From: 16 July 2020 - To: 05 March 2024
 
 Total Time: 1,615 hrs 25 mins
 
