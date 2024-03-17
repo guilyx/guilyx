@@ -124,7 +124,7 @@ image-transfer-cs        11 mins             ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 15 March 2024
+From: 16 July 2020 - To: 16 March 2024
 
 Total Time: 1,619 hrs 22 mins
 
