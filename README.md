@@ -63,11 +63,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/open-navigation/opennav_coverage/pull/46) in [open-navigation/opennav_coverage](https://github.com/open-navigation/opennav_coverage)
-2. 🎉 Merged PR [#3](https://github.com/guilyx/etherspawn/pull/3) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
-3. 💪 Opened PR [#3](https://github.com/guilyx/etherspawn/pull/3) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
-4. 🎉 Merged PR [#2](https://github.com/guilyx/etherspawn/pull/2) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
-5. 💪 Opened PR [#2](https://github.com/guilyx/etherspawn/pull/2) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
+1. ❗ Opened issue [#1](https://github.com/Sango-Club/Dropped/issues/1) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
+2. 💪 Opened PR [#46](https://github.com/open-navigation/opennav_coverage/pull/46) in [open-navigation/opennav_coverage](https://github.com/open-navigation/opennav_coverage)
+3. 🎉 Merged PR [#3](https://github.com/guilyx/etherspawn/pull/3) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
+4. 💪 Opened PR [#3](https://github.com/guilyx/etherspawn/pull/3) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
+5. 🎉 Merged PR [#2](https://github.com/guilyx/etherspawn/pull/2) in [guilyx/etherspawn](https://github.com/guilyx/etherspawn)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
