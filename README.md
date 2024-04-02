@@ -63,11 +63,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/Sango-Club/Dropped/issues/5) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
-2. ❗ Opened issue [#4](https://github.com/Sango-Club/Dropped/issues/4) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
-3. ❗ Opened issue [#3](https://github.com/Sango-Club/Dropped/issues/3) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
-4. ❗ Opened issue [#2](https://github.com/Sango-Club/Dropped/issues/2) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
-5. ❗ Opened issue [#3](https://github.com/guilyx/evmpie/issues/3) in [guilyx/evmpie](https://github.com/guilyx/evmpie)
+1. ❗ Opened issue [#13](https://github.com/Sango-Club/Dropped/issues/13) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
+2. ❗ Opened issue [#12](https://github.com/Sango-Club/Dropped/issues/12) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
+3. ❗ Opened issue [#11](https://github.com/Sango-Club/Dropped/issues/11) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
+4. ❗ Opened issue [#10](https://github.com/Sango-Club/Dropped/issues/10) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
+5. ❗ Opened issue [#8](https://github.com/Sango-Club/Dropped/issues/8) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
