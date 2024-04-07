@@ -122,7 +122,7 @@ scroll                   6 mins              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 05 April 2024
+From: 16 July 2020 - To: 06 April 2024
 
 Total Time: 1,634 hrs 51 mins
 
