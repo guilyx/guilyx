@@ -71,8 +71,6 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C634%20hrs%2051%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -89,9 +87,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-🌆 Daytime                2291 commits        ████████░░░░░░░░░░░░░░░░░   33.67 % 
-🌃 Evening                3165 commits        ████████████░░░░░░░░░░░░░   46.52 % 
-🌙 Night                  1064 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+🌆 Daytime                2292 commits        ████████░░░░░░░░░░░░░░░░░   33.68 % 
+🌃 Evening                3166 commits        ████████████░░░░░░░░░░░░░   46.52 % 
+🌙 Night                  1064 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 ```
 
 
@@ -108,7 +106,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/04/2024 12:27:57 UTC
+ Last Updated on 14/04/2024 14:49:17 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
