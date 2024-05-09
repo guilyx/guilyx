@@ -79,7 +79,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 334.7 kB Used in GitHub's Storage 
  > 
-> 🏆 326 Contributions in the Year 2024
+> 🏆 328 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -91,8 +91,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-🌆 Daytime                2317 commits        ████████░░░░░░░░░░░░░░░░░   33.79 % 
-🌃 Evening                3191 commits        ████████████░░░░░░░░░░░░░   46.53 % 
+🌆 Daytime                2318 commits        ████████░░░░░░░░░░░░░░░░░   33.79 % 
+🌃 Evening                3192 commits        ████████████░░░░░░░░░░░░░   46.53 % 
 🌙 Night                  1066 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 ```
 
@@ -103,17 +103,14 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-C++                      1 hr 13 mins        █████████████████████░░░░   85.72 % 
-CMake                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-C                        5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-netbox-client-arrc-latest1 hr 6 mins         ███████████████████░░░░░░   77.83 % 
-swarm_mission            19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/05/2024 12:35:12 UTC
+ Last Updated on 09/05/2024 12:33:40 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
