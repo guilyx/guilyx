@@ -116,7 +116,7 @@ No Activity Tracked This Week
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 13 May 2024
+From: 16 July 2020 - To: 14 May 2024
 
 Total Time: 1,641 hrs 28 mins
 
