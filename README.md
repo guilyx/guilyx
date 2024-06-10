@@ -124,7 +124,7 @@ ros_ws                   10 mins             ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 08 June 2024
+From: 16 July 2020 - To: 09 June 2024
 
 Total Time: 1,674 hrs 29 mins
 
