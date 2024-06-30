@@ -124,7 +124,7 @@ sybilis                  8 mins              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 28 June 2024
+From: 16 July 2020 - To: 29 June 2024
 
 Total Time: 1,686 hrs 31 mins
 
