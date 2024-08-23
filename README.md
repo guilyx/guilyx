@@ -123,7 +123,7 @@ swarm_mission            0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 21 August 2024
+From: 16 July 2020 - To: 22 August 2024
 
 Total Time: 1,743 hrs 2 mins
 
