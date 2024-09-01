@@ -71,15 +71,13 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C756%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C759%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 335.0 kB Used in GitHub's Storage 
- > 
-> 🏆 786 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -91,8 +89,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                443 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-🌆 Daytime                2870 commits        █████████░░░░░░░░░░░░░░░░   36.78 % 
-🌃 Evening                3399 commits        ███████████░░░░░░░░░░░░░░   43.55 % 
+🌆 Daytime                2871 commits        █████████░░░░░░░░░░░░░░░░   36.78 % 
+🌃 Evening                3400 commits        ███████████░░░░░░░░░░░░░░   43.56 % 
 🌙 Night                  1092 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 ```
 
@@ -118,7 +116,7 @@ caltech_m4_bringup       29 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/08/2024 12:38:29 UTC
+ Last Updated on 01/09/2024 12:38:12 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
