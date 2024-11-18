@@ -124,7 +124,7 @@ Unknown Project          6 mins              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 16 November 2024
+From: 16 July 2020 - To: 17 November 2024
 
 Total Time: 1,830 hrs 27 mins
 
