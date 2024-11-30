@@ -64,11 +64,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4430](https://github.com/LayerZero-Labs/sybil-report/issues/4430#issuecomment-2118810886) in [LayerZero-Labs/sybil-report](https://github.com/LayerZero-Labs/sybil-report)
-2. ❗ Opened issue [#2](https://github.com/guilyx/blockchain_learning/issues/2) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-3. 🗣 Commented on [#1](https://github.com/guilyx/blockchain_learning/issues/1#issuecomment-2061876303) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-4. 🗣 Commented on [#1](https://github.com/guilyx/blockchain_learning/issues/1#issuecomment-2051379291) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-5. ❗ Opened issue [#1](https://github.com/guilyx/blockchain_learning/issues/1) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
+1. 🎉 Merged PR [#67](https://github.com/guilyx/TrackDrop/pull/67) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+2. 💪 Opened PR [#67](https://github.com/guilyx/TrackDrop/pull/67) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+3. 🎉 Merged PR [#66](https://github.com/guilyx/TrackDrop/pull/66) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+4. 💪 Opened PR [#66](https://github.com/guilyx/TrackDrop/pull/66) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+5. ❌ Closed PR [#30](https://github.com/guilyx/guilyx/pull/30) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
