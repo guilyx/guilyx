@@ -64,11 +64,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/guilyx/TrackDrop/pull/67) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-2. 💪 Opened PR [#67](https://github.com/guilyx/TrackDrop/pull/67) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-3. 🎉 Merged PR [#66](https://github.com/guilyx/TrackDrop/pull/66) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-4. 💪 Opened PR [#66](https://github.com/guilyx/TrackDrop/pull/66) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-5. ❌ Closed PR [#30](https://github.com/guilyx/guilyx/pull/30) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+1. ❗ Opened issue [#2](https://github.com/HunterTheAgent/community-ideas/issues/2) in [HunterTheAgent/community-ideas](https://github.com/HunterTheAgent/community-ideas)
+2. 🗣 Commented on [#1](https://github.com/HunterTheAgent/community-ideas/issues/1#issuecomment-2521148506) in [HunterTheAgent/community-ideas](https://github.com/HunterTheAgent/community-ideas)
+3. 🎉 Merged PR [#67](https://github.com/guilyx/TrackDrop/pull/67) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+4. 💪 Opened PR [#67](https://github.com/guilyx/TrackDrop/pull/67) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+5. 🎉 Merged PR [#66](https://github.com/guilyx/TrackDrop/pull/66) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
