@@ -125,7 +125,7 @@ vtol_cpp                 0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 12 December 2024
+From: 16 July 2020 - To: 13 December 2024
 
 Total Time: 1,857 hrs 26 mins
 
