@@ -64,11 +64,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/HunterTheAgent/community-ideas/issues/2) in [HunterTheAgent/community-ideas](https://github.com/HunterTheAgent/community-ideas)
-2. 🗣 Commented on [#1](https://github.com/HunterTheAgent/community-ideas/issues/1#issuecomment-2521148506) in [HunterTheAgent/community-ideas](https://github.com/HunterTheAgent/community-ideas)
-3. 🎉 Merged PR [#67](https://github.com/guilyx/TrackDrop/pull/67) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-4. 💪 Opened PR [#67](https://github.com/guilyx/TrackDrop/pull/67) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
-5. 🎉 Merged PR [#66](https://github.com/guilyx/TrackDrop/pull/66) in [guilyx/TrackDrop](https://github.com/guilyx/TrackDrop)
+1. 🚀 Published release [1.0.0](https://github.com/guilyx/ts-etherscan/releases/tag/1.0.0) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
+2. 🎉 Merged PR [#1](https://github.com/guilyx/ts-etherscan/pull/1) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
+3. 💪 Opened PR [#1](https://github.com/guilyx/ts-etherscan/pull/1) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
+4. ❗ Opened issue [#2](https://github.com/HunterTheAgent/community-ideas/issues/2) in [HunterTheAgent/community-ideas](https://github.com/HunterTheAgent/community-ideas)
+5. 🗣 Commented on [#1](https://github.com/HunterTheAgent/community-ideas/issues/1#issuecomment-2521148506) in [HunterTheAgent/community-ideas](https://github.com/HunterTheAgent/community-ideas)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
