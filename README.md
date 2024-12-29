@@ -64,11 +64,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/guilyx/ts-etherscan/pull/6) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
-2. 💪 Opened PR [#6](https://github.com/guilyx/ts-etherscan/pull/6) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
-3. 🚀 Published release [v1.0.2](https://github.com/guilyx/ts-etherscan/releases/tag/1.0.2) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
-4. 🎉 Merged PR [#5](https://github.com/guilyx/ts-etherscan/pull/5) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
-5. 💪 Opened PR [#5](https://github.com/guilyx/ts-etherscan/pull/5) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
+1. 🎉 Merged PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
+2. 💪 Opened PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
+3. 🎉 Merged PR [#6](https://github.com/guilyx/ts-etherscan/pull/6) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
+4. 💪 Opened PR [#6](https://github.com/guilyx/ts-etherscan/pull/6) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
+5. 🚀 Published release [v1.0.2](https://github.com/guilyx/ts-etherscan/releases/tag/1.0.2) in [guilyx/ts-etherscan](https://github.com/guilyx/ts-etherscan)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
