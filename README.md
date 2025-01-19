@@ -125,7 +125,7 @@ si_vtol_swarm            44 mins             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 17 January 2025
+From: 16 July 2020 - To: 18 January 2025
 
 Total Time: 1,910 hrs 15 mins
 
