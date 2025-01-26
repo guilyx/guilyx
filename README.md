@@ -72,7 +72,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C926%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C927%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.0%20million%20lines%20of%20code-blue)
 
@@ -80,7 +80,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 335.5 kB Used in GitHub's Storage 
  > 
-> 🏆 108 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,8 +92,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                343 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-🌆 Daytime                2358 commits        █████████░░░░░░░░░░░░░░░░   35.37 % 
-🌃 Evening                2967 commits        ███████████░░░░░░░░░░░░░░   44.50 % 
+🌆 Daytime                2359 commits        █████████░░░░░░░░░░░░░░░░   35.37 % 
+🌃 Evening                2968 commits        ███████████░░░░░░░░░░░░░░   44.50 % 
 🌙 Night                  999 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 ```
 
@@ -119,7 +119,7 @@ terminal-backend         1 hr 49 mins        ███░░░░░░░░�
 ```
 
 
- Last Updated on 25/01/2025 12:40:17 UTC
+ Last Updated on 26/01/2025 12:39:55 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
