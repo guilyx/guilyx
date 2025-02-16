@@ -117,7 +117,7 @@ guilyx.github.io         7 mins              ███████████�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 14 February 2025
+From: 16 July 2020 - To: 15 February 2025
 
 Total Time: 1,937 hrs 11 mins
 
