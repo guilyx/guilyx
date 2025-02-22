@@ -80,6 +80,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 335.4 kB Used in GitHub's Storage 
  > 
+> 🏆 164 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 71 Public Repositories 
@@ -90,9 +92,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                344 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-🌆 Daytime                2387 commits        █████████░░░░░░░░░░░░░░░░   35.47 % 
-🌃 Evening                2999 commits        ███████████░░░░░░░░░░░░░░   44.56 % 
-🌙 Night                  1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+🌆 Daytime                2388 commits        █████████░░░░░░░░░░░░░░░░   35.47 % 
+🌃 Evening                3000 commits        ███████████░░░░░░░░░░░░░░   44.56 % 
+🌙 Night                  1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 ```
 
 
@@ -109,7 +111,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/02/2025 12:44:08 UTC
+ Last Updated on 22/02/2025 12:40:30 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
