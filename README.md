@@ -125,7 +125,7 @@ eden                     1 hr 34 mins        ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 02 May 2025
+From: 16 July 2020 - To: 03 May 2025
 
 Total Time: 1,993 hrs 45 mins
 
