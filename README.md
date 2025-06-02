@@ -64,8 +64,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#246](https://github.com/DLu/ros_map/pull/246) in [DLu/ros_map](https://github.com/DLu/ros_map)
-2. ❌ Closed PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
+1. ❗ Opened issue [#360](https://github.com/d60/twikit/issues/360) in [d60/twikit](https://github.com/d60/twikit)
+2. 💪 Opened PR [#246](https://github.com/DLu/ros_map/pull/246) in [DLu/ros_map](https://github.com/DLu/ros_map)
 3. 💪 Opened PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
 4. 🎉 Merged PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
 5. 💪 Opened PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
