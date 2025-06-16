@@ -125,7 +125,7 @@ repos                    3 mins              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 14 June 2025
+From: 16 July 2020 - To: 15 June 2025
 
 Total Time: 2,035 hrs 45 mins
 
