@@ -125,7 +125,7 @@ hunter-demo              0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 24 June 2025
+From: 16 July 2020 - To: 25 June 2025
 
 Total Time: 2,050 hrs 48 mins
 
