@@ -72,15 +72,13 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C050%20hrs%2053%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 336.5 kB Used in GitHub's Storage 
  > 
-> 🏆 586 Contributions in the Year 2025
+> 🏆 588 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,9 +90,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                398 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-🌆 Daytime                2692 commits        █████████░░░░░░░░░░░░░░░░   36.52 % 
-🌃 Evening                3236 commits        ███████████░░░░░░░░░░░░░░   43.90 % 
-🌙 Night                  1045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+🌆 Daytime                2693 commits        █████████░░░░░░░░░░░░░░░░   36.53 % 
+🌃 Evening                3237 commits        ███████████░░░░░░░░░░░░░░   43.90 % 
+🌙 Night                  1045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 ```
 
 
@@ -112,7 +110,7 @@ rss-conference-paper-down5 mins              ███████████�
 ```
 
 
- Last Updated on 30/06/2025 12:55:06 UTC
+ Last Updated on 01/07/2025 12:55:01 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
