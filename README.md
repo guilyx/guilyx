@@ -78,9 +78,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 **🐱 My GitHub Data** 
 
-> 📦 336.5 kB Used in GitHub's Storage 
+> 📦 336.6 kB Used in GitHub's Storage 
  > 
-> 🏆 600 Contributions in the Year 2025
+> 🏆 604 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,9 +92,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                398 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-🌆 Daytime                2699 commits        █████████░░░░░░░░░░░░░░░░   36.55 % 
-🌃 Evening                3243 commits        ███████████░░░░░░░░░░░░░░   43.91 % 
-🌙 Night                  1045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+🌆 Daytime                2700 commits        █████████░░░░░░░░░░░░░░░░   36.55 % 
+🌃 Evening                3245 commits        ███████████░░░░░░░░░░░░░░   43.92 % 
+🌙 Night                  1045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 ```
 
 
@@ -104,14 +104,17 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     14 mins             ███████████████████░░░░░░   77.00 % 
+Git Config               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rss-conference-paper-down18 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2025 12:54:57 UTC
+ Last Updated on 08/07/2025 12:54:59 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
