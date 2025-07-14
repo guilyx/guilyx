@@ -125,7 +125,7 @@ arrc_si_caltech_simulator1 hr 3 mins         ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 12 July 2025
+From: 16 July 2020 - To: 13 July 2025
 
 Total Time: 2,065 hrs 23 mins
 
