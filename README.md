@@ -72,13 +72,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C098%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C098%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 405.9 kB Used in GitHub's Storage 
+> 📦 405.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 848 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -90,8 +92,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                1556 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-🌆 Daytime                5327 commits        ███████████░░░░░░░░░░░░░░   44.66 % 
-🌃 Evening                3807 commits        ████████░░░░░░░░░░░░░░░░░   31.92 % 
+🌆 Daytime                5328 commits        ███████████░░░░░░░░░░░░░░   44.66 % 
+🌃 Evening                3808 commits        ████████░░░░░░░░░░░░░░░░░   31.92 % 
 🌙 Night                  1238 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 ```
 
@@ -102,14 +104,14 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+Python                   24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-loop-dune                6 mins              █████████████████████████   100.00 % 
+loop-dune                24 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/08/2025 12:52:56 UTC
+ Last Updated on 10/08/2025 12:53:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
