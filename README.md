@@ -72,13 +72,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C103%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C103%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 405.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 865 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -90,8 +92,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                1556 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-🌆 Daytime                5338 commits        ███████████░░░░░░░░░░░░░░   44.67 % 
-🌃 Evening                3812 commits        ████████░░░░░░░░░░░░░░░░░   31.90 % 
+🌆 Daytime                5339 commits        ███████████░░░░░░░░░░░░░░   44.67 % 
+🌃 Evening                3813 commits        ████████░░░░░░░░░░░░░░░░░   31.91 % 
 🌙 Night                  1243 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 ```
 
@@ -117,7 +119,7 @@ hunterpods               28 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 14/08/2025 12:57:34 UTC
+ Last Updated on 15/08/2025 12:53:52 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
