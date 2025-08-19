@@ -123,7 +123,7 @@ hunterpods               0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 17 August 2025
+From: 16 July 2020 - To: 18 August 2025
 
 Total Time: 2,103 hrs 21 mins
 
