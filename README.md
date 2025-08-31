@@ -72,11 +72,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.3%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C114%20hrs%208%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 405.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 907 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -87,10 +91,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1552 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-🌆 Daytime                5327 commits        ███████████░░░░░░░░░░░░░░   44.60 % 
-🌃 Evening                3826 commits        ████████░░░░░░░░░░░░░░░░░   32.03 % 
-🌙 Night                  1240 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+🌞 Morning                911 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+🌆 Daytime                3881 commits        ██████████░░░░░░░░░░░░░░░   40.78 % 
+🌃 Evening                3542 commits        █████████░░░░░░░░░░░░░░░░   37.21 % 
+🌙 Night                  1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 ```
 
 
@@ -115,7 +119,7 @@ hunter-demo              13 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/08/2025 12:46:08 UTC
+ Last Updated on 31/08/2025 12:46:18 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
