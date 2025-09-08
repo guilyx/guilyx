@@ -125,7 +125,7 @@ arrc_ros2_utils          15 mins             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 06 September 2025
+From: 16 July 2020 - To: 07 September 2025
 
 Total Time: 2,120 hrs 49 mins
 
