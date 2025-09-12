@@ -72,7 +72,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C120%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C121%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.0%20million%20lines%20of%20code-blue)
 
@@ -80,7 +80,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 405.9 kB Used in GitHub's Storage 
  > 
-> 🏆 928 Contributions in the Year 2025
+> 🏆 930 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,8 +92,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                911 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-🌆 Daytime                3891 commits        ██████████░░░░░░░░░░░░░░░   40.79 % 
-🌃 Evening                3553 commits        █████████░░░░░░░░░░░░░░░░   37.25 % 
+🌆 Daytime                3892 commits        ██████████░░░░░░░░░░░░░░░   40.79 % 
+🌃 Evening                3554 commits        █████████░░░░░░░░░░░░░░░░   37.25 % 
 🌙 Night                  1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 ```
 
@@ -104,16 +104,18 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-YAML                     55 mins             ███████████████░░░░░░░░░░   59.17 % 
-TypeScript               38 mins             ██████████░░░░░░░░░░░░░░░   40.83 % 
+Python                   22 mins             ██████████░░░░░░░░░░░░░░░   41.89 % 
+Bash                     16 mins             ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+YAML                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+TypeScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 
 🐱‍💻 Projects: 
-arrc_si_devel            55 mins             ███████████████░░░░░░░░░░   59.17 % 
-arrc_bt_monitor          38 mins             ██████████░░░░░░░░░░░░░░░   40.83 % 
+arrc_bt_monitor          31 mins             ███████████████░░░░░░░░░░   58.12 % 
+swarm_mission            22 mins             ██████████░░░░░░░░░░░░░░░   41.88 % 
 ```
 
 
- Last Updated on 11/09/2025 12:49:45 UTC
+ Last Updated on 12/09/2025 12:49:35 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
