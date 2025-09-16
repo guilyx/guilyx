@@ -80,8 +80,6 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 405.9 kB Used in GitHub's Storage 
  > 
-> 🏆 936 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 87 Public Repositories 
@@ -92,8 +90,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                911 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-🌆 Daytime                3895 commits        ██████████░░░░░░░░░░░░░░░   40.80 % 
-🌃 Evening                3557 commits        █████████░░░░░░░░░░░░░░░░   37.26 % 
+🌆 Daytime                3896 commits        ██████████░░░░░░░░░░░░░░░   40.80 % 
+🌃 Evening                3558 commits        █████████░░░░░░░░░░░░░░░░   37.26 % 
 🌙 Night                  1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 ```
 
@@ -115,7 +113,7 @@ swarm_mission            22 mins             ██████████░�
 ```
 
 
- Last Updated on 15/09/2025 12:54:08 UTC
+ Last Updated on 16/09/2025 12:53:41 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
