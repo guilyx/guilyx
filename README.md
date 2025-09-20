@@ -80,7 +80,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 405.9 kB Used in GitHub's Storage 
  > 
-> 🏆 944 Contributions in the Year 2025
+> 🏆 946 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,8 +92,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                911 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-🌆 Daytime                3899 commits        ██████████░░░░░░░░░░░░░░░   40.81 % 
-🌃 Evening                3561 commits        █████████░░░░░░░░░░░░░░░░   37.27 % 
+🌆 Daytime                3900 commits        ██████████░░░░░░░░░░░░░░░   40.81 % 
+🌃 Evening                3562 commits        █████████░░░░░░░░░░░░░░░░   37.27 % 
 🌙 Night                  1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 ```
 
@@ -104,17 +104,14 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Python                   22 mins             ███████████░░░░░░░░░░░░░░   42.98 % 
-Bash                     16 mins             ████████░░░░░░░░░░░░░░░░░   30.75 % 
-YAML                     13 mins             ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-arrc_bt_monitor          30 mins             ██████████████░░░░░░░░░░░   57.02 % 
-swarm_mission            22 mins             ███████████░░░░░░░░░░░░░░   42.98 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/09/2025 12:51:26 UTC
+ Last Updated on 20/09/2025 12:47:44 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
