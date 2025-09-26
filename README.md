@@ -72,7 +72,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C121%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C128%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.0%20million%20lines%20of%20code-blue)
 
@@ -80,7 +80,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 405.9 kB Used in GitHub's Storage 
  > 
-> 🏆 964 Contributions in the Year 2025
+> 🏆 971 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -91,10 +91,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                915 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-🌆 Daytime                3911 commits        ██████████░░░░░░░░░░░░░░░   40.83 % 
-🌃 Evening                3568 commits        █████████░░░░░░░░░░░░░░░░   37.25 % 
-🌙 Night                  1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+🌞 Morning                915 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+🌆 Daytime                3935 commits        ██████████░░░░░░░░░░░░░░░   40.98 % 
+🌃 Evening                3569 commits        █████████░░░░░░░░░░░░░░░░   37.17 % 
+🌙 Night                  1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 ```
 
 
@@ -104,14 +104,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.40 % 
+Markdown                 1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Docker                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+website                  2 hrs 45 mins       █████████████░░░░░░░░░░░░   53.44 % 
+irma.xyz                 2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.76 % 
+pstidotcom               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+nikita                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+web3                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 
- Last Updated on 25/09/2025 12:54:07 UTC
+ Last Updated on 26/09/2025 12:52:38 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
