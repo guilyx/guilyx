@@ -93,7 +93,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 26 September 2025
+From: 16 July 2020 - To: 27 September 2025
 
 Total Time: 2,129 hrs 34 mins
 
