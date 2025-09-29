@@ -72,13 +72,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C129%20hrs%2034%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 405.9 kB Used in GitHub's Storage 
  > 
-> 🏆 975 Contributions in the Year 2025
+> 🏆 977 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,8 +88,38 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 28/09/2025 12:45:41 UTC
+```text
+🌞 Morning                915 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌆 Daytime                3940 commits        ██████████░░░░░░░░░░░░░░░   40.99 % 
+🌃 Evening                3572 commits        █████████░░░░░░░░░░░░░░░░   37.17 % 
+🌙 Night                  1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+TypeScript               2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.54 % 
+Markdown                 2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.60 % 
+Docker                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+
+🐱‍💻 Projects: 
+irma.xyz                 4 hrs 41 mins       ███████████████░░░░░░░░░░   60.52 % 
+website                  2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
+pstidotcom               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+nikita                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+web3                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+```
+
+
+ Last Updated on 29/09/2025 12:54:54 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
