@@ -64,10 +64,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Unchained-Labs/chatbox-sandbox/pull/3) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
-2. 💪 Opened PR [#3](https://github.com/Unchained-Labs/chatbox-sandbox/pull/3) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
-3. 🎉 Merged PR [#2](https://github.com/Unchained-Labs/chatbox-sandbox/pull/2) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
-4. 💪 Opened PR [#2](https://github.com/Unchained-Labs/chatbox-sandbox/pull/2) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
+1. 💪 Opened PR [#3](undefined) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
+2. 💪 Opened PR [#2](undefined) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
+3. 💪 Opened PR [#1](undefined) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
+4. ❗ Opened issue [#221](https://github.com/SharedStake/SharedStake-ui/issues/221) in [SharedStake/SharedStake-ui](https://github.com/SharedStake/SharedStake-ui)
 5. 🎉 Merged PR [#1](https://github.com/Unchained-Labs/chatbox-sandbox/pull/1) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
 <!--END_SECTION:activity-->
 
