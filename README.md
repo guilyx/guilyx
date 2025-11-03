@@ -123,7 +123,7 @@ arrc_si_devel            0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 01 November 2025
+From: 16 July 2020 - To: 02 November 2025
 
 Total Time: 2,166 hrs 37 mins
 
