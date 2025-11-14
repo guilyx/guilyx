@@ -64,9 +64,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/guilyx/awesome-github-pages-portfolios/pull/6#issuecomment-3516670713) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
-2. 💪 Opened PR [#2](undefined) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
-3. 💪 Opened PR [#1](undefined) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
+1. 💪 Opened PR [#1](undefined) in [guilyx/plotjuggler-ros-plugins](https://github.com/guilyx/plotjuggler-ros-plugins)
+2. 💪 Opened PR [#108](undefined) in [PlotJuggler/plotjuggler-ros-plugins](https://github.com/PlotJuggler/plotjuggler-ros-plugins)
+3. 🗣 Commented on [#6](https://github.com/guilyx/awesome-github-pages-portfolios/pull/6#issuecomment-3516670713) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
 4. ❗ Opened issue [#221](https://github.com/SharedStake/SharedStake-ui/issues/221) in [SharedStake/SharedStake-ui](https://github.com/SharedStake/SharedStake-ui)
 5. 🎉 Merged PR [#1](https://github.com/Unchained-Labs/chatbox-sandbox/pull/1) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
 <!--END_SECTION:activity-->
