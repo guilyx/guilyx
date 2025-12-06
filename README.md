@@ -80,7 +80,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 406.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,241 Contributions in the Year 2025
+> 🏆 1,243 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,8 +92,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                940 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-🌆 Daytime                4422 commits        ███████████░░░░░░░░░░░░░░   42.10 % 
-🌃 Evening                3762 commits        █████████░░░░░░░░░░░░░░░░   35.82 % 
+🌆 Daytime                4423 commits        ███████████░░░░░░░░░░░░░░   42.10 % 
+🌃 Evening                3763 commits        █████████░░░░░░░░░░░░░░░░   35.82 % 
 🌙 Night                  1379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 ```
 
@@ -104,16 +104,14 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-YAML                     7 mins              ██████████████████████░░░   87.22 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-arrc_si_deploy           7 mins              ██████████████████████░░░   87.22 % 
-repos                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/12/2025 12:57:44 UTC
+ Last Updated on 06/12/2025 12:53:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
