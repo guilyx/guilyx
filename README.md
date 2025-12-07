@@ -117,7 +117,7 @@ No Activity Tracked This Week
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 05 December 2025
+From: 16 July 2020 - To: 06 December 2025
 
 Total Time: 2,188 hrs 51 mins
 
