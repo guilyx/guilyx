@@ -80,7 +80,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 406.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,247 Contributions in the Year 2025
+> 🏆 1,249 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -92,8 +92,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                939 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-🌆 Daytime                4412 commits        ███████████░░░░░░░░░░░░░░   42.06 % 
-🌃 Evening                3761 commits        █████████░░░░░░░░░░░░░░░░   35.85 % 
+🌆 Daytime                4413 commits        ███████████░░░░░░░░░░░░░░   42.06 % 
+🌃 Evening                3762 commits        █████████░░░░░░░░░░░░░░░░   35.85 % 
 🌙 Night                  1379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 ```
 
@@ -104,14 +104,16 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 39 mins             ████████████████████████░   97.36 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+arrc_si_bags_toolbox     40 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/12/2025 12:59:36 UTC
+ Last Updated on 09/12/2025 13:01:10 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
