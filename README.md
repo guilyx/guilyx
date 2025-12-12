@@ -64,10 +64,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [guilyx/plotjuggler-ros-plugins](https://github.com/guilyx/plotjuggler-ros-plugins)
-2. 💪 Opened PR [#1](undefined) in [guilyx/plotjuggler-ros-plugins](https://github.com/guilyx/plotjuggler-ros-plugins)
-3. 💪 Opened PR [#108](undefined) in [PlotJuggler/plotjuggler-ros-plugins](https://github.com/PlotJuggler/plotjuggler-ros-plugins)
-4. 🗣 Commented on [#6](https://github.com/guilyx/awesome-github-pages-portfolios/pull/6#issuecomment-3516670713) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
+1. 💪 Opened PR [#22](undefined) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
+2. ❌ Merged PR [#1](undefined) in [guilyx/plotjuggler-ros-plugins](https://github.com/guilyx/plotjuggler-ros-plugins)
+3. 💪 Opened PR [#1](undefined) in [guilyx/plotjuggler-ros-plugins](https://github.com/guilyx/plotjuggler-ros-plugins)
+4. 💪 Opened PR [#108](undefined) in [PlotJuggler/plotjuggler-ros-plugins](https://github.com/PlotJuggler/plotjuggler-ros-plugins)
 5. 🎉 Merged PR [#1](https://github.com/Unchained-Labs/chatbox-sandbox/pull/1) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
 <!--END_SECTION:activity-->
 
