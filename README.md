@@ -125,7 +125,7 @@ aerial-autonomy-stack    30 mins             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 13 December 2025
+From: 16 July 2020 - To: 14 December 2025
 
 Total Time: 2,199 hrs 6 mins
 
