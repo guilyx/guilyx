@@ -64,10 +64,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](undefined) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
-2. ❌ Merged PR [#1](undefined) in [guilyx/plotjuggler-ros-plugins](https://github.com/guilyx/plotjuggler-ros-plugins)
-3. 💪 Opened PR [#1](undefined) in [guilyx/plotjuggler-ros-plugins](https://github.com/guilyx/plotjuggler-ros-plugins)
-4. 💪 Opened PR [#108](undefined) in [PlotJuggler/plotjuggler-ros-plugins](https://github.com/PlotJuggler/plotjuggler-ros-plugins)
+1. ❌ Closed PR [#1](undefined) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
+2. 💪 Opened PR [#1](undefined) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
+3. 🗣 Commented on [#22](https://github.com/JacopoPan/aerial-autonomy-stack/pull/22#issuecomment-3655059974) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
+4. 💪 Opened PR [#22](undefined) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
 5. 🎉 Merged PR [#1](https://github.com/Unchained-Labs/chatbox-sandbox/pull/1) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
 <!--END_SECTION:activity-->
 
