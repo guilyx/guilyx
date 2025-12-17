@@ -125,7 +125,7 @@ arrc_si_bags_toolbox     51 mins             ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 15 December 2025
+From: 16 July 2020 - To: 16 December 2025
 
 Total Time: 2,200 hrs 56 mins
 
