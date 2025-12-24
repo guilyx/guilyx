@@ -64,11 +64,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#22](undefined) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
-2. ❌ Closed PR [#1](undefined) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
-3. 💪 Opened PR [#1](undefined) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
-4. 🗣 Commented on [#22](https://github.com/JacopoPan/aerial-autonomy-stack/pull/22#issuecomment-3655059974) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
-5. 💪 Opened PR [#22](undefined) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
+1. 🗣 Commented on [#23](https://github.com/anmol098/waka-readme-stats/issues/23#issuecomment-3689483576) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. ❌ Merged PR [#22](undefined) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
+3. ❌ Closed PR [#1](undefined) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
+4. 💪 Opened PR [#1](undefined) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
+5. 🗣 Commented on [#22](https://github.com/JacopoPan/aerial-autonomy-stack/pull/22#issuecomment-3655059974) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
