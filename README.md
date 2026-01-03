@@ -72,15 +72,13 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C222%20hrs%2019%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.53%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.62%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 406.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 43 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,38 +86,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
  > 
 > 🔑 28 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                965 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-🌆 Daytime                4544 commits        ██████████░░░░░░░░░░░░░░░   40.94 % 
-🌃 Evening                3876 commits        █████████░░░░░░░░░░░░░░░░   34.92 % 
-🌙 Night                  1715 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.52 % 
-YAML                     2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Markdown                 2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Bash                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Python                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-
-🐱‍💻 Projects: 
-elejeune.xyz             4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-synod-frontend           2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-synod-backend            2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-synod                    2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-jinsen                   2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-```
-
-
- Last Updated on 02/01/2026 12:58:12 UTC
+ Last Updated on 03/01/2026 12:58:08 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
