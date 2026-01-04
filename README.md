@@ -72,13 +72,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.62%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C237%20hrs%2041%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.68%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 406.2 kB Used in GitHub's Storage 
  > 
-> 🏆 43 Contributions in the Year 2026
+> 🏆 63 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -86,8 +88,38 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 03/01/2026 12:58:08 UTC
+```text
+🌞 Morning                1030 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+🌆 Daytime                4556 commits        ██████████░░░░░░░░░░░░░░░   39.73 % 
+🌃 Evening                3929 commits        █████████░░░░░░░░░░░░░░░░   34.26 % 
+🌙 Night                  1953 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+Python                   5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+YAML                     3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+TypeScript               2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Markdown                 2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+
+🐱‍💻 Projects: 
+synod-agent              3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+synod                    3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+synod-frontend           3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+synod-backend            2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+jinsen                   2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+```
+
+
+ Last Updated on 04/01/2026 12:59:06 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
