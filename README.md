@@ -64,11 +64,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/ros2/message_filters/pull/68#issuecomment-3732119316) in [ros2/message_filters](https://github.com/ros2/message_filters)
-2. 🗣 Commented on [#68](https://github.com/ros2/message_filters/pull/68#issuecomment-3732112087) in [ros2/message_filters](https://github.com/ros2/message_filters)
-3. 🚀 Published release [v0.1.0](https://github.com/guilyx/cryptopanic/releases/tag/v0.1.0) in [guilyx/cryptopanic](https://github.com/guilyx/cryptopanic)
-4. 🎉 Merged PR [#1](https://github.com/guilyx/cryptopanic/pull/1) in [guilyx/cryptopanic](https://github.com/guilyx/cryptopanic)
-5. 💪 Opened PR [#1](https://github.com/guilyx/cryptopanic/pull/1) in [guilyx/cryptopanic](https://github.com/guilyx/cryptopanic)
+1. 🗣 Commented on [#2](https://github.com/guilyx/guilyx/issues/2#issuecomment-3737419868) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+2. 🔒 Closed issue [#37](https://github.com/guilyx/guilyx/issues/37) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+3. 🗣 Commented on [#37](https://github.com/guilyx/guilyx/issues/37#issuecomment-3737418971) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+4. 🎉 Merged PR [#39](https://github.com/guilyx/guilyx/pull/39) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+5. 💪 Opened PR [#39](https://github.com/guilyx/guilyx/pull/39) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
