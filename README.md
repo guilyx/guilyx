@@ -21,21 +21,18 @@
 <br>
 </p>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
-</p>
-
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
 name: Erwin Lejeune
 located_in: Abu Dhabi, UAE
 from: Nantes (France)
-job: Senior Robotics Software Engineer
+job: Lead Robotics Software Engineer
 education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
 company: Technology Innovation Institute
 past experiences:
-  - ["Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-2023"]
+  - ["Lead Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-Now"]
+  - ["Principal Solutions Engineer", "Web3, AI", "Unchained Labs", "Stealth", "2024-Now"]
   - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
   - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
   - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
