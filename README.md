@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/WAT-Suite/wat/pull/1) in [WAT-Suite/wat](https://github.com/WAT-Suite/wat)
-2. 💪 Opened PR [#1](https://github.com/WAT-Suite/wat/pull/1) in [WAT-Suite/wat](https://github.com/WAT-Suite/wat)
-3. 🗣 Commented on [#68](https://github.com/ros2/message_filters/pull/68#issuecomment-3742883399) in [ros2/message_filters](https://github.com/ros2/message_filters)
-4. 🗣 Commented on [#2](https://github.com/guilyx/guilyx/issues/2#issuecomment-3737419868) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
-5. 🔒 Closed issue [#37](https://github.com/guilyx/guilyx/issues/37) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+1. 🚀 Published release [v0.1.0](https://github.com/WAT-Suite/uruwat/releases/tag/v0.1.0) in [WAT-Suite/uruwat](https://github.com/WAT-Suite/uruwat)
+2. 🚀 Published release [v0.1.0](https://github.com/WAT-Suite/uruwat/releases/tag/v0.1.0) in [WAT-Suite/uruwat](https://github.com/WAT-Suite/uruwat)
+3. 🎉 Merged PR [#1](https://github.com/WAT-Suite/uruwat/pull/1) in [WAT-Suite/uruwat](https://github.com/WAT-Suite/uruwat)
+4. 💪 Opened PR [#1](https://github.com/WAT-Suite/uruwat/pull/1) in [WAT-Suite/uruwat](https://github.com/WAT-Suite/uruwat)
+5. 🎉 Merged PR [#1](https://github.com/WAT-Suite/wat/pull/1) in [WAT-Suite/wat](https://github.com/WAT-Suite/wat)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
