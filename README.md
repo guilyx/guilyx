@@ -65,7 +65,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 2. 🗣 Commented on [#14771](https://github.com/BerriAI/litellm/issues/14771#issuecomment-3771401625) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
 3. 💪 Opened PR [#19394](https://github.com/BerriAI/litellm/pull/19394) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
 4. 🗣 Commented on [#14771](https://github.com/BerriAI/litellm/issues/14771#issuecomment-3768874795) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-5. 🎉 Merged PR [#1](https://github.com/guilyx/bash.ai/pull/1) in [guilyx/bash.ai](https://github.com/guilyx/bash.ai)
+5. 🎉 Merged PR [#1](https://github.com/guilyx/flourish/pull/1) in [guilyx/flourish](https://github.com/guilyx/flourish)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
