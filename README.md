@@ -122,7 +122,7 @@ jinsen                   3 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 24 January 2026
+From: 16 July 2020 - To: 25 January 2026
 
 Total Time: 2,261 hrs 4 mins
 
