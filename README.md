@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/40#issuecomment-3805048216) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-2. 🎉 Merged PR [#1](https://github.com/guilyx/simple_autonomous_car/pull/1) in [guilyx/simple_autonomous_car](https://github.com/guilyx/simple_autonomous_car)
-3. 💪 Opened PR [#40](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/40) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-4. 💪 Opened PR [#1](https://github.com/guilyx/simple_autonomous_car/pull/1) in [guilyx/simple_autonomous_car](https://github.com/guilyx/simple_autonomous_car)
-5. 🎉 Merged PR [#2](https://github.com/guilyx/flourish/pull/2) in [guilyx/flourish](https://github.com/guilyx/flourish)
+1. 🚀 Published release [v0.1.1](https://github.com/guilyx/simple_autonomous_car/releases/tag/v0.1.1) in [guilyx/simple_autonomous_car](https://github.com/guilyx/simple_autonomous_car)
+2. 💪 Opened PR [#48](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/48) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+3. 💪 Opened PR [#46](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/46) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+4. 💪 Opened PR [#44](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/44) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+5. 💪 Opened PR [#43](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/43) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
