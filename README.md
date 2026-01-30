@@ -31,7 +31,7 @@ job: Lead Robotics Software Engineer
 education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
 company: Technology Innovation Institute
 past experiences:
-  - ["Lead Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-Now"]
+  - ["Sr Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-Now"]
   - ["Principal Solutions Engineer", "Web3, AI", "Unchained Labs", "Stealth", "2024-Now"]
   - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
   - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
