@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/guilyx/ascii_banner_mcp/pull/3) in [guilyx/ascii_banner_mcp](https://github.com/guilyx/ascii_banner_mcp)
-2. 💪 Opened PR [#3](https://github.com/guilyx/ascii_banner_mcp/pull/3) in [guilyx/ascii_banner_mcp](https://github.com/guilyx/ascii_banner_mcp)
-3. 🎉 Merged PR [#2](https://github.com/guilyx/ascii_banner_mcp/pull/2) in [guilyx/ascii_banner_mcp](https://github.com/guilyx/ascii_banner_mcp)
-4. 💪 Opened PR [#2](https://github.com/guilyx/ascii_banner_mcp/pull/2) in [guilyx/ascii_banner_mcp](https://github.com/guilyx/ascii_banner_mcp)
-5. 🎉 Merged PR [#1](https://github.com/guilyx/ascii_banner_mcp/pull/1) in [guilyx/ascii_banner_mcp](https://github.com/guilyx/ascii_banner_mcp)
+1. 🎉 Merged PR [#1](https://github.com/guilyx/flouri.github.io/pull/1) in [guilyx/flouri.github.io](https://github.com/guilyx/flouri.github.io)
+2. 💪 Opened PR [#1](https://github.com/guilyx/flouri.github.io/pull/1) in [guilyx/flouri.github.io](https://github.com/guilyx/flouri.github.io)
+3. ❗ Opened issue [#21](https://github.com/guilyx/flouri/issues/21) in [guilyx/flouri](https://github.com/guilyx/flouri)
+4. 🎉 Merged PR [#20](https://github.com/guilyx/flouri/pull/20) in [guilyx/flouri](https://github.com/guilyx/flouri)
+5. 💪 Opened PR [#20](https://github.com/guilyx/flouri/pull/20) in [guilyx/flouri](https://github.com/guilyx/flouri)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
