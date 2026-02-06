@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.2](https://github.com/guilyx/rostree/releases/tag/v0.2.2) in [guilyx/rostree](https://github.com/guilyx/rostree)
-2. 🎉 Merged PR [#10](https://github.com/guilyx/rostree/pull/10) in [guilyx/rostree](https://github.com/guilyx/rostree)
-3. 💪 Opened PR [#10](https://github.com/guilyx/rostree/pull/10) in [guilyx/rostree](https://github.com/guilyx/rostree)
-4. 🎉 Merged PR [#9](https://github.com/guilyx/rostree/pull/9) in [guilyx/rostree](https://github.com/guilyx/rostree)
-5. 💪 Opened PR [#9](https://github.com/guilyx/rostree/pull/9) in [guilyx/rostree](https://github.com/guilyx/rostree)
+1. 🎉 Merged PR [#11](https://github.com/guilyx/rostree/pull/11) in [guilyx/rostree](https://github.com/guilyx/rostree)
+2. 💪 Opened PR [#11](https://github.com/guilyx/rostree/pull/11) in [guilyx/rostree](https://github.com/guilyx/rostree)
+3. 🚀 Published release [v0.2.2](https://github.com/guilyx/rostree/releases/tag/v0.2.2) in [guilyx/rostree](https://github.com/guilyx/rostree)
+4. 🎉 Merged PR [#10](https://github.com/guilyx/rostree/pull/10) in [guilyx/rostree](https://github.com/guilyx/rostree)
+5. 💪 Opened PR [#10](https://github.com/guilyx/rostree/pull/10) in [guilyx/rostree](https://github.com/guilyx/rostree)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
