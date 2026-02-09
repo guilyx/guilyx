@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/guilyx/rostree/pull/11) in [guilyx/rostree](https://github.com/guilyx/rostree)
-2. 💪 Opened PR [#11](https://github.com/guilyx/rostree/pull/11) in [guilyx/rostree](https://github.com/guilyx/rostree)
-3. 🚀 Published release [v0.2.2](https://github.com/guilyx/rostree/releases/tag/v0.2.2) in [guilyx/rostree](https://github.com/guilyx/rostree)
-4. 🎉 Merged PR [#10](https://github.com/guilyx/rostree/pull/10) in [guilyx/rostree](https://github.com/guilyx/rostree)
-5. 💪 Opened PR [#10](https://github.com/guilyx/rostree/pull/10) in [guilyx/rostree](https://github.com/guilyx/rostree)
+1. 💪 Opened PR [#61](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/61) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+2. 💪 Opened PR [#60](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/60) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+3. 🗣 Commented on [#59](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/59#issuecomment-3871291366) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+4. 💪 Opened PR [#59](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/59) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+5. 🎉 Merged PR [#11](https://github.com/guilyx/rostree/pull/11) in [guilyx/rostree](https://github.com/guilyx/rostree)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
