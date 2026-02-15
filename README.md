@@ -118,7 +118,7 @@ arrc_si_devel            24 mins             ███░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 13 February 2026
+From: 16 July 2020 - To: 14 February 2026
 
 Total Time: 2,286 hrs 15 mins
 
