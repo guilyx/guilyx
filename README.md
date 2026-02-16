@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/62) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-2. 💪 Opened PR [#61](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/61) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-3. 💪 Opened PR [#60](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/60) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-4. 🗣 Commented on [#59](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/59#issuecomment-3871291366) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-5. 💪 Opened PR [#59](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/59) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+1. 🎉 Merged PR [#3](https://github.com/guilyx/resume/pull/3) in [guilyx/resume](https://github.com/guilyx/resume)
+2. 💪 Opened PR [#3](https://github.com/guilyx/resume/pull/3) in [guilyx/resume](https://github.com/guilyx/resume)
+3. 🎉 Merged PR [#2](https://github.com/guilyx/resume/pull/2) in [guilyx/resume](https://github.com/guilyx/resume)
+4. 💪 Opened PR [#2](https://github.com/guilyx/resume/pull/2) in [guilyx/resume](https://github.com/guilyx/resume)
+5. 🎉 Merged PR [#1](https://github.com/guilyx/resume/pull/1) in [guilyx/resume](https://github.com/guilyx/resume)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
