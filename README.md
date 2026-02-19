@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/guilyx/autonomous-uav-guide/pull/19) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
-2. 🎉 Merged PR [#17](https://github.com/guilyx/autonomous-uav-guide/pull/17) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
-3. 💪 Opened PR [#18](https://github.com/guilyx/autonomous-uav-guide/pull/18) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
-4. 💪 Opened PR [#17](https://github.com/guilyx/autonomous-uav-guide/pull/17) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
-5. 💪 Opened PR [#16](https://github.com/guilyx/autonomous-uav-guide/pull/16) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
+1. 💪 Opened PR [#37](https://github.com/guilyx/autonomous-uav-guide/pull/37) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
+2. 💪 Opened PR [#36](https://github.com/guilyx/autonomous-uav-guide/pull/36) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
+3. 💪 Opened PR [#35](https://github.com/guilyx/autonomous-uav-guide/pull/35) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
+4. 💪 Opened PR [#34](https://github.com/guilyx/autonomous-uav-guide/pull/34) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
+5. 💪 Opened PR [#33](https://github.com/guilyx/autonomous-uav-guide/pull/33) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
