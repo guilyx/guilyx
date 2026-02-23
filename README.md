@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/guilyx/autonomous-uav-guide/pull/51) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
-2. 💪 Opened PR [#50](https://github.com/guilyx/autonomous-uav-guide/pull/50) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
-3. 💪 Opened PR [#49](https://github.com/guilyx/autonomous-uav-guide/pull/49) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
-4. 🎉 Merged PR [#44](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/44) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-5. 🎉 Merged PR [#48](https://github.com/guilyx/autonomous-uav-guide/pull/48) in [guilyx/autonomous-uav-guide](https://github.com/guilyx/autonomous-uav-guide)
+1. 🎉 Merged PR [#3](https://github.com/guilyx/epsteinexposed/pull/3) in [guilyx/epsteinexposed](https://github.com/guilyx/epsteinexposed)
+2. 💪 Opened PR [#3](https://github.com/guilyx/epsteinexposed/pull/3) in [guilyx/epsteinexposed](https://github.com/guilyx/epsteinexposed)
+3. 🚀 Published release [v0.2.0](https://github.com/guilyx/epsteinexposed/releases/tag/v0.2.0) in [guilyx/epsteinexposed](https://github.com/guilyx/epsteinexposed)
+4. 🎉 Merged PR [#2](https://github.com/guilyx/epsteinexposed/pull/2) in [guilyx/epsteinexposed](https://github.com/guilyx/epsteinexposed)
+5. 💪 Opened PR [#2](https://github.com/guilyx/epsteinexposed/pull/2) in [guilyx/epsteinexposed](https://github.com/guilyx/epsteinexposed)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
