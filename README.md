@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Unchained-Labs/seal/pull/12) in [Unchained-Labs/seal](https://github.com/Unchained-Labs/seal)
-2. 🎉 Merged PR [#11](https://github.com/Unchained-Labs/otter/pull/11) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-3. 🎉 Merged PR [#3](https://github.com/Unchained-Labs/lavoix/pull/3) in [Unchained-Labs/lavoix](https://github.com/Unchained-Labs/lavoix)
-4. 💪 Opened PR [#11](https://github.com/Unchained-Labs/otter/pull/11) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-5. 💪 Opened PR [#3](https://github.com/Unchained-Labs/lavoix/pull/3) in [Unchained-Labs/lavoix](https://github.com/Unchained-Labs/lavoix)
+1. 🎉 Merged PR [#12](https://github.com/Unchained-Labs/kymatics/pull/12) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
+2. 💪 Opened PR [#12](https://github.com/Unchained-Labs/kymatics/pull/12) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
+3. 🎉 Merged PR [#12](https://github.com/Unchained-Labs/seal/pull/12) in [Unchained-Labs/seal](https://github.com/Unchained-Labs/seal)
+4. 🎉 Merged PR [#11](https://github.com/Unchained-Labs/otter/pull/11) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+5. 🎉 Merged PR [#3](https://github.com/Unchained-Labs/lavoix/pull/3) in [Unchained-Labs/lavoix](https://github.com/Unchained-Labs/lavoix)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
