@@ -122,7 +122,7 @@ autonomous-quadrotor-guid1 hr 2 mins         ███░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 03 March 2026
+From: 16 July 2020 - To: 04 March 2026
 
 Total Time: 2,312 hrs 43 mins
 
