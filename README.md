@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/guilyx/setup/pull/3) in [guilyx/setup](https://github.com/guilyx/setup)
-2. 💪 Opened PR [#3](https://github.com/guilyx/setup/pull/3) in [guilyx/setup](https://github.com/guilyx/setup)
-3. 🎉 Merged PR [#1](https://github.com/guilyx/setup/pull/1) in [guilyx/setup](https://github.com/guilyx/setup)
-4. 🎉 Merged PR [#2](https://github.com/guilyx/setup/pull/2) in [guilyx/setup](https://github.com/guilyx/setup)
-5. 💪 Opened PR [#2](https://github.com/guilyx/setup/pull/2) in [guilyx/setup](https://github.com/guilyx/setup)
+1. 🎉 Merged PR [#4](https://github.com/guilyx/resume/pull/4) in [guilyx/resume](https://github.com/guilyx/resume)
+2. 💪 Opened PR [#4](https://github.com/guilyx/resume/pull/4) in [guilyx/resume](https://github.com/guilyx/resume)
+3. 🎉 Merged PR [#3](https://github.com/guilyx/setup/pull/3) in [guilyx/setup](https://github.com/guilyx/setup)
+4. 💪 Opened PR [#3](https://github.com/guilyx/setup/pull/3) in [guilyx/setup](https://github.com/guilyx/setup)
+5. 🎉 Merged PR [#1](https://github.com/guilyx/setup/pull/1) in [guilyx/setup](https://github.com/guilyx/setup)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
