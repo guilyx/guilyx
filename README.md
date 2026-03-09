@@ -69,29 +69,29 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C313%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C315%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.41%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 550.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,532 Contributions in the Year 2026
+> 🏆 1,546 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 110 Public Repositories 
  > 
-> 🔑 34 Private Repositories 
+> 🔑 36 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1901 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-🌆 Daytime                7193 commits        █████████░░░░░░░░░░░░░░░░   36.53 % 
-🌃 Evening                7170 commits        █████████░░░░░░░░░░░░░░░░   36.42 % 
-🌙 Night                  3424 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+🌞 Morning                1922 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+🌆 Daytime                7194 commits        █████████░░░░░░░░░░░░░░░░   36.45 % 
+🌃 Evening                7196 commits        █████████░░░░░░░░░░░░░░░░   36.46 % 
+🌙 Night                  3424 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 ```
 
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-YAML                     2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.76 % 
-Markdown                 2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-Bash                     1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Rust                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-INI                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+C++                      3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+YAML                     1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Bash                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Markdown                 1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+XML                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🐱‍💻 Projects: 
-otter                    2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.01 % 
-kymatics                 1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-seal                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-airdropio-scraper        32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-mistral-vibe             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+sirb_zones_manager       6 hrs 5 mins        ███████████████░░░░░░░░░░   59.35 % 
+uae_defense_reporter     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+otter                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+kymatics                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+airdropio-scraper        32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 ```
 
 
- Last Updated on 07/03/2026 14:43:07 UTC
+ Last Updated on 09/03/2026 15:26:49 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
