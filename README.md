@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/guilyx/resume/pull/4) in [guilyx/resume](https://github.com/guilyx/resume)
-2. 💪 Opened PR [#4](https://github.com/guilyx/resume/pull/4) in [guilyx/resume](https://github.com/guilyx/resume)
-3. 🎉 Merged PR [#3](https://github.com/guilyx/setup/pull/3) in [guilyx/setup](https://github.com/guilyx/setup)
-4. 💪 Opened PR [#3](https://github.com/guilyx/setup/pull/3) in [guilyx/setup](https://github.com/guilyx/setup)
-5. 🎉 Merged PR [#1](https://github.com/guilyx/setup/pull/1) in [guilyx/setup](https://github.com/guilyx/setup)
+1. ❗ Opened issue [#16](https://github.com/Unchained-Labs/kymatics/issues/16) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
+2. ❗ Opened issue [#15](https://github.com/Unchained-Labs/kymatics/issues/15) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
+3. ❗ Opened issue [#14](https://github.com/Unchained-Labs/kymatics/issues/14) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
+4. 🔒 Closed issue [#10](https://github.com/Unchained-Labs/kymatics/issues/10) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
+5. 🔒 Closed issue [#9](https://github.com/Unchained-Labs/kymatics/issues/9) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
