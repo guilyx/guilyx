@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/Unchained-Labs/kymatics/issues/16) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
-2. 🔒 Closed issue [#15](https://github.com/Unchained-Labs/kymatics/issues/15) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
-3. 🔒 Closed issue [#14](https://github.com/Unchained-Labs/kymatics/issues/14) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
-4. 💪 Opened PR [#12](https://github.com/Unchained-Labs/otter/pull/12) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-5. 💪 Opened PR [#14](https://github.com/Unchained-Labs/seal/pull/14) in [Unchained-Labs/seal](https://github.com/Unchained-Labs/seal)
+1. 🎉 Merged PR [#11](https://github.com/guilyx/muxai/pull/11) in [guilyx/muxai](https://github.com/guilyx/muxai)
+2. 🎉 Merged PR [#10](https://github.com/guilyx/muxai/pull/10) in [guilyx/muxai](https://github.com/guilyx/muxai)
+3. 🎉 Merged PR [#9](https://github.com/guilyx/muxai/pull/9) in [guilyx/muxai](https://github.com/guilyx/muxai)
+4. 🎉 Merged PR [#8](https://github.com/guilyx/muxai/pull/8) in [guilyx/muxai](https://github.com/guilyx/muxai)
+5. 🎉 Merged PR [#7](https://github.com/guilyx/muxai/pull/7) in [guilyx/muxai](https://github.com/guilyx/muxai)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
