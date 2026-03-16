@@ -69,29 +69,29 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C332%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C338%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.65%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 550.1 kB Used in GitHub's Storage 
+> 📦 550.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,567 Contributions in the Year 2026
+> 🏆 1,721 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 110 Public Repositories 
+> 📜 111 Public Repositories 
  > 
 > 🔑 39 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1929 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-🌆 Daytime                7249 commits        █████████░░░░░░░░░░░░░░░░   36.29 % 
-🌃 Evening                7318 commits        █████████░░░░░░░░░░░░░░░░   36.64 % 
-🌙 Night                  3479 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+🌞 Morning                2008 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+🌆 Daytime                7497 commits        █████████░░░░░░░░░░░░░░░░   36.79 % 
+🌃 Evening                7403 commits        █████████░░░░░░░░░░░░░░░░   36.33 % 
+🌙 Night                  3471 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
 ```
 
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-C++                      5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-YAML                     4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Markdown                 2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Bash                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Python                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+YAML                     3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+C++                      2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Python                   2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Bash                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Docker                   1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🐱‍💻 Projects: 
-sirb_zones_manager       12 hrs 26 mins      █████████████░░░░░░░░░░░░   52.86 % 
-uae_defense_reporter     3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-sanitize-arrc-rf-seeker-d2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-uae-property-scraper     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-airdropio-scraper        32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+sirb_zones_manager       6 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.78 % 
+uae_defense_reporter     5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+sanitize-arrc-rf-seeker-d2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+muxai                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+narnia_si_hardware_interf28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 
 
- Last Updated on 12/03/2026 15:15:31 UTC
+ Last Updated on 16/03/2026 15:32:43 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
