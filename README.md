@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/59#issuecomment-4068010773) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-2. 🎉 Merged PR [#11](https://github.com/guilyx/muxai/pull/11) in [guilyx/muxai](https://github.com/guilyx/muxai)
-3. 🎉 Merged PR [#10](https://github.com/guilyx/muxai/pull/10) in [guilyx/muxai](https://github.com/guilyx/muxai)
-4. 🎉 Merged PR [#9](https://github.com/guilyx/muxai/pull/9) in [guilyx/muxai](https://github.com/guilyx/muxai)
-5. 🎉 Merged PR [#8](https://github.com/guilyx/muxai/pull/8) in [guilyx/muxai](https://github.com/guilyx/muxai)
+1. 🎉 Merged PR [#59](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/59) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+2. 🗣 Commented on [#59](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/59#issuecomment-4068010773) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+3. 🎉 Merged PR [#11](https://github.com/guilyx/muxai/pull/11) in [guilyx/muxai](https://github.com/guilyx/muxai)
+4. 🎉 Merged PR [#10](https://github.com/guilyx/muxai/pull/10) in [guilyx/muxai](https://github.com/guilyx/muxai)
+5. 🎉 Merged PR [#9](https://github.com/guilyx/muxai/pull/9) in [guilyx/muxai](https://github.com/guilyx/muxai)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
