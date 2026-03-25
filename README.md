@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 550.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,746 Contributions in the Year 2026
+> 🏆 1,748 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +90,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```text
 🌞 Morning                2008 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 🌆 Daytime                7508 commits        █████████░░░░░░░░░░░░░░░░   36.78 % 
-🌃 Evening                7428 commits        █████████░░░░░░░░░░░░░░░░   36.39 % 
+🌃 Evening                7429 commits        █████████░░░░░░░░░░░░░░░░   36.39 % 
 🌙 Night                  3471 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 ```
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Other                    1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-CMake                    1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-C++                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Other                    56 mins             █████████████░░░░░░░░░░░░   53.42 % 
+Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+TOML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🐱‍💻 Projects: 
-sirb_autonomy_dev        2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.73 % 
-sirb_zones_manager       2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.19 % 
-swarm_mission            34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-arrc_si_devel            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-repos                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+sirb_autonomy_dev        1 hr 17 mins        ██████████████████░░░░░░░   73.82 % 
+sirb_autonomy_docs       12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+sirb_command_handler     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+sirb_autonomy_c2         3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+sirb_zones_manager       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 
- Last Updated on 24/03/2026 15:30:19 UTC
+ Last Updated on 25/03/2026 15:38:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
