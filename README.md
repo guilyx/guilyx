@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 550.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,748 Contributions in the Year 2026
+> 🏆 1,750 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,9 +88,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2008 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-🌆 Daytime                7508 commits        █████████░░░░░░░░░░░░░░░░   36.78 % 
-🌃 Evening                7429 commits        █████████░░░░░░░░░░░░░░░░   36.39 % 
+🌞 Morning                2008 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌆 Daytime                7508 commits        █████████░░░░░░░░░░░░░░░░   36.77 % 
+🌃 Evening                7432 commits        █████████░░░░░░░░░░░░░░░░   36.40 % 
 🌙 Night                  3471 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 ```
 
@@ -101,22 +101,14 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Other                    56 mins             █████████████░░░░░░░░░░░░   53.42 % 
-Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-TOML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sirb_autonomy_dev        1 hr 17 mins        ██████████████████░░░░░░░   73.82 % 
-sirb_autonomy_docs       12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-sirb_command_handler     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-sirb_autonomy_c2         3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-sirb_zones_manager       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/03/2026 15:38:37 UTC
+ Last Updated on 27/03/2026 13:54:26 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
