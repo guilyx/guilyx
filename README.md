@@ -69,7 +69,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C352%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C352%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.65%20million%20lines%20of%20code-blue?style=flat)
 
@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 550.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,750 Contributions in the Year 2026
+> 🏆 1,752 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,10 +88,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2008 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-🌆 Daytime                7508 commits        █████████░░░░░░░░░░░░░░░░   36.77 % 
-🌃 Evening                7432 commits        █████████░░░░░░░░░░░░░░░░   36.40 % 
-🌙 Night                  3471 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+🌞 Morning                2008 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+🌆 Daytime                7497 commits        █████████░░░░░░░░░░░░░░░░   36.73 % 
+🌃 Evening                7433 commits        █████████░░░░░░░░░░░░░░░░   36.42 % 
+🌙 Night                  3471 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 ```
 
 
@@ -101,14 +101,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CMake                    36 mins             ██████████░░░░░░░░░░░░░░░   40.88 % 
+Markdown                 26 mins             ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+Other                    22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sirb_zones_manager       1 hr 2 mins         ██████████████████░░░░░░░   70.97 % 
+sirb_autonomy_dev        25 mins             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
 ```
 
 
- Last Updated on 27/03/2026 13:54:26 UTC
+ Last Updated on 28/03/2026 13:33:16 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
