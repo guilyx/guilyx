@@ -71,13 +71,13 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C353%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.55%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 550.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,756 Contributions in the Year 2026
+> 🏆 1,770 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,10 +88,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2008 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-🌆 Daytime                7499 commits        █████████░░░░░░░░░░░░░░░░   36.74 % 
-🌃 Evening                7435 commits        █████████░░░░░░░░░░░░░░░░   36.42 % 
-🌙 Night                  3471 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+🌞 Morning                1990 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+🌆 Daytime                7362 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
+🌃 Evening                7364 commits        █████████░░░░░░░░░░░░░░░░   36.49 % 
+🌙 Night                  3463 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
 ```
 
 
@@ -101,19 +101,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-CMake                    36 mins             ██████████░░░░░░░░░░░░░░░   40.88 % 
-Markdown                 26 mins             ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Other                    22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Markdown                 59 mins             ███████████░░░░░░░░░░░░░░   45.55 % 
+CMake                    36 mins             ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+Other                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+TOML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🐱‍💻 Projects: 
-sirb_zones_manager       1 hr 2 mins         ██████████████████░░░░░░░   70.97 % 
-sirb_autonomy_dev        25 mins             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+sirb_zones_manager       1 hr 28 mins        █████████████████░░░░░░░░   67.07 % 
+sirb_autonomy_dev        43 mins             ████████░░░░░░░░░░░░░░░░░   32.93 % 
 ```
 
 
- Last Updated on 30/03/2026 14:27:32 UTC
+ Last Updated on 31/03/2026 14:28:34 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
