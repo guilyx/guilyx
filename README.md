@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/guilyx/awesome-github-pages-portfolios/issues/10#issuecomment-4137044420) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
-2. 🎉 Merged PR [#60](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/60) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-3. 🎉 Merged PR [#59](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/59) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-4. 🗣 Commented on [#59](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/59#issuecomment-4068010773) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-5. 🎉 Merged PR [#11](https://github.com/guilyx/muxai/pull/11) in [guilyx/muxai](https://github.com/guilyx/muxai)
+1. 🚀 Published release [v1.0.0](https://github.com/Unchained-Labs/seal/releases/tag/v1.0.0) in [Unchained-Labs/seal](https://github.com/Unchained-Labs/seal)
+2. 🚀 Published release [v1.0.0](https://github.com/Unchained-Labs/otter/releases/tag/v1.0.0) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+3. 🚀 Published release [v1.0.0](https://github.com/Unchained-Labs/lavoix/releases/tag/v1.0.0) in [Unchained-Labs/lavoix](https://github.com/Unchained-Labs/lavoix)
+4. 🚀 Published release [v1.0.0](https://github.com/Unchained-Labs/kymatics/releases/tag/v1.0.0) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
+5. 🎉 Merged PR [#15](https://github.com/Unchained-Labs/seal/pull/15) in [Unchained-Labs/seal](https://github.com/Unchained-Labs/seal)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
