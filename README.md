@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/Unchained-Labs/seal/releases/tag/v1.0.0) in [Unchained-Labs/seal](https://github.com/Unchained-Labs/seal)
-2. 🚀 Published release [v1.0.0](https://github.com/Unchained-Labs/otter/releases/tag/v1.0.0) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-3. 🚀 Published release [v1.0.0](https://github.com/Unchained-Labs/lavoix/releases/tag/v1.0.0) in [Unchained-Labs/lavoix](https://github.com/Unchained-Labs/lavoix)
-4. 🚀 Published release [v1.0.0](https://github.com/Unchained-Labs/kymatics/releases/tag/v1.0.0) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
-5. 🎉 Merged PR [#15](https://github.com/Unchained-Labs/seal/pull/15) in [Unchained-Labs/seal](https://github.com/Unchained-Labs/seal)
+1. 🎉 Merged PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+2. 💪 Opened PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+3. 🎉 Merged PR [#17](https://github.com/Unchained-Labs/otter/pull/17) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+4. 🎉 Merged PR [#16](https://github.com/Unchained-Labs/otter/pull/16) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+5. 🎉 Merged PR [#24](https://github.com/Unchained-Labs/kymatics/pull/24) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
