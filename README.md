@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-2. 💪 Opened PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-3. 🎉 Merged PR [#17](https://github.com/Unchained-Labs/otter/pull/17) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-4. 🎉 Merged PR [#16](https://github.com/Unchained-Labs/otter/pull/16) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-5. 🎉 Merged PR [#24](https://github.com/Unchained-Labs/kymatics/pull/24) in [Unchained-Labs/kymatics](https://github.com/Unchained-Labs/kymatics)
+1. 🎉 Merged PR [#61](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/61) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+2. 🎉 Merged PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+3. 💪 Opened PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+4. 🎉 Merged PR [#17](https://github.com/Unchained-Labs/otter/pull/17) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+5. 🎉 Merged PR [#16](https://github.com/Unchained-Labs/otter/pull/16) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
