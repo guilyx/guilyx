@@ -77,21 +77,21 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 550.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,890 Contributions in the Year 2026
+> 🏆 1,898 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 111 Public Repositories 
  > 
-> 🔑 40 Private Repositories 
+> 🔑 41 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                2040 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-🌆 Daytime                7856 commits        █████████░░░░░░░░░░░░░░░░   36.33 % 
-🌃 Evening                8008 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
-🌙 Night                  3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+🌆 Daytime                7862 commits        █████████░░░░░░░░░░░░░░░░   36.34 % 
+🌃 Evening                8009 commits        █████████░░░░░░░░░░░░░░░░   37.02 % 
+🌙 Night                  3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
 ```
 
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Other                    8 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
-Markdown                 5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-YAML                     3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-TypeScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-TOML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Other                    11 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   39.23 % 
+Markdown                 4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+YAML                     4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+TypeScript               2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🐱‍💻 Projects: 
-sirb_autonomy_dev        5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-sirb_autonomy_template   2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-arrc_si_devel            1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-sirb_monitoring          1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-sirb_autonomy_c2         1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+sirb_autonomy_dev        5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+sirb_monitoring          4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+sirb_autonomy_template   2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+arrc_si_devel            1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+sirb_autonomy_c2         1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 ```
 
 
- Last Updated on 06/04/2026 13:54:37 UTC
+ Last Updated on 07/04/2026 14:09:28 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
