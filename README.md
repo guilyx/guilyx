@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/61) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-2. 🎉 Merged PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-3. 💪 Opened PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-4. 🎉 Merged PR [#17](https://github.com/Unchained-Labs/otter/pull/17) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-5. 🎉 Merged PR [#16](https://github.com/Unchained-Labs/otter/pull/16) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+1. 🎉 Merged PR [#8](https://github.com/guilyx/faah/pull/8) in [guilyx/faah](https://github.com/guilyx/faah)
+2. 💪 Opened PR [#8](https://github.com/guilyx/faah/pull/8) in [guilyx/faah](https://github.com/guilyx/faah)
+3. 🚀 Published release [v2.0.0rc1](https://github.com/guilyx/faah/releases/tag/v2.0.0rc1) in [guilyx/faah](https://github.com/guilyx/faah)
+4. 🎉 Merged PR [#7](https://github.com/guilyx/faah/pull/7) in [guilyx/faah](https://github.com/guilyx/faah)
+5. 🎉 Merged PR [#6](https://github.com/guilyx/faah/pull/6) in [guilyx/faah](https://github.com/guilyx/faah)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
