@@ -69,15 +69,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C389%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C390%20hrs%2054%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.91%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 550.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,952 Contributions in the Year 2026
+> 🏆 1,967 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,10 +88,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2061 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-🌆 Daytime                7950 commits        █████████░░░░░░░░░░░░░░░░   36.56 % 
-🌃 Evening                8013 commits        █████████░░░░░░░░░░░░░░░░   36.85 % 
-🌙 Night                  3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+🌞 Morning                2047 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+🌆 Daytime                7895 commits        █████████░░░░░░░░░░░░░░░░   36.41 % 
+🌃 Evening                8023 commits        █████████░░░░░░░░░░░░░░░░   37.00 % 
+🌙 Night                  3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
 ```
 
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Other                    10 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   41.85 % 
-Markdown                 4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-TypeScript               3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-YAML                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Python                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Other                    15 hrs 45 mins      █████████████░░░░░░░░░░░░   50.24 % 
+Markdown                 5 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+TypeScript               3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Python                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+YAML                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🐱‍💻 Projects: 
-sirb_monitoring          6 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-sirb_autonomy_dev        2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-sirb_autonomy_template   2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-sirb_autonomy_c2         1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-sirb_bt_engine           1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+sirb_monitoring          6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+faah                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+sirb_autonomy_dev        3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+sirb_autonomy_template   2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+2026-04-09               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 
 
- Last Updated on 09/04/2026 14:31:04 UTC
+ Last Updated on 10/04/2026 14:02:18 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
