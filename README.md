@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.0](https://github.com/guilyx/faah/releases/tag/v2.1.0) in [guilyx/faah](https://github.com/guilyx/faah)
-2. 🎉 Merged PR [#14](https://github.com/guilyx/faah/pull/14) in [guilyx/faah](https://github.com/guilyx/faah)
-3. 💪 Opened PR [#14](https://github.com/guilyx/faah/pull/14) in [guilyx/faah](https://github.com/guilyx/faah)
-4. 🎉 Merged PR [#13](https://github.com/guilyx/faah/pull/13) in [guilyx/faah](https://github.com/guilyx/faah)
-5. 💪 Opened PR [#13](https://github.com/guilyx/faah/pull/13) in [guilyx/faah](https://github.com/guilyx/faah)
+1. 🎉 Merged PR [#62](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/62) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+2. 🚀 Published release [v2.1.1](https://github.com/guilyx/faah/releases/tag/v2.1.1) in [guilyx/faah](https://github.com/guilyx/faah)
+3. 🎉 Merged PR [#16](https://github.com/guilyx/faah/pull/16) in [guilyx/faah](https://github.com/guilyx/faah)
+4. 💪 Opened PR [#16](https://github.com/guilyx/faah/pull/16) in [guilyx/faah](https://github.com/guilyx/faah)
+5. 🎉 Merged PR [#15](https://github.com/guilyx/faah/pull/15) in [guilyx/faah](https://github.com/guilyx/faah)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
