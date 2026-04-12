@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 550.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,985 Contributions in the Year 2026
+> 🏆 1,987 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -89,8 +89,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                2047 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-🌆 Daytime                7913 commits        █████████░░░░░░░░░░░░░░░░   36.46 % 
-🌃 Evening                8025 commits        █████████░░░░░░░░░░░░░░░░   36.97 % 
+🌆 Daytime                7914 commits        █████████░░░░░░░░░░░░░░░░   36.46 % 
+🌃 Evening                8026 commits        █████████░░░░░░░░░░░░░░░░   36.97 % 
 🌙 Night                  3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 ```
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Other                    11 hrs 26 mins      █████████████░░░░░░░░░░░░   50.59 % 
-Markdown                 4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-TypeScript               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Python                   2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Other                    10 hrs 5 mins       █████████████░░░░░░░░░░░░   50.56 % 
+Markdown                 3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+TypeScript               2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Python                   2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🐱‍💻 Projects: 
-sirb_monitoring          6 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-faah                     3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-sirb_autonomy_dev        1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-2026-04-09               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Cloud                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+sirb_monitoring          6 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.61 % 
+faah                     3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+2026-04-09               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Cloud                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+sirb_autonomy_dev        1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 
 
- Last Updated on 11/04/2026 13:41:44 UTC
+ Last Updated on 12/04/2026 13:43:18 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
