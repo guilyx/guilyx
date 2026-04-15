@@ -69,7 +69,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C397%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C399%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.92%20million%20lines%20of%20code-blue?style=flat)
 
@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 551.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,991 Contributions in the Year 2026
+> 🏆 1,993 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,10 +88,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2047 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-🌆 Daytime                7915 commits        █████████░░░░░░░░░░░░░░░░   36.45 % 
-🌃 Evening                8029 commits        █████████░░░░░░░░░░░░░░░░   36.98 % 
-🌙 Night                  3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+🌞 Morning                2047 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+🌆 Daytime                7921 commits        █████████░░░░░░░░░░░░░░░░   36.47 % 
+🌃 Evening                8031 commits        █████████░░░░░░░░░░░░░░░░   36.98 % 
+🌙 Night                  3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
 ```
 
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Other                    7 hrs 39 mins       █████████████░░░░░░░░░░░░   52.87 % 
-Markdown                 2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-TypeScript               1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Python                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Other                    7 hrs 21 mins       ████████████████░░░░░░░░░   62.61 % 
+Markdown                 2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+TypeScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🐱‍💻 Projects: 
-sirb_monitoring          3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-faah                     3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-2026-04-09               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Cloud                    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-swarm_mission            52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+faah                     3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+2026-04-09               1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+sirb_monitoring          1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+swarm_mission            1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Cloud                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
 
 
- Last Updated on 14/04/2026 14:38:04 UTC
+ Last Updated on 15/04/2026 14:27:08 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
