@@ -69,7 +69,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C403%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C404%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.92%20million%20lines%20of%20code-blue?style=flat)
 
@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 550.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,997 Contributions in the Year 2026
+> 🏆 1,999 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +90,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```text
 🌞 Morning                2047 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 🌆 Daytime                7927 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
-🌃 Evening                8034 commits        █████████░░░░░░░░░░░░░░░░   36.97 % 
+🌃 Evening                8036 commits        █████████░░░░░░░░░░░░░░░░   36.98 % 
 🌙 Night                  3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
 ```
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Other                    3 hrs 38 mins       █████████████░░░░░░░░░░░░   51.36 % 
-C++                      1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-Markdown                 1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Other                    3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.73 % 
+C++                      1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Markdown                 1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🐱‍💻 Projects: 
-swarm_mission            2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.04 % 
-Unknown Project          1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-sirb_monitoring          35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-swarm_bt_server          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-terminals                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+swarm_mission            2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
+Unknown Project          1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+sirb_monitoring          41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+swarm_bt_server          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+terminals                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 ```
 
 
- Last Updated on 17/04/2026 14:22:57 UTC
+ Last Updated on 18/04/2026 13:47:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
