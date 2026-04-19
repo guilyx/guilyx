@@ -122,7 +122,7 @@ terminals                18 mins             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 17 April 2026
+From: 16 July 2020 - To: 18 April 2026
 
 Total Time: 2,405 hrs 50 mins
 
