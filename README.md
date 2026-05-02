@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 551.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,025 Contributions in the Year 2026
+> 🏆 2,027 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -89,8 +89,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                1668 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-🌆 Daytime                7707 commits        ██████████░░░░░░░░░░░░░░░   38.81 % 
-🌃 Evening                7310 commits        █████████░░░░░░░░░░░░░░░░   36.81 % 
+🌆 Daytime                7707 commits        ██████████░░░░░░░░░░░░░░░   38.80 % 
+🌃 Evening                7311 commits        █████████░░░░░░░░░░░░░░░░   36.81 % 
 🌙 Night                  3175 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 ```
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 46 mins       ██████████████░░░░░░░░░░░   55.58 % 
-TypeScript               1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Markdown                 3 hrs 42 mins       █████████████████░░░░░░░░   69.67 % 
+Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🐱‍💻 Projects: 
-sirb_autonomy_docs       2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-whichmodel               2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-2026-04-28               1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-repos                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-2026-04-24               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+sirb_autonomy_docs       2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
+2026-04-28               1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+repos                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+whichmodel               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 
 
- Last Updated on 01/05/2026 14:04:49 UTC
+ Last Updated on 02/05/2026 14:00:30 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
