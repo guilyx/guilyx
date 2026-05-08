@@ -69,7 +69,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C427%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C431%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.07%20million%20lines%20of%20code-blue?style=flat)
 
@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 551.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,038 Contributions in the Year 2026
+> 🏆 2,040 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +90,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```text
 🌞 Morning                1669 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 🌆 Daytime                7708 commits        ██████████░░░░░░░░░░░░░░░   38.79 % 
-🌃 Evening                7319 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌃 Evening                7321 commits        █████████░░░░░░░░░░░░░░░░   36.84 % 
 🌙 Night                  3175 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 ```
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-Text                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-Other                    50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Docker                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-TypeScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Markdown                 1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   35.59 % 
+Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Text                     1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Docker                   41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-vehicle_mock             52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-communication_mock       51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-sirb_autonomy_docs       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-sirb_vehicle_dev         16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+communication_mock       1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+vehicle_mock             1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Unknown Project          1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+2026-05-07               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+sirb_autonomy_docs       27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 ```
 
 
- Last Updated on 07/05/2026 15:09:19 UTC
+ Last Updated on 08/05/2026 14:47:22 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
