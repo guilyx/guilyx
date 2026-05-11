@@ -61,7 +61,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/62) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+1. 💪 Opened PR [#5](https://github.com/guilyx/resume/pull/5) in [guilyx/resume](https://github.com/guilyx/resume)
 2. 🚀 Published release [v2.1.1](https://github.com/guilyx/faah/releases/tag/v2.1.1) in [guilyx/faah](https://github.com/guilyx/faah)
 3. 🎉 Merged PR [#16](https://github.com/guilyx/faah/pull/16) in [guilyx/faah](https://github.com/guilyx/faah)
 4. 💪 Opened PR [#16](https://github.com/guilyx/faah/pull/16) in [guilyx/faah](https://github.com/guilyx/faah)
