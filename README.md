@@ -69,15 +69,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C434%20hrs%2040%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.05%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 551.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,053 Contributions in the Year 2026
+> 🏆 2,055 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,38 +85,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
  > 
 > 🔑 42 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                1684 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-🌆 Daytime                7665 commits        ██████████░░░░░░░░░░░░░░░   38.61 % 
-🌃 Evening                7347 commits        █████████░░░░░░░░░░░░░░░░   37.01 % 
-🌙 Night                  3156 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-Markdown                 2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.91 % 
-Other                    1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Text                     1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Docker                   41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-
-🐱‍💻 Projects: 
-vehicle_mock             1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-communication_mock       1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Unknown Project          57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-2026-05-07               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-sirb_autonomy_docs       27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-```
-
-
- Last Updated on 13/05/2026 15:28:23 UTC
+ Last Updated on 14/05/2026 15:07:20 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
