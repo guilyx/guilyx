@@ -69,15 +69,13 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C434%20hrs%2040%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 551.0 kB Used in GitHub's Storage 
+> 📦 551.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,055 Contributions in the Year 2026
+> 🏆 2,057 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -86,7 +84,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 > 🔑 42 Private Repositories 
  > 
 
- Last Updated on 14/05/2026 15:07:20 UTC
+ Last Updated on 15/05/2026 15:00:42 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
