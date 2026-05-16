@@ -69,22 +69,54 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C436%20hrs%2034%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 551.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,057 Contributions in the Year 2026
+> 🏆 2,061 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 112 Public Repositories 
+> 📜 113 Public Repositories 
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 15:00:42 UTC
+```text
+🌞 Morning                1684 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+🌆 Daytime                7661 commits        ██████████░░░░░░░░░░░░░░░   38.59 % 
+🌃 Evening                7353 commits        █████████░░░░░░░░░░░░░░░░   37.04 % 
+🌙 Night                  3154 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+Markdown                 1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   36.14 % 
+TypeScript               1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   32.47 % 
+Python                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+
+🐱‍💻 Projects: 
+sirb_monitoring          1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   36.22 % 
+Unknown Project          1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+sirb_autonomy_docs       20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+2026-05-12               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+resume                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+```
+
+
+ Last Updated on 16/05/2026 14:18:39 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
