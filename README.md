@@ -75,7 +75,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 551.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,090 Contributions in the Year 2026
+> 🏆 2,092 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -87,9 +87,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                1681 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-🌆 Daytime                7661 commits        ██████████░░░░░░░░░░░░░░░   38.63 % 
-🌃 Evening                7343 commits        █████████░░░░░░░░░░░░░░░░   37.02 % 
-🌙 Night                  3148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+🌆 Daytime                7655 commits        ██████████░░░░░░░░░░░░░░░   38.61 % 
+🌃 Evening                7345 commits        █████████░░░░░░░░░░░░░░░░   37.04 % 
+🌙 Night                  3148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 ```
 
 
@@ -99,22 +99,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
-TypeScript               1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-YAML                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Python                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Markdown                 3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
+YAML                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Python                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+TypeScript               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Bash                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 🐱‍💻 Projects: 
-weave                    4 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.06 % 
-sirb_autonomy_dev        2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-sirb_bags                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-2026-05-21               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-communication_mock       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+weave                    4 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.61 % 
+sirb_autonomy_dev        2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+sirb_bags                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+2026-05-21               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+communication_mock       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 ```
 
 
- Last Updated on 22/05/2026 15:37:40 UTC
+ Last Updated on 23/05/2026 14:24:34 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
