@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 551.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,102 Contributions in the Year 2026
+> 🏆 2,103 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,38 +85,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
  > 
 > 🔑 42 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                1681 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-🌆 Daytime                7655 commits        ██████████░░░░░░░░░░░░░░░   38.59 % 
-🌃 Evening                7355 commits        █████████░░░░░░░░░░░░░░░░   37.08 % 
-🌙 Night                  3146 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-Markdown                 1 hr 33 mins        ██████████████░░░░░░░░░░░   57.01 % 
-Python                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Bash                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-ERB                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-
-🐱‍💻 Projects: 
-sirb_bags                52 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
-2026-05-21               45 mins             ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-sirb_autonomy_dev        33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-sirb_monitoring          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-vehicle_mock             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-```
-
-
- Last Updated on 28/05/2026 17:05:06 UTC
+ Last Updated on 29/05/2026 16:42:26 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
