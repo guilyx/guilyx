@@ -69,7 +69,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C500%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C503%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.06%20million%20lines%20of%20code-blue?style=flat)
 
@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 551.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,112 Contributions in the Year 2026
+> 🏆 2,114 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -89,8 +89,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                1681 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-🌆 Daytime                7655 commits        ██████████░░░░░░░░░░░░░░░   38.58 % 
-🌃 Evening                7363 commits        █████████░░░░░░░░░░░░░░░░   37.11 % 
+🌆 Daytime                7655 commits        ██████████░░░░░░░░░░░░░░░   38.57 % 
+🌃 Evening                7365 commits        █████████░░░░░░░░░░░░░░░░   37.11 % 
 🌙 Night                  3144 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 ```
 
@@ -101,14 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+TypeScript               32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Python                   31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Bash                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Docker                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+konasu                   1 hr 49 mins        ████████████████░░░░░░░░░   63.77 % 
+communication_mock       26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+vehicle_mock             21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+sirb_autonomy_dev        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+sirb_vehicle_dev         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
 
- Last Updated on 02/06/2026 17:32:14 UTC
+ Last Updated on 03/06/2026 17:48:54 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
