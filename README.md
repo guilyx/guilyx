@@ -69,13 +69,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C512%20hrs%2019%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.06%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 551.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,121 Contributions in the Year 2026
+> 🏆 2,123 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -87,9 +89,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                1681 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-🌆 Daytime                7661 commits        ██████████░░░░░░░░░░░░░░░   38.58 % 
-🌃 Evening                7372 commits        █████████░░░░░░░░░░░░░░░░   37.12 % 
-🌙 Night                  3144 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+🌆 Daytime                7655 commits        ██████████░░░░░░░░░░░░░░░   38.56 % 
+🌃 Evening                7374 commits        █████████░░░░░░░░░░░░░░░░   37.14 % 
+🌙 Night                  3144 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 ```
 
 
@@ -99,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-TypeScript               2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Python                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Markdown                 2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+TypeScript               2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Python                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 
 🐱‍💻 Projects: 
-konasu                   3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-sirb_autonomy_dev        2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-prez                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-vehicle_mock             55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-2026-06-03               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+konasu                   3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+sirb_autonomy_dev        2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+prez                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+vehicle_mock             55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+2026-06-03               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 ```
 
 
- Last Updated on 07/06/2026 14:46:58 UTC
+ Last Updated on 08/06/2026 16:50:39 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
