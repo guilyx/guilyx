@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/guilyx/ohmyzsh-plugin-installer/pull/1) in [guilyx/ohmyzsh-plugin-installer](https://github.com/guilyx/ohmyzsh-plugin-installer)
-2. 💪 Opened PR [#1](https://github.com/guilyx/ohmyzsh-plugin-installer/pull/1) in [guilyx/ohmyzsh-plugin-installer](https://github.com/guilyx/ohmyzsh-plugin-installer)
-3. 💪 Opened PR [#5](https://github.com/guilyx/resume/pull/5) in [guilyx/resume](https://github.com/guilyx/resume)
-4. 💪 Opened PR [#16](https://github.com/guilyx/faah/pull/16) in [guilyx/faah](https://github.com/guilyx/faah)
-5. 🎉 Merged PR [#15](https://github.com/guilyx/faah/pull/15) in [guilyx/faah](https://github.com/guilyx/faah)
+1. 🎉 Merged PR [#2](https://github.com/guilyx/btview-vscode-plugin/pull/2) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+2. 🎉 Merged PR [#1](https://github.com/guilyx/btview-vscode-plugin/pull/1) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+3. 💪 Opened PR [#6](https://github.com/guilyx/btview-vscode-plugin/pull/6) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+4. 💪 Opened PR [#5](https://github.com/guilyx/btview-vscode-plugin/pull/5) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+5. 💪 Opened PR [#4](https://github.com/guilyx/btview-vscode-plugin/pull/4) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
