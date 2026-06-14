@@ -69,7 +69,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C523%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C527%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.23%20million%20lines%20of%20code-blue?style=flat)
 
@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 551.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,239 Contributions in the Year 2026
+> 🏆 2,241 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.59 % 
-YAML                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-C++                      1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Markdown                 7 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.50 % 
+YAML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+C++                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🐱‍💻 Projects: 
-btview-vscode-plugin     3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-sirb_autonomy_dev        2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-sirb_autonomy_bringup    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-sirb_lifecycle_manager   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-2026-06-06               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+btview-vscode-plugin     3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+sirb_autonomy_dev        2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+sirb_autonomy_bringup    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+sirb_lifecycle_manager   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+2026-06-06               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
 
 
- Last Updated on 13/06/2026 14:54:48 UTC
+ Last Updated on 14/06/2026 14:59:57 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
