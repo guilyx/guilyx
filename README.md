@@ -69,15 +69,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C527%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C527%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.23%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 551.7 kB Used in GitHub's Storage 
+> 📦 551.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,241 Contributions in the Year 2026
+> 🏆 2,253 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,10 +88,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1706 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-🌆 Daytime                7718 commits        ██████████░░░░░░░░░░░░░░░   38.31 % 
-🌃 Evening                7578 commits        █████████░░░░░░░░░░░░░░░░   37.61 % 
-🌙 Night                  3145 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+🌞 Morning                1711 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+🌆 Daytime                7723 commits        ██████████░░░░░░░░░░░░░░░   38.27 % 
+🌃 Evening                7598 commits        █████████░░░░░░░░░░░░░░░░   37.65 % 
+🌙 Night                  3148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 ```
 
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.50 % 
-YAML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-C++                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Markdown                 7 hrs 14 mins       ████████████░░░░░░░░░░░░░   46.64 % 
+YAML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+C++                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🐱‍💻 Projects: 
-btview-vscode-plugin     3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-sirb_autonomy_dev        2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-sirb_autonomy_bringup    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-sirb_lifecycle_manager   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-2026-06-06               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+btview-vscode-plugin     4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+sirb_autonomy_dev        2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+sirb_autonomy_bringup    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+sirb_lifecycle_manager   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+2026-06-06               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 ```
 
 
- Last Updated on 14/06/2026 14:59:57 UTC
+ Last Updated on 15/06/2026 18:18:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
