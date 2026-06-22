@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/guilyx/btview-vscode-plugin/pull/52) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
-2. 💪 Opened PR [#51](https://github.com/guilyx/btview-vscode-plugin/pull/51) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
-3. 🎉 Merged PR [#42](https://github.com/guilyx/btview-vscode-plugin/pull/42) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
-4. 💪 Opened PR [#42](https://github.com/guilyx/btview-vscode-plugin/pull/42) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
-5. 🎉 Merged PR [#41](https://github.com/guilyx/btview-vscode-plugin/pull/41) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+1. 🎉 Merged PR [#54](https://github.com/guilyx/btview-vscode-plugin/pull/54) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+2. 💪 Opened PR [#54](https://github.com/guilyx/btview-vscode-plugin/pull/54) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+3. 🎉 Merged PR [#53](https://github.com/guilyx/btview-vscode-plugin/pull/53) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+4. 💪 Opened PR [#53](https://github.com/guilyx/btview-vscode-plugin/pull/53) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+5. 💪 Opened PR [#52](https://github.com/guilyx/btview-vscode-plugin/pull/52) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
