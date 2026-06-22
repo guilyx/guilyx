@@ -69,29 +69,29 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C531%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C531%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 552.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,297 Contributions in the Year 2026
+> 🏆 2,323 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 116 Public Repositories 
  > 
-> 🔑 43 Private Repositories 
+> 🔑 44 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1215 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-🌆 Daytime                6574 commits        █████████░░░░░░░░░░░░░░░░   35.13 % 
-🌃 Evening                7795 commits        ██████████░░░░░░░░░░░░░░░   41.66 % 
-🌙 Night                  3128 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+🌞 Morning                1062 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+🌆 Daytime                6260 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
+🌃 Evening                7266 commits        ██████████░░░░░░░░░░░░░░░   41.11 % 
+🌙 Night                  3088 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
 ```
 
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 11 mins       ██████████████░░░░░░░░░░░   56.75 % 
-TypeScript               48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Markdown                 2 hrs 7 mins        ██████████████░░░░░░░░░░░   56.35 % 
+TypeScript               46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🐱‍💻 Projects: 
-btview-vscode-plugin     1 hr 50 mins        ████████████░░░░░░░░░░░░░   47.55 % 
-ai-tools                 56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-keiko-withdraw           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-2026-06-20               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+btview-vscode-plugin     1 hr 44 mins        ████████████░░░░░░░░░░░░░   46.18 % 
+ai-tools                 56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+keiko-withdraw           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+2026-06-20               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 
 
- Last Updated on 21/06/2026 15:08:10 UTC
+ Last Updated on 22/06/2026 17:57:38 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
