@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 552.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,323 Contributions in the Year 2026
+> 🏆 2,326 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +90,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```text
 🌞 Morning                1062 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 🌆 Daytime                6260 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
-🌃 Evening                7266 commits        ██████████░░░░░░░░░░░░░░░   41.11 % 
+🌃 Evening                7264 commits        ██████████░░░░░░░░░░░░░░░   41.10 % 
 🌙 Night                  3088 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
 ```
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 7 mins        ██████████████░░░░░░░░░░░   56.35 % 
-TypeScript               46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Markdown                 3 hrs 22 mins       ██████████████░░░░░░░░░░░   55.29 % 
+TypeScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🐱‍💻 Projects: 
-btview-vscode-plugin     1 hr 44 mins        ████████████░░░░░░░░░░░░░   46.18 % 
-ai-tools                 56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-keiko-withdraw           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-2026-06-20               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+btview-vscode-plugin     1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+ai-tools                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Unknown Project          36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+cursorrrrrrr             33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+arrc_mission_msgs        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 
- Last Updated on 22/06/2026 17:57:38 UTC
+ Last Updated on 23/06/2026 16:11:18 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
