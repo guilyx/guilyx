@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 552.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,336 Contributions in the Year 2026
+> 🏆 2,338 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,9 +88,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1206 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-🌆 Daytime                6620 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
-🌃 Evening                7786 commits        ██████████░░░░░░░░░░░░░░░   41.56 % 
+🌞 Morning                1206 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+🌆 Daytime                6626 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
+🌃 Evening                7788 commits        ██████████░░░░░░░░░░░░░░░   41.55 % 
 🌙 Night                  3124 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   32.05 % 
-Other                    1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-C++                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Objective-C              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown                 1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   30.91 % 
+Other                    1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+C++                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Objective-C              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🐱‍💻 Projects: 
-cursorrrrrrr             35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Unknown Project          32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-sirb_tools               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-btview-vscode-plugin     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-ws                       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+cursorrrrrrr             35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Unknown Project          32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+sirb_tools               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+btview-vscode-plugin     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+ws                       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 ```
 
 
- Last Updated on 28/06/2026 14:53:41 UTC
+ Last Updated on 29/06/2026 16:48:58 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
