@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 552.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,340 Contributions in the Year 2026
+> 🏆 2,342 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -89,8 +89,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                1206 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-🌆 Daytime                6626 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
-🌃 Evening                7790 commits        ██████████░░░░░░░░░░░░░░░   41.56 % 
+🌆 Daytime                6626 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌃 Evening                7792 commits        ██████████░░░░░░░░░░░░░░░   41.56 % 
 🌙 Night                  3124 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 ```
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Other                    1 hr 8 mins         █████████████░░░░░░░░░░░░   50.92 % 
-Objective-C              17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-C++                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Other                    32 mins             █████████░░░░░░░░░░░░░░░░   36.77 % 
+Objective-C              17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🐱‍💻 Projects: 
-sirb_tools               31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-ws                       18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-arrc_si_deploy           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-sim                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Unknown Project          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+sirb_tools               31 mins             █████████░░░░░░░░░░░░░░░░   36.25 % 
+ws                       18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+arrc_si_deploy           15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+launch                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+swarm_mission            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 ```
 
 
- Last Updated on 30/06/2026 15:33:09 UTC
+ Last Updated on 01/07/2026 15:50:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
