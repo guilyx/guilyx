@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#50](https://github.com/guilyx/btview-vscode-plugin/pull/50) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
-2. ❌ Closed PR [#44](https://github.com/guilyx/btview-vscode-plugin/pull/44) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
-3. ❌ Closed PR [#45](https://github.com/guilyx/btview-vscode-plugin/pull/45) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
-4. ❌ Closed PR [#43](https://github.com/guilyx/btview-vscode-plugin/pull/43) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
-5. ❌ Closed PR [#49](https://github.com/guilyx/btview-vscode-plugin/pull/49) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+1. 💪 Opened PR [#148](https://github.com/APLA-Toolbox/PythonPDDL/pull/148) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+2. 💪 Opened PR [#92](https://github.com/APLA-Toolbox/pymapf/pull/92) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+3. 🎉 Merged PR [#64](https://github.com/guilyx/btview-vscode-plugin/pull/64) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+4. 🎉 Merged PR [#147](https://github.com/APLA-Toolbox/PythonPDDL/pull/147) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
+5. 🎉 Merged PR [#91](https://github.com/APLA-Toolbox/pymapf/pull/91) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
