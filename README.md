@@ -122,7 +122,7 @@ scripts                  3 mins              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 16 July 2020 - To: 30 June 2026
+From: 16 July 2020 - To: 01 July 2026
 
 Total Time: 2,536 hrs 50 mins
 
