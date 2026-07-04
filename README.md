@@ -71,13 +71,13 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C536%20hrs%2050%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.52%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 553.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,411 Contributions in the Year 2026
+> 🏆 2,477 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,10 +88,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1592 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-🌆 Daytime                8223 commits        ████████░░░░░░░░░░░░░░░░░   33.86 % 
-🌃 Evening                9541 commits        ██████████░░░░░░░░░░░░░░░   39.29 % 
-🌙 Night                  4927 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+🌞 Morning                1398 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+🌆 Daytime                7700 commits        █████████░░░░░░░░░░░░░░░░   34.47 % 
+🌃 Evening                8729 commits        ██████████░░░░░░░░░░░░░░░   39.08 % 
+🌙 Night                  4509 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 ```
 
 
@@ -101,21 +101,20 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Other                    6 mins              ██████████████░░░░░░░░░░░   56.92 % 
-C++                      3 mins              █████████░░░░░░░░░░░░░░░░   36.84 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Other                    6 mins              ██████████████░░░░░░░░░░░   57.02 % 
+C++                      3 mins              █████████░░░░░░░░░░░░░░░░   36.91 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🐱‍💻 Projects: 
-launch                   6 mins              ██████████████░░░░░░░░░░░   56.92 % 
-swarm_mission            3 mins              █████████░░░░░░░░░░░░░░░░   36.84 % 
-arrc_si_devel            0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-sirb_tools               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+launch                   6 mins              ██████████████░░░░░░░░░░░   57.02 % 
+swarm_mission            3 mins              █████████░░░░░░░░░░░░░░░░   36.91 % 
+arrc_si_devel            0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 ```
 
 
- Last Updated on 03/07/2026 15:12:46 UTC
+ Last Updated on 04/07/2026 14:35:34 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
