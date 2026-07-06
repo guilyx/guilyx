@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 553.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,480 Contributions in the Year 2026
+> 🏆 2,484 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,9 +88,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1398 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+🌞 Morning                1400 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 🌆 Daytime                7694 commits        █████████░░░░░░░░░░░░░░░░   34.45 % 
-🌃 Evening                8731 commits        ██████████░░░░░░░░░░░░░░░   39.10 % 
+🌃 Evening                8733 commits        ██████████░░░░░░░░░░░░░░░   39.10 % 
 🌙 Night                  4509 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 ```
 
@@ -101,20 +101,14 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Other                    6 mins              ██████████████░░░░░░░░░░░   57.02 % 
-C++                      3 mins              █████████░░░░░░░░░░░░░░░░   36.91 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-launch                   6 mins              ██████████████░░░░░░░░░░░   57.02 % 
-swarm_mission            3 mins              █████████░░░░░░░░░░░░░░░░   36.91 % 
-arrc_si_devel            0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/07/2026 14:40:42 UTC
+ Last Updated on 06/07/2026 16:43:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
