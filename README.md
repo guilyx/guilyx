@@ -69,15 +69,15 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C536%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C539%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.71%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 553.1 kB Used in GitHub's Storage 
+> 📦 553.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,488 Contributions in the Year 2026
+> 🏆 2,490 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,10 +88,10 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1400 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-🌆 Daytime                7700 commits        █████████░░░░░░░░░░░░░░░░   34.46 % 
-🌃 Evening                8737 commits        ██████████░░░░░░░░░░░░░░░   39.10 % 
-🌙 Night                  4509 commits        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+🌞 Morning                1542 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌆 Daytime                8044 commits        █████████░░░░░░░░░░░░░░░░   34.44 % 
+🌃 Evening                9232 commits        ██████████░░░░░░░░░░░░░░░   39.52 % 
+🌙 Night                  4541 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
 ```
 
 
@@ -101,20 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 19 mins             █████████████████████░░░░   84.05 % 
-Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Markdown                 1 hr 34 mins        ███████████████████░░░░░░   76.61 % 
+Other                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-ai-tools                 9 mins              ██████████░░░░░░░░░░░░░░░   41.02 % 
-erwin                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-pdf_editor               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-vehicle                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+SIRB                     41 mins             ████████░░░░░░░░░░░░░░░░░   33.65 % 
+erwin                    23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+sirb_message_filter      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+ai-tools                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+whisper_isr_sept         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 
 
- Last Updated on 08/07/2026 15:24:56 UTC
+ Last Updated on 09/07/2026 16:20:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
