@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#148](https://github.com/APLA-Toolbox/PythonPDDL/pull/148) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-2. 🎉 Merged PR [#74](https://github.com/guilyx/btview-vscode-plugin/pull/74) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
-3. 🎉 Merged PR [#73](https://github.com/guilyx/btview-vscode-plugin/pull/73) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
-4. 🎉 Merged PR [#71](https://github.com/guilyx/btview-vscode-plugin/pull/71) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
-5. 🎉 Merged PR [#72](https://github.com/guilyx/btview-vscode-plugin/pull/72) in [guilyx/btview-vscode-plugin](https://github.com/guilyx/btview-vscode-plugin)
+1. 🎉 Merged PR [#2](https://github.com/guilyx/obsidian-workspace-persistence-skill/pull/2) in [guilyx/obsidian-workspace-persistence-skill](https://github.com/guilyx/obsidian-workspace-persistence-skill)
+2. 💪 Opened PR [#2](https://github.com/guilyx/obsidian-workspace-persistence-skill/pull/2) in [guilyx/obsidian-workspace-persistence-skill](https://github.com/guilyx/obsidian-workspace-persistence-skill)
+3. 🎉 Merged PR [#1](https://github.com/guilyx/obsidian-workspace-persistence-skill/pull/1) in [guilyx/obsidian-workspace-persistence-skill](https://github.com/guilyx/obsidian-workspace-persistence-skill)
+4. 💪 Opened PR [#1](https://github.com/guilyx/obsidian-cursor-plugin/pull/1) in [guilyx/obsidian-cursor-plugin](https://github.com/guilyx/obsidian-cursor-plugin)
+5. 💪 Opened PR [#1](https://github.com/guilyx/obsidian-workspace-persistence-skill/pull/1) in [guilyx/obsidian-workspace-persistence-skill](https://github.com/guilyx/obsidian-workspace-persistence-skill)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
