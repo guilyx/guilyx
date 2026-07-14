@@ -77,11 +77,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 553.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,499 Contributions in the Year 2026
+> 🏆 2,512 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 116 Public Repositories 
+> 📜 119 Public Repositories 
  > 
 > 🔑 46 Private Repositories 
  > 
@@ -89,9 +89,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ```text
 🌞 Morning                1542 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-🌆 Daytime                8069 commits        █████████░░░░░░░░░░░░░░░░   34.48 % 
-🌃 Evening                9243 commits        ██████████░░░░░░░░░░░░░░░   39.50 % 
-🌙 Night                  4547 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+🌆 Daytime                8075 commits        █████████░░░░░░░░░░░░░░░░   34.50 % 
+🌃 Evening                9245 commits        ██████████░░░░░░░░░░░░░░░   39.49 % 
+🌙 Night                  4547 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
 ```
 
 
@@ -101,22 +101,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 5 mins        ████████████████████░░░░░   79.75 % 
-Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Markdown                 2 hrs 14 mins       ██████████████████░░░░░░░   73.45 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+C                        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🐱‍💻 Projects: 
-SIRB                     1 hr 11 mins        ███████████░░░░░░░░░░░░░░   45.65 % 
-erwin                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-sirb_message_filter      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-ai-tools                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-2026-07-08               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+SIRB                     1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   39.13 % 
+erwin                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+sirb_message_filter      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+sirb_bt_engine           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
- Last Updated on 13/07/2026 15:48:23 UTC
+ Last Updated on 14/07/2026 15:00:27 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
