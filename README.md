@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/guilyx/obsidian-workspace-persistence-skill/pull/2) in [guilyx/obsidian-workspace-persistence-skill](https://github.com/guilyx/obsidian-workspace-persistence-skill)
-2. 💪 Opened PR [#2](https://github.com/guilyx/obsidian-workspace-persistence-skill/pull/2) in [guilyx/obsidian-workspace-persistence-skill](https://github.com/guilyx/obsidian-workspace-persistence-skill)
-3. 🎉 Merged PR [#1](https://github.com/guilyx/obsidian-workspace-persistence-skill/pull/1) in [guilyx/obsidian-workspace-persistence-skill](https://github.com/guilyx/obsidian-workspace-persistence-skill)
-4. 💪 Opened PR [#1](https://github.com/guilyx/obsidian-cursor-plugin/pull/1) in [guilyx/obsidian-cursor-plugin](https://github.com/guilyx/obsidian-cursor-plugin)
-5. 💪 Opened PR [#1](https://github.com/guilyx/obsidian-workspace-persistence-skill/pull/1) in [guilyx/obsidian-workspace-persistence-skill](https://github.com/guilyx/obsidian-workspace-persistence-skill)
+1. 💪 Opened PR [#12](https://github.com/guilyx/obsidian-cursor-plugin/pull/12) in [guilyx/obsidian-cursor-plugin](https://github.com/guilyx/obsidian-cursor-plugin)
+2. 💪 Opened PR [#11](https://github.com/guilyx/obsidian-cursor-plugin/pull/11) in [guilyx/obsidian-cursor-plugin](https://github.com/guilyx/obsidian-cursor-plugin)
+3. 🎉 Merged PR [#10](https://github.com/guilyx/obsidian-cursor-plugin/pull/10) in [guilyx/obsidian-cursor-plugin](https://github.com/guilyx/obsidian-cursor-plugin)
+4. 💪 Opened PR [#10](https://github.com/guilyx/obsidian-cursor-plugin/pull/10) in [guilyx/obsidian-cursor-plugin](https://github.com/guilyx/obsidian-cursor-plugin)
+5. 🎉 Merged PR [#9](https://github.com/guilyx/obsidian-cursor-plugin/pull/9) in [guilyx/obsidian-cursor-plugin](https://github.com/guilyx/obsidian-cursor-plugin)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
