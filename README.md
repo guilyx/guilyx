@@ -69,54 +69,24 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C540%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C541%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.85%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 553.9 kB Used in GitHub's Storage 
+> 📦 554.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,556 Contributions in the Year 2026
+> 🏆 2,586 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 119 Public Repositories 
  > 
-> 🔑 46 Private Repositories 
+> 🔑 45 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                1542 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-🌆 Daytime                8102 commits        █████████░░░░░░░░░░░░░░░░   34.55 % 
-🌃 Evening                9257 commits        ██████████░░░░░░░░░░░░░░░   39.48 % 
-🌙 Night                  4547 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-Markdown                 3 hrs 20 mins       ████████████████████░░░░░   81.42 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-C                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-
-🐱‍💻 Projects: 
-SIRB                     2 hrs 20 mins       ██████████████░░░░░░░░░░░   57.15 % 
-erwin                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-2026-07-14               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-sirb_message_filter      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-sirb_bt_engine           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-```
-
-
- Last Updated on 15/07/2026 14:55:36 UTC
+ Last Updated on 16/07/2026 15:09:39 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
