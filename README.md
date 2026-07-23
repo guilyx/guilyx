@@ -77,7 +77,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 554.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,600 Contributions in the Year 2026
+> 🏆 2,602 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -90,8 +90,8 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```text
 🌞 Morning                1546 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 🌆 Daytime                8134 commits        █████████░░░░░░░░░░░░░░░░   34.60 % 
-🌃 Evening                9310 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
-🌙 Night                  4517 commits        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+🌃 Evening                9312 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
+🌙 Night                  4517 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
 ```
 
 
@@ -101,22 +101,19 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 19 mins       █████████████████████████   99.38 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 2 hrs 26 mins       █████████████████████████   99.83 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-SIRB                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-2026-07-16               49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Cloud                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Unknown Project          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-dotdocs                  17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+2026-07-16               49 mins             ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Cloud                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+internal-pm              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+wbs                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 ```
 
 
- Last Updated on 22/07/2026 15:18:34 UTC
+ Last Updated on 23/07/2026 15:21:15 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
