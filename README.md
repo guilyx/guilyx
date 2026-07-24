@@ -69,15 +69,13 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C545%20hrs%2046%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.86%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 554.2 kB Used in GitHub's Storage 
+> 📦 554.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,602 Contributions in the Year 2026
+> 🏆 2,604 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,9 +86,9 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1546 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-🌆 Daytime                8134 commits        █████████░░░░░░░░░░░░░░░░   34.60 % 
-🌃 Evening                9312 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
+🌞 Morning                1546 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+🌆 Daytime                8134 commits        █████████░░░░░░░░░░░░░░░░   34.59 % 
+🌃 Evening                9317 commits        ██████████░░░░░░░░░░░░░░░   39.62 % 
 🌙 Night                  4517 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
 ```
 
@@ -101,19 +99,18 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 26 mins       █████████████████████████   99.83 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Markdown                 37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2026-07-16               49 mins             ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Cloud                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-internal-pm              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-wbs                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Cloud                    18 mins             ████████████░░░░░░░░░░░░░   49.61 % 
+internal-pm              9 mins              ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Unknown Project          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+2026-07-17               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+activities               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 ```
 
 
- Last Updated on 23/07/2026 15:21:15 UTC
+ Last Updated on 24/07/2026 15:04:49 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
