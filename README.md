@@ -61,11 +61,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/guilyx/rosbag2/pull/1) in [guilyx/rosbag2](https://github.com/guilyx/rosbag2)
-2. 🎉 Merged PR [#1](https://github.com/guilyx/clanked-obsidian/pull/1) in [guilyx/clanked-obsidian](https://github.com/guilyx/clanked-obsidian)
-3. 💪 Opened PR [#1](https://github.com/guilyx/clanked-obsidian/pull/1) in [guilyx/clanked-obsidian](https://github.com/guilyx/clanked-obsidian)
-4. 🎉 Merged PR [#5](https://github.com/guilyx/setup/pull/5) in [guilyx/setup](https://github.com/guilyx/setup)
-5. 💪 Opened PR [#5](https://github.com/guilyx/setup/pull/5) in [guilyx/setup](https://github.com/guilyx/setup)
+1. 💪 Opened PR [#6](https://github.com/guilyx/setup/pull/6) in [guilyx/setup](https://github.com/guilyx/setup)
+2. 🚀 Published release [v0.8.0](https://github.com/APLA-Toolbox/pymapf/releases/tag/v0.8.0) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+3. 🎉 Merged PR [#102](https://github.com/APLA-Toolbox/pymapf/pull/102) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+4. 💪 Opened PR [#102](https://github.com/APLA-Toolbox/pymapf/pull/102) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
+5. 🎉 Merged PR [#97](https://github.com/APLA-Toolbox/pymapf/pull/97) in [APLA-Toolbox/pymapf](https://github.com/APLA-Toolbox/pymapf)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
