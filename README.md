@@ -62,11 +62,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/guilyx/rosbag2/pull/3) in [guilyx/rosbag2](https://github.com/guilyx/rosbag2)
-2. 🎉 Merged PR [#5](https://github.com/guilyx/clanked-obsidian/pull/5) in [guilyx/clanked-obsidian](https://github.com/guilyx/clanked-obsidian)
-3. 💪 Opened PR [#5](https://github.com/guilyx/clanked-obsidian/pull/5) in [guilyx/clanked-obsidian](https://github.com/guilyx/clanked-obsidian)
-4. 🎉 Merged PR [#6](https://github.com/guilyx/setup/pull/6) in [guilyx/setup](https://github.com/guilyx/setup)
-5. 💪 Opened PR [#6](https://github.com/guilyx/setup/pull/6) in [guilyx/setup](https://github.com/guilyx/setup)
+1. 🎉 Merged PR [#5](https://github.com/guilyx/resume/pull/5) in [guilyx/resume](https://github.com/guilyx/resume)
+2. 🗣 Commented on [#2211](https://github.com/ros2/rosbag2/issues/2211#issuecomment-5204666433) in [ros2/rosbag2](https://github.com/ros2/rosbag2)
+3. 🗣 Commented on [#4](https://github.com/guilyx/t212-mcp/pull/4#issuecomment-5194957329) in [guilyx/t212-mcp](https://github.com/guilyx/t212-mcp)
+4. ❌ Closed PR [#4](https://github.com/guilyx/t212-mcp/pull/4) in [guilyx/t212-mcp](https://github.com/guilyx/t212-mcp)
+5. ❌ Closed PR [#6](https://github.com/guilyx/t212-mcp/pull/6) in [guilyx/t212-mcp](https://github.com/guilyx/t212-mcp)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
