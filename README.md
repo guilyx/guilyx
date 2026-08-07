@@ -62,11 +62,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/guilyx/resume/pull/5) in [guilyx/resume](https://github.com/guilyx/resume)
-2. 🗣 Commented on [#2211](https://github.com/ros2/rosbag2/issues/2211#issuecomment-5204666433) in [ros2/rosbag2](https://github.com/ros2/rosbag2)
-3. 🗣 Commented on [#4](https://github.com/guilyx/t212-mcp/pull/4#issuecomment-5194957329) in [guilyx/t212-mcp](https://github.com/guilyx/t212-mcp)
-4. ❌ Closed PR [#4](https://github.com/guilyx/t212-mcp/pull/4) in [guilyx/t212-mcp](https://github.com/guilyx/t212-mcp)
-5. ❌ Closed PR [#6](https://github.com/guilyx/t212-mcp/pull/6) in [guilyx/t212-mcp](https://github.com/guilyx/t212-mcp)
+1. 💪 Opened PR [#1](https://github.com/guilyx/branding/pull/1) in [guilyx/branding](https://github.com/guilyx/branding)
+2. 🗣 Commented on [#4](https://github.com/HunterTheAgent/hunter-docs/issues/4#issuecomment-5217284928) in [HunterTheAgent/hunter-docs](https://github.com/HunterTheAgent/hunter-docs)
+3. 🗣 Commented on [#4](https://github.com/HunterTheAgent/hunter-docs/issues/4#issuecomment-5217012675) in [HunterTheAgent/hunter-docs](https://github.com/HunterTheAgent/hunter-docs)
+4. 🗣 Commented on [#4](https://github.com/HunterTheAgent/hunter-docs/issues/4#issuecomment-5213519457) in [HunterTheAgent/hunter-docs](https://github.com/HunterTheAgent/hunter-docs)
+5. 🗣 Commented on [#4](https://github.com/HunterTheAgent/hunter-docs/issues/4#issuecomment-5213478741) in [HunterTheAgent/hunter-docs](https://github.com/HunterTheAgent/hunter-docs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
