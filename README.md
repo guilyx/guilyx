@@ -70,56 +70,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C437%20hrs%2033%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-208%20hrs%2030%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 744.0 kB Used in GitHub's Storage 
+> 📦 745.4 kB Used in GitHub's Storage 
  > 
-> 🏆 3,387 Contributions in the Year 2026
+> 🏆 3,630 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 125 Public Repositories 
+> 📜 86 Public Repositories 
  > 
-> 🔑 63 Private Repositories 
+> 🔑 43 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                1856 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-🌆 Daytime                9622 commits        ████████░░░░░░░░░░░░░░░░░   33.92 % 
-🌃 Evening                10787 commits       ██████████░░░░░░░░░░░░░░░   38.02 % 
-🌙 Night                  6104 commits        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-Markdown                 1 hr 41 mins        █████████████░░░░░░░░░░░░   52.04 % 
-Bash                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Text                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-
-🐱‍💻 Projects: 
-Cloud                    1 hr 23 mins        ███████████░░░░░░░░░░░░░░   42.45 % 
-Unknown Project          31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-terminals                24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-konasu                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-brainiac                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-```
-
-
- Last Updated on 06/08/2026 15:54:12 UTC
+ Last Updated on 07/08/2026 14:45:30 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
