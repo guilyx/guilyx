@@ -70,13 +70,17 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95.13%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C440%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%205%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 745.4 kB Used in GitHub's Storage 
+> 📦 780.3 kB Used in GitHub's Storage 
  > 
-> 🏆 3,630 Contributions in the Year 2026
+> 🏆 3,664 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,8 +88,38 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
  > 
 > 🔑 43 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 07/08/2026 14:45:30 UTC
+```text
+🌞 Morning                2062 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+🌆 Daytime                10406 commits       ████████░░░░░░░░░░░░░░░░░   33.52 % 
+🌃 Evening                11551 commits       █████████░░░░░░░░░░░░░░░░   37.21 % 
+🌙 Night                  7022 commits        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+Markdown                 1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   37.09 % 
+Python                   1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Bash                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Text                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+
+🐱‍💻 Projects: 
+Cloud                    1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+bench2clanker            1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+Unknown Project          31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+terminals                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+wardn                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+```
+
+
+ Last Updated on 08/08/2026 14:14:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
