@@ -62,11 +62,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/guilyx/rostree/releases/tag/v0.4.0) in [guilyx/rostree](https://github.com/guilyx/rostree)
-2. 🚀 Published release [v0.3.0](https://github.com/guilyx/rostree/releases/tag/v0.3.0) in [guilyx/rostree](https://github.com/guilyx/rostree)
-3. 🎉 Merged PR [#14](https://github.com/guilyx/rostree/pull/14) in [guilyx/rostree](https://github.com/guilyx/rostree)
-4. 💪 Opened PR [#14](https://github.com/guilyx/rostree/pull/14) in [guilyx/rostree](https://github.com/guilyx/rostree)
-5. 🗣 Commented on [#4](https://github.com/HunterTheAgent/hunter-docs/issues/4#issuecomment-5227120984) in [HunterTheAgent/hunter-docs](https://github.com/HunterTheAgent/hunter-docs)
+1. 🎉 Merged PR [#1](https://github.com/guilyx/v2/pull/1) in [guilyx/v2](https://github.com/guilyx/v2)
+2. 💪 Opened PR [#1](https://github.com/guilyx/v2/pull/1) in [guilyx/v2](https://github.com/guilyx/v2)
+3. 💪 Opened PR [#6](https://github.com/guilyx/awesome-daily-minigames/pull/6) in [guilyx/awesome-daily-minigames](https://github.com/guilyx/awesome-daily-minigames)
+4. 🎉 Merged PR [#18](https://github.com/guilyx/rostree/pull/18) in [guilyx/rostree](https://github.com/guilyx/rostree)
+5. 💪 Opened PR [#18](https://github.com/guilyx/rostree/pull/18) in [guilyx/rostree](https://github.com/guilyx/rostree)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
