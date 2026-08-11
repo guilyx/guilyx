@@ -74,27 +74,27 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 780.3 kB Used in GitHub's Storage 
+> 📦 841.3 kB Used in GitHub's Storage 
  > 
-> 🏆 3,712 Contributions in the Year 2026
+> 🏆 3,812 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 87 Public Repositories 
+> 📜 88 Public Repositories 
  > 
-> 🔑 43 Private Repositories 
+> 🔑 44 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2065 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-🌆 Daytime                10452 commits       ████████░░░░░░░░░░░░░░░░░   33.51 % 
-🌃 Evening                11615 commits       █████████░░░░░░░░░░░░░░░░   37.24 % 
-🌙 Night                  7057 commits        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+🌞 Morning                2140 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+🌆 Daytime                11264 commits       ████████░░░░░░░░░░░░░░░░░   33.81 % 
+🌃 Evening                12303 commits       █████████░░░░░░░░░░░░░░░░   36.93 % 
+🌙 Night                  7605 commits        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
 ```
 
 
@@ -104,22 +104,22 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.62 % 
-Markdown                 55 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-Text                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Python                   1 hr 30 mins        ███████████░░░░░░░░░░░░░░   43.30 % 
+Markdown                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Text                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Rust                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🐱‍💻 Projects: 
-bench2clanker            1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   39.41 % 
-Unknown Project          31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Cloud                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-terminals                24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-wardn                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+bench2clanker            1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   38.24 % 
+terminals                24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Cloud                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Unknown Project          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+wardn                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 ```
 
 
- Last Updated on 10/08/2026 14:53:17 UTC
+ Last Updated on 11/08/2026 14:43:32 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
