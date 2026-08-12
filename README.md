@@ -62,11 +62,11 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/guilyx/v2/pull/1) in [guilyx/v2](https://github.com/guilyx/v2)
-2. 💪 Opened PR [#1](https://github.com/guilyx/v2/pull/1) in [guilyx/v2](https://github.com/guilyx/v2)
-3. 💪 Opened PR [#6](https://github.com/guilyx/awesome-daily-minigames/pull/6) in [guilyx/awesome-daily-minigames](https://github.com/guilyx/awesome-daily-minigames)
-4. 🎉 Merged PR [#18](https://github.com/guilyx/rostree/pull/18) in [guilyx/rostree](https://github.com/guilyx/rostree)
-5. 💪 Opened PR [#18](https://github.com/guilyx/rostree/pull/18) in [guilyx/rostree](https://github.com/guilyx/rostree)
+1. 💪 Opened PR [#2](https://github.com/guilyx/branding/pull/2) in [guilyx/branding](https://github.com/guilyx/branding)
+2. 🎉 Merged PR [#3](https://github.com/guilyx/v2/pull/3) in [guilyx/v2](https://github.com/guilyx/v2)
+3. 💪 Opened PR [#3](https://github.com/guilyx/v2/pull/3) in [guilyx/v2](https://github.com/guilyx/v2)
+4. 🎉 Merged PR [#2](https://github.com/guilyx/v2/pull/2) in [guilyx/v2](https://github.com/guilyx/v2)
+5. 💪 Opened PR [#2](https://github.com/guilyx/v2/pull/2) in [guilyx/v2](https://github.com/guilyx/v2)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
