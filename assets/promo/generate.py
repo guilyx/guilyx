@@ -2,15 +2,19 @@
 """
 guilyx — terminal profile promo.
 
-Renders `guilyx-terminal.gif`: a ~13s looping sequence that opens as a terminal,
-answers `whoami` with the identity card, turns the falling glyph rain into a
-live flocking simulation, lets three of those agents settle into the swarm mark,
-traces the trajectory, and signs off.
+Renders `guilyx-terminal.gif`: a ~22s looping sequence that opens as a terminal,
+answers `whoami` with the identity card, asks the swarm to elect a leader, turns
+the falling glyph rain into a live flocking simulation, lets three of those
+agents settle into the swarm mark, traces the trajectory, and signs off.
 
 Palette, type registers and the accent budget come from guilyx/branding
 ("Ink & Iris"). The accent is the only saturated value in the system, so it is
 spent once per scene and nowhere else. The flock reads `--color-agent`, which
 tracks `muted` — texture, not decoration.
+
+Pacing is per frame, not global: motion runs at FRAME_MS and the frames with
+something to read hold for up to two seconds (see HOLD_MS). Nothing here is in a
+hurry, and the pause in the middle of the joke is the joke.
 
 Deps: pillow >= 10
 Run:  python3 assets/promo/generate.py
@@ -32,7 +36,7 @@ from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageFont
 W, H = 880, 440           # logical (delivered) size
 SS = 2                    # supersample factor; all drawing happens at SS scale
 FW, FH = W * SS, H * SS
-FRAME_MS = 60             # 60ms/frame ≈ 16.7fps
+FRAME_MS = 90             # 90ms/frame ≈ 11fps for anything that moves
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "guilyx-terminal.gif")
@@ -232,15 +236,15 @@ GLYPHS += list("░▒▓│┤├┼╱╲◆◇○●□■▲▼")
 class Rain:
     """Monochrome cascade. Heads are bright, trails fall away to the hairline."""
 
-    COL_W = 13.0
-    TRAIL = 16
+    COL_W = 17.0
+    TRAIL = 13
 
     def __init__(self, rng):
         self.rng = rng
         self.ncols = int(W / self.COL_W) + 1
         self.y = [rng.uniform(-H, 0) for _ in range(self.ncols)]
-        self.speed = [rng.uniform(4.5, 13.0) for _ in range(self.ncols)]
-        self.on = [rng.random() < 0.6 for _ in range(self.ncols)]
+        self.speed = [rng.uniform(1.8, 5.0) for _ in range(self.ncols)]
+        self.on = [rng.random() < 0.5 for _ in range(self.ncols)]
         self.chars = [
             [rng.choice(GLYPHS) for _ in range(self.TRAIL)] for _ in range(self.ncols)
         ]
@@ -250,9 +254,11 @@ class Rain:
             self.y[i] += self.speed[i]
             if self.y[i] > H + self.TRAIL * LH:
                 self.y[i] = self.rng.uniform(-H * 0.6, -20)
-                self.speed[i] = self.rng.uniform(4.5, 13.0)
-                self.on[i] = self.rng.random() < 0.75
-            if self.rng.random() < 0.28:
+                self.speed[i] = self.rng.uniform(1.8, 5.0)
+                self.on[i] = self.rng.random() < 0.6
+            # glyphs mutate rarely: a column that reshuffles every frame is
+            # just noise, and noise is what makes the whole thing feel busy
+            if self.rng.random() < 0.06:
                 self.chars[i][self.rng.randrange(self.TRAIL)] = self.rng.choice(GLYPHS)
 
     def heads(self):
@@ -297,10 +303,10 @@ class Rain:
 
 class Flock:
     R_NEIGHBOUR = 115.0
-    R_SEP = 26.0
-    MAX_SPEED = 3.4
-    MAX_FORCE = 0.13
-    TRAIL = 24
+    R_SEP = 28.0
+    MAX_SPEED = 2.2
+    MAX_FORCE = 0.085
+    TRAIL = 20
 
     def __init__(self, n, rng):
         self.rng = rng
@@ -423,9 +429,9 @@ class Flock:
             if sp > self.MAX_SPEED:
                 vx = vx / sp * self.MAX_SPEED
                 vy = vy / sp * self.MAX_SPEED
-            elif sp < 1.2 and sp > 1e-6:
-                vx = vx / sp * 1.2
-                vy = vy / sp * 1.2
+            elif sp < 0.9 and sp > 1e-6:
+                vx = vx / sp * 0.9
+                vy = vy / sp * 0.9
             self.vel[i] = [vx, vy]
             self.pos[i] = [px + vx, py + vy]
 
@@ -448,7 +454,7 @@ class Flock:
                 if d2 > 62.0 ** 2:
                     continue
                 t = 1 - math.sqrt(d2) / 62.0
-                col = fade(FAINT, t * 0.8 * k)
+                col = fade(FAINT, t * 0.5 * k)
                 if col == BG:
                     continue
                 d.line(
@@ -556,7 +562,7 @@ def status_bar(d, k, label):
 # Post-processing
 # --------------------------------------------------------------------------
 
-def bloom(img, radius=7, strength=0.62):
+def bloom(img, radius=7, strength=0.55):
     """Glow, computed small and scaled back up — cheap and smoother than a
     full-resolution blur."""
     small = img.resize((FW // 4, FH // 4), Image.BILINEAR)
@@ -578,10 +584,10 @@ def build_screen_mask():
     cx, cy = W / 2.0, H / 2.0
     maxd = math.hypot(cx, cy)
     for y in range(H):
-        scan = 0.84 if (y % 2) else 1.0
+        scan = 0.88 if (y % 2) else 1.0
         for x in range(W):
             d = math.hypot(x - cx, y - cy) / maxd
-            vig = 1.0 - 0.17 * (d ** 2.0)
+            vig = 1.0 - 0.14 * (d ** 2.0)
             px[x, y] = max(0, min(255, int(255 * scan * vig)))
     return Image.merge("RGB", (m, m, m))
 
@@ -632,13 +638,32 @@ def slice_glitch(img, amount, rng, band=14):
 
 T_POWER = 0
 T_TERM = 11
-T_ID = 53
-T_SWARM = 95
-T_TRAJ = 153
-T_SIGN = 191
-T_END = 219
+T_ID = 40
+T_JOKE = 67
+T_SWARM = 89
+T_TRAJ = 132
+T_SIGN = 160
+T_END = 179
 
-CUTS = (T_ID, T_SWARM, T_TRAJ, T_SIGN)
+CUTS = (T_ID, T_JOKE, T_SWARM, T_TRAJ, T_SIGN)
+
+# Frames that hold, and for how long.
+#
+# GIF delays are per frame, so the piece does not have to pick one speed. The
+# flock and the typing run at FRAME_MS because they are motion; the frames where
+# there is something to *read* sit still for a beat instead. The rain and the
+# flock are frozen on a hold, so the pause reads as deliberate rather than as a
+# dropped frame — and an unchanged frame costs almost nothing to encode.
+HOLD_MS = {
+    T_ID - 2: 420, T_ID - 1: 420,                       # after `whoami`
+    T_JOKE - 3: 400, T_JOKE - 2: 400, T_JOKE - 1: 400,  # the identity card
+    # the joke: a long beat where it looks like an error, then the punchline
+    T_JOKE + 16: 540, T_JOKE + 17: 540,
+    T_SWARM - 3: 620, T_SWARM - 2: 620, T_SWARM - 1: 620,
+    T_TRAJ - 1: 460,                                    # the mark, formed
+    T_SIGN - 2: 400, T_SIGN - 1: 400,                   # the trajectory
+    T_END - 7: 560, T_END - 6: 560,                     # sign-off, before fade
+}
 
 
 # --------------------------------------------------------------------------
@@ -650,11 +675,22 @@ TERM_LINES = [
     # (start, indent, segments[(text, colour)], typed?)
     (0,  0, [("guilyx", MUTED), (" on ", FAINT), ("master", MUTED),
              (" [!?] ", FAINT), ("took 16s", FAINT)], False),
-    (3,  0, [("→ ", ACCENT), ("ssh erwin@elejeune.me", BODY)], True),
-    (15, 1, [("handshake ", FAINT), ("·"*14, LINE), (" ok", BODY)], False),
-    (19, 1, [("locale ", FAINT), ("·"*17, LINE), (" abu dhabi, uae · utc+04", BODY)], False),
-    (23, 1, [("stack ", FAINT), ("·"*18, LINE), (" c++ · python · go · rust · ros 2", BODY)], False),
-    (29, 0, [("→ ", ACCENT), ("whoami", BODY)], True),
+    (2,  0, [("→ ", ACCENT), ("ssh erwin@elejeune.me", BODY)], True),
+    (17, 1, [("handshake ", FAINT), ("·" * 14, LINE), (" ok", BODY)], False),
+    (20, 1, [("locale ", FAINT), ("·" * 17, LINE),
+             (" abu dhabi, uae · utc+04", BODY)], False),
+    (22, 0, [("→ ", ACCENT), ("whoami", BODY)], True),
+]
+
+# The joke, and it is true: a decentralized swarm has no leader by construction,
+# so asking it to elect one is not a bug report. Brand voice allows exactly one
+# joke and it has to be true — this is the one.
+JOKE_LINES = [
+    (0,  0, [("guilyx", MUTED), (" on ", FAINT), ("master", MUTED),
+             (" [!?]", FAINT)], False),
+    (2,  0, [("→ ", ACCENT), ("swarm --elect-leader", BODY)], True),
+    (15, 1, [("no leader found.", BODY)], False),
+    (18, 1, [("working as intended.", MUTED)], False),
 ]
 
 SPEC = [
@@ -705,27 +741,29 @@ def scene_power(d, f):
         d.line([0, S(cy), FW, S(cy)], fill=mix(HEADING, WHITE, 1 - e), width=lw)
 
 
-def scene_term(d, f):
-    """The handshake. Terminal in the machine register."""
-    t = f - T_TERM
-    x0, y0 = 54.0, 74.0
-    for (start, indent, segments, typed) in TERM_LINES:
+CPS = 1.7          # characters per frame while typing — deliberate, not frantic
+
+
+def _cursor(d, x, y, f, k=0.85):
+    if (f // 4) % 2 == 0:
+        d.rectangle([S(x), S(y + 2), S(x + CW * 0.85), S(y + LH * 0.82)],
+                    fill=fade(BODY, k))
+
+
+def draw_terminal(d, f, t, lines, y0=74.0, tail_from=None):
+    """Render a terminal block. `tail_from` blinks a cursor at the end of the
+    last line once the local clock passes it."""
+    x0 = 54.0
+    last_x = last_y = None
+    for row, (start, indent, segments, typed) in enumerate(lines):
         if t < start:
             continue
-        row = TERM_LINES.index((start, indent, segments, typed))
         y = y0 + row * (LH + 4)
         x = x0 + indent * CW * 2
-
         full = "".join(s for s, _ in segments)
-        if typed:
-            n = int((t - start) * 2.6)
-            if n <= 0:
-                continue
-        else:
-            n = len(full)
-            # response lines snap in, with a single frame of overshoot
-            if t - start < 1:
-                n = len(full)
+        n = int((t - start) * CPS) if typed else len(full)
+        if n <= 0:
+            continue
 
         used = 0
         for s, col in segments:
@@ -734,18 +772,25 @@ def scene_term(d, f):
             take = min(len(s), n - used)
             text(d, x + used * CW, y, s[:take], F_MONO, fade(col, 1.0))
             used += take
+        last_x, last_y = x + used * CW, y
 
-        # cursor rides the last visible line
-        if typed and used < len(full) and (f // 3) % 2 == 0:
-            d.rectangle([S(x + used * CW), S(y + 2),
-                         S(x + used * CW + CW * 0.85), S(y + LH * 0.82)],
-                        fill=fade(BODY, 0.8))
+        # cursor rides whichever line is still being typed
+        if typed and used < len(full):
+            _cursor(d, x + used * CW, y, f, 0.8)
+            return
 
-    if t > 38 and (f // 3) % 2 == 0:
-        last_y = y0 + (len(TERM_LINES) - 1) * (LH + 4)
-        cx = x0 + (2 + len("whoami")) * CW
-        d.rectangle([S(cx), S(last_y + 2), S(cx + CW * 0.85), S(last_y + LH * 0.82)],
-                    fill=fade(BODY, 0.9))
+    if tail_from is not None and t >= tail_from and last_x is not None:
+        _cursor(d, last_x, last_y, f, 0.9)
+
+
+def scene_term(d, f):
+    """The handshake. Terminal in the machine register."""
+    draw_terminal(d, f, f - T_TERM, TERM_LINES, tail_from=27)
+
+
+def scene_joke(d, f):
+    """`swarm --elect-leader`. The pause before the second line is the joke."""
+    draw_terminal(d, f, f - T_JOKE, JOKE_LINES, y0=172.0, tail_from=20)
 
 
 def scene_identity(d, f):
@@ -760,20 +805,20 @@ def scene_identity(d, f):
 
     # accent moment for this scene: the rule under the name. Sits clear of the
     # descender on the "j".
-    if t >= 5:
-        e = ease_out(seg(t, 5, 10))
+    if t >= 3:
+        e = ease_out(seg(t, 3, 8))
         d.line([S(x0), S(172), S(x0 + 300 * e), S(172)],
                fill=fade(ACCENT, 0.9), width=max(1, int(S(1.5))))
 
     # tagline, revealed left to right
-    if t >= 7:
+    if t >= 5:
         tag = "I make robot swarms think for themselves."
-        n = int((t - 7) * 2.2)
+        n = int((t - 5) * 3.0)
         text(d, x0, 190, tag[:n], F_DISP_M, MUTED)
 
     # spec rows, staggered
     for i, (k, v) in enumerate(SPEC):
-        st = 15 + i * 3
+        st = 11 + i * 2
         if t < st:
             continue
         a = ease_out(seg(t, st, 5))
@@ -781,8 +826,8 @@ def scene_identity(d, f):
         text(d, x0, y, k, F_MONO_S, fade(FAINT, a))
         text(d, x0 + 92, y, v, F_MONO_S, fade(BODY, a))
 
-    if t >= 26:
-        draw_mark(d, W - 100, 112, 48, ease_out(seg(t, 26, 8)))
+    if t >= 17:
+        draw_mark(d, W - 100, 112, 48, ease_out(seg(t, 17, 5)))
 
 
 def scene_swarm(d, f, flock, rain):
@@ -791,15 +836,15 @@ def scene_swarm(d, f, flock, rain):
 
     if t >= 2:
         text(d, 54, 52, "→ ", F_MONO, fade(ACCENT, 0.9))
-        line = "swarm.spawn(agents=64, leader=none)"
-        n = int((t - 2) * 3.0)
+        line = "swarm.spawn(agents=44, leader=none)"
+        n = int((t - 2) * 2.4)
         text(d, 54 + 2 * CW, 52, line[:n], F_MONO, BODY)
 
     # hud
-    if t >= 12:
-        a = ease_out(seg(t, 12, 8))
+    if t >= 10:
+        a = ease_out(seg(t, 10, 8))
         rows = [
-            ("agents", "064"),
+            ("agents", "044"),
             ("leader", "none"),
             ("rules", "separation · alignment · cohesion"),
         ]
@@ -809,12 +854,12 @@ def scene_swarm(d, f, flock, rain):
             text(d, 54 + 68, y, v, F_MONO_XS, fade(MUTED, a))
 
     # the formation resolves; caption lands after it
-    if t >= 44:
-        a = ease_out(seg(t, 44, 8))
+    if t >= 34:
+        a = ease_out(seg(t, 34, 6))
         ctext(d, W / 2, H / 2 + 74, "no leader. the shape is a consequence.",
               F_MONO_S, fade(MUTED, a))
-    if t >= 50:
-        a = ease_out(seg(t, 50, 6))
+    if t >= 38:
+        a = ease_out(seg(t, 38, 4))
         ctext(d, W / 2, H / 2 + 96, "iros 2024 · decentralized acceleration-based flocking",
               F_MONO_XS, fade(FAINT, a * 0.9))
 
@@ -826,14 +871,14 @@ def scene_trajectory(d, f):
     ay = 214.0
 
     text(d, 54, 54, "→ ", F_MONO, fade(ACCENT, 0.9))
-    n = int(max(0, t) * 3.0)
+    n = int(max(0, t) * 2.4)
     text(d, 54 + 2 * CW, 54, "trajectory --since 2018"[:n], F_MONO, BODY)
 
     def px(year):
         return ax0 + (year - TRAJ_T0) / (TRAJ_T1 - TRAJ_T0) * (ax1 - ax0)
 
     # the path is planned first, then followed
-    e = ease_in_out(seg(t, 4, 20))
+    e = ease_in_out(seg(t, 3, 16))
     if e > 0:
         d.line([S(ax0), S(ay), S(ax0 + (ax1 - ax0) * e), S(ay)],
                fill=fade(LINE, 1.0), width=max(1, int(S(1.4))))
@@ -846,7 +891,7 @@ def scene_trajectory(d, f):
         # fade in over a fixed beat once the head passes, rather than off the
         # remaining path — the last waypoint has almost no path left and would
         # never resolve to full strength
-        a = ease_out(seg(t, 4 + reach * 20, 5))
+        a = ease_out(seg(t, 3 + reach * 16, 4))
         up = i % 2 == 0
         stem = 26.0
         d.line([S(x), S(ay), S(x), S(ay - stem if up else ay + stem)],
@@ -862,8 +907,8 @@ def scene_trajectory(d, f):
         hx = ax0 + (ax1 - ax0) * e
         d.ellipse([S(hx - 4), S(ay - 4), S(hx + 4), S(ay + 4)], fill=fade(ACCENT, 1.0))
 
-    if t >= 24:
-        a = ease_out(seg(t, 24, 8))
+    if t >= 20:
+        a = ease_out(seg(t, 20, 6))
         ctext(d, W / 2, H - 66,
               "2,551 hrs tracked · 3,850 contributions in 2026 · 83 public repos",
               F_MONO_XS, fade(FAINT, a))
@@ -873,26 +918,26 @@ def scene_sign(d, f):
     t = f - T_SIGN
     cx = W / 2.0
 
-    a = ease_out(seg(t, 1, 8))
+    a = ease_out(seg(t, 1, 5))
     draw_mark(d, cx, 158, 62, a)
 
-    if t >= 5:
-        b = ease_out(seg(t, 5, 6))
+    if t >= 3:
+        b = ease_out(seg(t, 3, 4))
         ctext(d, cx, 206, "guilyx", F_MONO_XL, fade(HEADING, b))
 
-    if t >= 10:
-        b = ease_out(seg(t, 10, 6))
+    if t >= 5:
+        b = ease_out(seg(t, 5, 4))
         ctext(d, cx, 256, "Erwin Lejeune — lead architect, robotics & ai systems",
               F_MONO_S, fade(MUTED, b))
 
-    if t >= 14:
-        b = ease_out(seg(t, 14, 6))
+    if t >= 7:
+        b = ease_out(seg(t, 7, 3))
         w = 210 * b
         d.line([S(cx - w), S(284), S(cx + w), S(284)],
                fill=fade(LINE, b), width=max(1, int(S(1))))
 
-    if t >= 16:
-        b = ease_out(seg(t, 16, 6))
+    if t >= 9:
+        b = ease_out(seg(t, 9, 3))
         left = "github.com/guilyx"
         right = "elejeune.me"
         gap = 4.0
@@ -905,7 +950,7 @@ def scene_sign(d, f):
         text(d, x, 302, right, F_MONO_S, fade(ACCENT, b))
         _ = gap
 
-    if t >= 20 and (f // 3) % 2 == 0:
+    if t >= 11 and (f // 4) % 2 == 0:
         half = text_w("guilyx", F_MONO_XL) / 2.0
         cwx = cw(F_MONO_XL)
         x = cx + half + cwx * 0.35
@@ -940,32 +985,39 @@ def flash_card(img, f):
 
 def render():
     rain = Rain(RNG)
-    flock = Flock(64, RNG)
+    flock = Flock(44, RNG)
     mark_targets: list[tuple[float, float]] = []
     chosen: list[int] = []
     frames: list[Image.Image] = []
 
+    durations: list[int] = []
+
     for f in range(T_END):
+        frozen = f in HOLD_MS
+        durations.append(HOLD_MS.get(f, FRAME_MS))
         img = Image.new("RGB", (FW, FH), BG)
         d = ImageDraw.Draw(img)
 
         # ---- rain intensity per scene ---------------------------------
         if f < T_TERM:
-            k_rain = seg(f, 5, 8) * 0.30
+            k_rain = seg(f, 5, 8) * 0.17
         elif f < T_ID:
-            k_rain = 0.30
+            k_rain = 0.17
+        elif f < T_JOKE:
+            k_rain = 0.10
         elif f < T_SWARM:
-            k_rain = 0.16
+            k_rain = 0.12
         elif f < T_SWARM + 10:
             # the rain hands over to the flock
-            k_rain = 0.16 * (1 - seg(f, T_SWARM, 9))
+            k_rain = 0.12 * (1 - seg(f, T_SWARM, 9))
         elif f < T_TRAJ:
             k_rain = 0.0
         elif f < T_SIGN:
-            k_rain = 0.07
+            k_rain = 0.05
         else:
-            k_rain = 0.10 * (1 - seg(f, T_SIGN + 14, 10))
-        rain.step()
+            k_rain = 0.07 * (1 - seg(f, T_SIGN + 8, 8))
+        if not frozen:
+            rain.step()
         rain.draw(d, k_rain)
 
         # ---- flock lifecycle ------------------------------------------
@@ -983,14 +1035,14 @@ def render():
                                 falling=False)
 
         t_sw = f - T_SWARM
-        if T_SWARM <= f:
-            boost = ease_in_out(seg(t_sw, 30, 12)) if t_sw < 44 else 1.0
+        if T_SWARM <= f and not frozen:
+            boost = ease_in_out(seg(t_sw, 18, 12)) if t_sw < 34 else 1.0
             if f >= T_TRAJ:
                 boost = 0.0
             flock.step(cohesion_boost=boost * 0.55)
 
         # three agents settle into the mark
-        if t_sw == 34:
+        if t_sw == 22:
             cx, cy = W / 2.0, H / 2.0 - 6
             mark_targets[:] = mark_points(cx, cy, 132)
             live = [i for i in range(flock.n) if flock.alive[i]]
@@ -1003,8 +1055,8 @@ def render():
                 )
                 chosen.append(best)
 
-        if chosen and 34 <= t_sw:
-            a = ease_in_out(seg(t_sw, 34, 12))
+        if chosen and 22 <= t_sw:
+            a = ease_in_out(seg(t_sw, 22, 12))
             for i, idx in enumerate(chosen):
                 tx, ty = mark_targets[i]
                 sx, sy = flock.pos[idx]
@@ -1012,7 +1064,7 @@ def render():
                                   sy + (ty - sy) * a * 0.55]
                 flock.trail[idx].append(tuple(flock.pos[idx]))
             # the rest of the flock stands down
-            fade_out = seg(t_sw, 38, 10)
+            fade_out = seg(t_sw, 26, 10)
             if fade_out >= 1.0:
                 for i in range(flock.n):
                     if i not in chosen:
@@ -1021,14 +1073,14 @@ def render():
         # ---- draw the flock -------------------------------------------
         if T_SWARM <= f < T_TRAJ:
             k_flock = ease_out(seg(t_sw, 0, 8))
-            if t_sw >= 38:
-                others = 1 - seg(t_sw, 38, 10)
+            if t_sw >= 26:
+                others = 1 - seg(t_sw, 26, 10)
             else:
                 others = 1.0
             flock.draw_links(d, min(k_flock, others) * ease_out(seg(t_sw, 14, 10)))
             flock.draw(d, k_flock * others)
             if chosen:
-                a = ease_in_out(seg(t_sw, 36, 10))
+                a = ease_in_out(seg(t_sw, 24, 10))
                 if a > 0:
                     draw_mark(d, W / 2, H / 2 - 6, 132, a)
         elif f >= T_SIGN:
@@ -1039,8 +1091,10 @@ def render():
             scene_power(d, f)
         elif f < T_ID:
             scene_term(d, f)
-        elif f < T_SWARM:
+        elif f < T_JOKE:
             scene_identity(d, f)
+        elif f < T_SWARM:
+            scene_joke(d, f)
         elif f < T_TRAJ:
             scene_swarm(d, f, flock, rain)
         elif f < T_SIGN:
@@ -1053,6 +1107,7 @@ def render():
             corner_ticks(d, 0.9)
             labels = {
                 T_ID: "identity",
+                T_JOKE: "swarm",
                 T_SWARM: "swarm",
                 T_TRAJ: "trajectory",
                 T_SIGN: "open channel",
@@ -1063,10 +1118,10 @@ def render():
         # ---- glitch on the cuts ----------------------------------------
         amount = 0.0
         for c in CUTS:
-            if c <= f < c + 3:
-                amount = max(amount, 13.0 * (1 - (f - c) / 3.0))
-        if T_ID <= f < T_ID + 6:
-            amount = max(amount, 9.0 * (1 - (f - T_ID) / 6.0))
+            if c <= f < c + 2:
+                amount = max(amount, 6.0 * (1 - (f - c) / 2.0))
+        if T_ID <= f < T_ID + 4:
+            amount = max(amount, 4.5 * (1 - (f - T_ID) / 4.0))
         if amount > 0.3:
             img = slice_glitch(img, amount, RNG)
 
@@ -1086,8 +1141,8 @@ def render():
         )
 
         # fade out at the tail so the loop reads as a power cycle
-        if f >= T_END - 6:
-            k = 1 - seg(f, T_END - 6, 6)
+        if f >= T_END - 5:
+            k = 1 - seg(f, T_END - 5, 5)
             small = ImageChops.multiply(
                 small, Image.new("RGB", (W, H), (int(255 * k),) * 3)
             )
@@ -1108,14 +1163,14 @@ def render():
         OUT,
         save_all=True,
         append_images=quantised[1:],
-        duration=FRAME_MS,
+        duration=durations,
         loop=0,
         optimize=True,
         disposal=1,
     )
     size = os.path.getsize(OUT)
     print(f"  done: {OUT} ({size / 1024 / 1024:.2f} MB, "
-          f"{len(frames)} frames, {len(frames) * FRAME_MS / 1000:.1f}s)")
+          f"{len(frames)} frames, {sum(durations) / 1000:.1f}s)")
 
 
 if __name__ == "__main__":

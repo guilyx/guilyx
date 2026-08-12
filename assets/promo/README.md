@@ -1,7 +1,7 @@
 # Terminal profile promo
 
 `guilyx-terminal.gif` — the header loop on the profile README. 880 × 440,
-13.1s, 219 frames at 60ms, ~3.4 MB.
+22.1s, 179 frames, ~1.4 MB.
 
 Everything is generated. There is no video editor in the loop and no source
 footage: [`generate.py`](./generate.py) draws every frame with Pillow and
@@ -19,11 +19,26 @@ The seed is fixed, so a re-run reproduces the same file byte for byte.
 | Beat | Frames | What happens |
 | :--- | :--- | :--- |
 | Power on | 0–11 | A CRT line opens vertically into the screen. |
-| Handshake | 11–53 | `ssh erwin@elejeune.me`, then `whoami`. |
-| Identity | 53–95 | Two frames of an inverted flash card, then the card itself. |
-| Swarm | 95–153 | The glyph rain hands over to 64 flocking agents; three settle into the mark. |
-| Trajectory | 153–191 | The path is planned, then followed, waypoint by waypoint. |
-| Open channel | 191–219 | Mark, wordmark, links. Fades out so the loop reads as a power cycle. |
+| Handshake | 11–40 | `ssh erwin@elejeune.me`, then `whoami`. |
+| Identity | 40–67 | Two frames of an inverted flash card, then the card itself. |
+| The joke | 67–89 | `swarm --elect-leader`. |
+| Swarm | 89–132 | The glyph rain hands over to 44 flocking agents; three settle into the mark. |
+| Trajectory | 132–160 | The path is planned, then followed, waypoint by waypoint. |
+| Open channel | 160–179 | Mark, wordmark, links. Fades out so the loop reads as a power cycle. |
+
+## Pacing
+
+GIF delays are per frame, so the piece does not have to pick one speed. Motion —
+the flock, the typing, the path being drawn — runs at 90ms. The frames where
+there is something to *read* sit still for up to two seconds instead, listed in
+`HOLD_MS`. The rain and the flock are frozen on a hold, so the pause reads as
+deliberate rather than as a dropped frame.
+
+This is also what keeps the file small: an unchanged frame costs almost nothing
+to encode, and Pillow folds consecutive identical frames into one longer delay.
+
+The joke gets the longest holds in the piece — 1.2s after `no leader found.`,
+where it looks like an error, then 1.3s after the second line.
 
 ## Design notes
 
@@ -43,14 +58,16 @@ Colour, type registers and the accent budget come from
 - **The rain becomes the swarm.** Every live rain column at the handover frame
   spawns an agent at its head position. The Matrix reference resolves into the
   actual subject rather than sitting on top of it.
-- **The mark is earned, not drawn.** Three agents out of sixty-four are chosen
+- **The mark is earned, not drawn.** Three agents out of forty-four are chosen
   by proximity and eased into the vertices from
   [`brand/logo.md`](https://github.com/guilyx/branding/blob/master/brand/logo.md);
   the rest stand down. No leader — the shape is a consequence.
+- **One joke, and it is true.** A decentralized swarm has no leader by
+  construction, so `swarm --elect-leader` returning `no leader found. working as
+  intended.` is not a bug report. It sets up the flocking scene that follows.
 
-The flocking is real Reynolds steering (separation, alignment, cohesion), which
-is also the piece's one joke: `whoami` is answered by a swarm that works out the
-logo on its own.
+The flocking is real Reynolds steering (separation, alignment, cohesion), the
+three rules named in the brand footer.
 
 Substitutions, since the brand faces are not on the render box: DejaVu Sans Mono
 for JetBrains Mono, Liberation Sans Bold for Space Grotesk. The glyph rain runs
