@@ -2,15 +2,19 @@
 """
 guilyx — terminal profile promo.
 
-Renders `guilyx-terminal.gif`: a ~22s looping sequence that opens as a terminal,
-answers `whoami` with the identity card, asks the swarm to elect a leader, turns
-the falling glyph rain into a live flocking simulation, lets three of those
-agents settle into the swarm mark, traces the trajectory, and signs off.
+Renders `guilyx-terminal.gif`: a ~24s looping sequence that opens as a terminal,
+answers `whoami` with the identity card, ticks a behaviour tree, runs an agent
+orchestration graph and lets three of its nodes settle into the mark, traces the
+trajectory, and signs off.
+
+The subject is orchestration — behaviour trees, lifecycle, and the graph of
+agents above them. Or, in Erwin's own words, the seams: where a planner meets a
+controller and a model meets a tool.
 
 Palette, type registers and the accent budget come from guilyx/branding
 ("Ink & Iris"). The accent is the only saturated value in the system, so it is
-spent once per scene and nowhere else. The flock reads `--color-agent`, which
-tracks `muted` — texture, not decoration.
+spent once per scene and nowhere else. Everything else lives on the neutral
+ramp, which is what lets a single accent read as "this is the live path".
 
 Pacing is per frame, not global: motion runs at FRAME_MS and the frames with
 something to read hold for up to two seconds (see HOLD_MS). Nothing here is in a
@@ -57,13 +61,11 @@ BG      = (0x0d, 0x0e, 0x12)   # ground
 RAISED  = (0x15, 0x17, 0x1d)   # cards, panels
 LINE    = (0x25, 0x28, 0x33)   # borders, rules
 FAINT   = (0x55, 0x5b, 0x69)   # labels, keys
-MUTED   = (0x7c, 0x82, 0x91)   # secondary text — and the flock
+MUTED   = (0x7c, 0x82, 0x91)   # secondary text, resolved nodes
 BODY    = (0xa5, 0xaa, 0xb8)   # running text
 HEADING = (0xe4, 0xe6, 0xec)   # headings
 ACCENT  = (0x8b, 0x95, 0xf0)   # the only saturated value
 WHITE   = (0xff, 0xff, 0xff)
-
-AGENT = MUTED                  # --color-agent tracks muted
 
 
 def mix(a, b, t):
@@ -262,7 +264,7 @@ class Rain:
                 self.chars[i][self.rng.randrange(self.TRAIL)] = self.rng.choice(GLYPHS)
 
     def heads(self):
-        """Live head positions — used to seed the flock when the rain resolves."""
+        """Live head positions. Kept for callers that seed off the rain."""
         out = []
         for i in range(self.ncols):
             if self.on[i] and 0 < self.y[i] < H:
@@ -294,208 +296,149 @@ class Rain:
 
 
 # --------------------------------------------------------------------------
-# Flock
+# Behaviour tree
 #
-# Reynolds' three rules, exactly the ones named in the brand footer:
-# separation, alignment, cohesion. Drawn the way the social card draws them —
-# small arrowheads with long faint trails.
+# Real notation and real tick semantics: a sequence ticks its children in order,
+# a fallback returns as soon as one child succeeds, a parallel keeps its children
+# running together. The statuses below are what this tree actually returns —
+# `return home` is never reached because `battery ok` succeeds first.
 # --------------------------------------------------------------------------
 
-class Flock:
-    R_NEIGHBOUR = 115.0
-    R_SEP = 28.0
-    MAX_SPEED = 2.2
-    MAX_FORCE = 0.085
-    TRAIL = 20
+BT_H = 24.0
 
-    def __init__(self, n, rng):
-        self.rng = rng
-        self.n = n
-        self.pos: list[list[float]] = []
-        self.vel: list[list[float]] = []
-        self.trail: list[deque] = []
-        self.alive = [False] * n
-        for _ in range(n):
-            self.pos.append([RNG.uniform(0, W), RNG.uniform(0, H)])
-            a = rng.uniform(0, math.tau)
-            self.vel.append([math.cos(a) * 2.2, math.sin(a) * 2.2])
-            self.trail.append(deque(maxlen=self.TRAIL))
-        # agents pinned to the mark during the formation beat
-        self.pinned: dict[int, tuple[float, float]] = {}
+BT_NODES = {
+    "root":    (440.0, 100.0, "\u2192", "sequence"),
+    "guard":   (270.0, 172.0, "?", "fallback"),
+    "run":     (610.0, 172.0, "\u21c9", "parallel"),
+    "battery": (185.0, 244.0, "\u25cb", "battery ok"),
+    "rtl":     (355.0, 244.0, "\u25b8", "return home"),
+    "track":   (525.0, 244.0, "\u25b8", "track target"),
+    "stream":  (695.0, 244.0, "\u25b8", "stream tlm"),
+}
 
-    def spawn(self, i, x, y, falling=True):
-        self.pos[i] = [x, y]
-        # agents handed over from a rain column keep falling; the rest start on
-        # any heading, so alignment has something to negotiate instead of
-        # locking the whole flock downward into the floor
-        if falling:
-            a = self.rng.uniform(math.pi * 0.15, math.pi * 0.85)
-        else:
-            a = self.rng.uniform(0, math.tau)
-        sp = self.rng.uniform(2.4, 3.2)
-        self.vel[i] = [math.cos(a) * sp, math.sin(a) * sp]
-        self.trail[i].clear()
-        self.alive[i] = True
+BT_EDGES = [
+    ("root", "guard"), ("root", "run"),
+    ("guard", "battery"), ("guard", "rtl"),
+    ("run", "track"), ("run", "stream"),
+]
 
-    def step(self, cohesion_boost=0.0):
-        live = [i for i in range(self.n) if self.alive[i]]
-        for i in live:
-            if i in self.pinned:
-                continue
-            px, py = self.pos[i]
-            sep = [0.0, 0.0]
-            ali = [0.0, 0.0]
-            coh = [0.0, 0.0]
-            n_ali = n_coh = n_sep = 0
-            for j in live:
-                if j == i:
-                    continue
-                dx = self.pos[j][0] - px
-                dy = self.pos[j][1] - py
-                d2 = dx * dx + dy * dy
-                if d2 <= 1e-6 or d2 > self.R_NEIGHBOUR ** 2:
-                    continue
-                dist = math.sqrt(d2)
-                if dist < self.R_SEP:
-                    sep[0] -= dx / dist
-                    sep[1] -= dy / dist
-                    n_sep += 1
-                ali[0] += self.vel[j][0]
-                ali[1] += self.vel[j][1]
-                n_ali += 1
-                coh[0] += self.pos[j][0]
-                coh[1] += self.pos[j][1]
-                n_coh += 1
+# (node, frame it resolves, status). `rtl` never resolves — it is not ticked.
+BT_TICK = [
+    ("root", 18, "running"),
+    ("guard", 20, "success"),
+    ("battery", 22, "success"),
+    ("guard", 24, "success"),
+    ("run", 26, "running"),
+    ("track", 28, "running"),
+    ("stream", 30, "running"),
+]
 
-            # Reynolds steering: each rule proposes a *desired velocity* at full
-            # speed, and the force is the difference from the current one,
-            # limited. Steering on the raw offset instead lets cohesion saturate
-            # the force limit at every range, and the flock collapses to its own
-            # centroid rather than flocking.
-            vx0, vy0 = self.vel[i]
+# which level each node sits on, for the staggered draw-in
+BT_LEVEL = {"root": 0, "guard": 1, "run": 1,
+            "battery": 2, "rtl": 2, "track": 2, "stream": 2}
 
-            def steer(dx, dy, weight):
-                m = math.hypot(dx, dy)
-                if m < 1e-6:
-                    return 0.0, 0.0
-                sx = dx / m * self.MAX_SPEED - vx0
-                sy = dy / m * self.MAX_SPEED - vy0
-                sm = math.hypot(sx, sy)
-                if sm > self.MAX_FORCE:
-                    sx = sx / sm * self.MAX_FORCE
-                    sy = sy / sm * self.MAX_FORCE
-                return sx * weight, sy * weight
 
-            ax = ay = 0.0
-            if n_sep:
-                s = steer(sep[0], sep[1], 1.75)
-                ax += s[0]
-                ay += s[1]
-            if n_ali:
-                s = steer(ali[0] / n_ali, ali[1] / n_ali, 1.05)
-                ax += s[0]
-                ay += s[1]
-            if n_coh:
-                s = steer(coh[0] / n_coh - px, coh[1] / n_coh - py,
-                          0.85 + cohesion_boost * 1.6)
-                ax += s[0]
-                ay += s[1]
+def bt_status(node, t):
+    """Status of `node` at local frame `t`, per the tick schedule."""
+    out = "idle"
+    for name, frame, status in BT_TICK:
+        if name == node and t >= frame:
+            out = status
+    return out
 
-            # soft walls: steer back rather than wrap, so the flock stays framed
-            m = 78.0
-            wx = wy = 0.0
-            if px < m:
-                wx = 1.0
-            elif px > W - m:
-                wx = -1.0
-            if py < m:
-                wy = 1.0
-            elif py > H - m:
-                wy = -1.0
-            if wx or wy:
-                s = steer(wx, wy, 2.2)
-                ax += s[0]
-                ay += s[1]
 
-            mag = math.hypot(ax, ay)
-            lim = self.MAX_FORCE * 2.2
-            if mag > lim:
-                ax = ax / mag * lim
-                ay = ay / mag * lim
+def bt_node_box(node):
+    x, y, glyph, label = BT_NODES[node]
+    w = text_w(f"{glyph} {label}", F_MONO_XS) + 20.0
+    return x - w / 2, y - BT_H / 2, x + w / 2, y + BT_H / 2
 
-            vx = self.vel[i][0] + ax
-            vy = self.vel[i][1] + ay
-            sp = math.hypot(vx, vy)
-            if sp > self.MAX_SPEED:
-                vx = vx / sp * self.MAX_SPEED
-                vy = vy / sp * self.MAX_SPEED
-            elif sp < 0.9 and sp > 1e-6:
-                vx = vx / sp * 0.9
-                vy = vy / sp * 0.9
-            self.vel[i] = [vx, vy]
-            self.pos[i] = [px + vx, py + vy]
 
-        for i in live:
-            self.trail[i].append(tuple(self.pos[i]))
+def draw_bt_node(d, node, t, k):
+    if k <= 0.01:
+        return
+    x, y, glyph, label = BT_NODES[node]
+    x0, y0, x1, y1 = bt_node_box(node)
+    st = bt_status(node, t)
+    if st == "running":
+        border, ink = ACCENT, HEADING
+    elif st == "success":
+        border, ink = MUTED, BODY
+    else:
+        border, ink = LINE, FAINT
+    d.rounded_rectangle([S(x0), S(y0), S(x1), S(y1)], radius=S(3),
+                        fill=fade(RAISED, k * 0.9), outline=fade(border, k),
+                        width=max(1, int(S(1))))
+    text(d, x, y - 5.5, f"{glyph} {label}", F_MONO_XS, fade(ink, k), anchor="ma")
 
-    # -- drawing ---------------------------------------------------------
 
-    def draw_links(self, d, k):
-        if k <= 0.01:
-            return
-        live = [i for i in range(self.n) if self.alive[i]]
-        for a in range(len(live)):
-            i = live[a]
-            for b in range(a + 1, len(live)):
-                j = live[b]
-                dx = self.pos[j][0] - self.pos[i][0]
-                dy = self.pos[j][1] - self.pos[i][1]
-                d2 = dx * dx + dy * dy
-                if d2 > 62.0 ** 2:
-                    continue
-                t = 1 - math.sqrt(d2) / 62.0
-                col = fade(FAINT, t * 0.5 * k)
-                if col == BG:
-                    continue
-                d.line(
-                    [S(self.pos[i][0]), S(self.pos[i][1]),
-                     S(self.pos[j][0]), S(self.pos[j][1])],
-                    fill=col, width=max(1, int(S(0.6))),
-                )
+def draw_bt_edge(d, parent, child, t, k):
+    if k <= 0.01:
+        return
+    px, py, _, _ = BT_NODES[parent]
+    cx, cy, _, _ = BT_NODES[child]
+    top = cy - BT_H / 2
+    bot = py + BT_H / 2
+    mid = (bot + top) / 2
+    # the edge carries the child's status: a running branch reads all the way up
+    st = bt_status(child, t)
+    col = ACCENT if st == "running" else (MUTED if st == "success" else LINE)
+    strength = k * (1.0 if st != "idle" else 0.85)
+    d.line([S(px), S(bot), S(px), S(mid), S(cx), S(mid), S(cx), S(top)],
+           fill=fade(col, strength), width=max(1, int(S(1))), joint="curve")
 
-    def draw(self, d, k, col=None, size=1.3):
-        if k <= 0.01:
-            return
-        base = col or AGENT
-        for i in range(self.n):
-            if not self.alive[i]:
-                continue
-            pts = list(self.trail[i])
-            for p in range(1, len(pts)):
-                t = p / len(pts)
-                c = fade(base, t * 0.46 * k)
-                if c == BG:
-                    continue
-                d.line([S(pts[p - 1][0]), S(pts[p - 1][1]),
-                        S(pts[p][0]), S(pts[p][1])],
-                       fill=c, width=max(1, int(S(0.7))))
-            self._arrow(d, i, fade(base, k), size)
 
-    def _arrow(self, d, i, col, size):
-        x, y = self.pos[i]
-        vx, vy = self.vel[i]
-        sp = math.hypot(vx, vy) or 1.0
-        ux, uy = vx / sp, vy / sp
-        L = 5.4 * size
-        Wd = 2.6 * size
-        tip = (x + ux * L, y + uy * L)
-        back = (x - ux * L * 0.55, y - uy * L * 0.55)
-        left = (back[0] - uy * Wd, back[1] + ux * Wd)
-        right = (back[0] + uy * Wd, back[1] - ux * Wd)
-        d.polygon(
-            [S(tip[0]), S(tip[1]), S(left[0]), S(left[1]), S(right[0]), S(right[1])],
-            fill=col,
-        )
+# --------------------------------------------------------------------------
+# Agent orchestration graph
+#
+# Kymatics, in one picture: fleets of agents coordinated the way you would
+# orchestrate services. Messages travel the edges; the nodes are the seams.
+# --------------------------------------------------------------------------
+
+GRAPH_NODES = [
+    ("planner", 236.0, 140.0),
+    ("perception", 158.0, 258.0),
+    ("navigation", 348.0, 318.0),
+    ("mission", 528.0, 132.0),
+    ("telemetry", 712.0, 232.0),
+    ("operator", 588.0, 330.0),
+]
+
+GRAPH_EDGES = [(0, 1), (0, 2), (0, 3), (1, 2), (3, 4), (3, 5), (4, 5), (2, 5)]
+
+# the three that stay and become the mark
+GRAPH_KEEP = (0, 3, 2)
+
+
+def draw_graph(d, t, k, positions, alive):
+    """Nodes, edges and the packets moving between them."""
+    if k <= 0.01:
+        return
+    for ei, (a, b) in enumerate(GRAPH_EDGES):
+        if not (alive[a] and alive[b]):
+            continue
+        ax, ay = positions[a]
+        bx, by = positions[b]
+        d.line([S(ax), S(ay), S(bx), S(by)], fill=fade(LINE, k),
+               width=max(1, int(S(1))))
+        # packets: a model meeting a tool, repeatedly
+        if t >= 12:
+            for slot in range(2):
+                phase = ((t - 12) * 0.055 + ei * 0.17 + slot * 0.5) % 1.0
+                mx = ax + (bx - ax) * phase
+                my = ay + (by - ay) * phase
+                r = 2.0
+                d.ellipse([S(mx - r), S(my - r), S(mx + r), S(my + r)],
+                          fill=fade(MUTED, k * 0.9))
+
+    for i, (label, _, _) in enumerate(GRAPH_NODES):
+        if not alive[i]:
+            continue
+        x, y = positions[i]
+        r = 4.5
+        # one accent moment for this scene: the node the orchestration runs from
+        col = ACCENT if i == 0 else BODY
+        d.ellipse([S(x - r), S(y - r), S(x + r), S(y + r)], fill=fade(col, k))
+        text(d, x, y + 11, label, F_MONO_XS, fade(MUTED, k * 0.95), anchor="ma")
 
 
 # --------------------------------------------------------------------------
@@ -638,31 +581,33 @@ def slice_glitch(img, amount, rng, band=14):
 
 T_POWER = 0
 T_TERM = 11
-T_ID = 40
-T_JOKE = 67
-T_SWARM = 89
-T_TRAJ = 132
-T_SIGN = 160
-T_END = 179
+T_ID = 35
+T_JOKE = 60
+T_BT = 82
+T_GRAPH = 120
+T_TRAJ = 152
+T_SIGN = 174
+T_END = 193
 
-CUTS = (T_ID, T_JOKE, T_SWARM, T_TRAJ, T_SIGN)
+CUTS = (T_ID, T_JOKE, T_BT, T_GRAPH, T_TRAJ, T_SIGN)
 
 # Frames that hold, and for how long.
 #
 # GIF delays are per frame, so the piece does not have to pick one speed. The
-# flock and the typing run at FRAME_MS because they are motion; the frames where
+# graph and the typing run at FRAME_MS because they are motion; the frames where
 # there is something to *read* sit still for a beat instead. The rain and the
-# flock are frozen on a hold, so the pause reads as deliberate rather than as a
+# graph are frozen on a hold, so the pause reads as deliberate rather than as a
 # dropped frame — and an unchanged frame costs almost nothing to encode.
 HOLD_MS = {
-    T_ID - 2: 420, T_ID - 1: 420,                       # after `whoami`
-    T_JOKE - 3: 400, T_JOKE - 2: 400, T_JOKE - 1: 400,  # the identity card
-    # the joke: a long beat where it looks like an error, then the punchline
-    T_JOKE + 16: 540, T_JOKE + 17: 540,
-    T_SWARM - 3: 620, T_SWARM - 2: 620, T_SWARM - 1: 620,
-    T_TRAJ - 1: 460,                                    # the mark, formed
+    T_ID - 2: 400, T_ID - 1: 400,                       # after `whoami`
+    T_JOKE - 3: 380, T_JOKE - 2: 380, T_JOKE - 1: 380,  # the identity card
+    # the joke: a long beat where it still looks like an error, then the answer
+    T_JOKE + 16: 460, T_JOKE + 17: 460,
+    T_BT - 3: 480, T_BT - 2: 480, T_BT - 1: 480,
+    T_GRAPH - 2: 480, T_GRAPH - 1: 480,                 # the ticked tree
+    T_TRAJ - 2: 480, T_TRAJ - 1: 480,                   # the mark
     T_SIGN - 2: 400, T_SIGN - 1: 400,                   # the trajectory
-    T_END - 7: 560, T_END - 6: 560,                     # sign-off, before fade
+    T_END - 7: 480, T_END - 6: 480,                      # sign-off, before fade
 }
 
 
@@ -682,28 +627,32 @@ TERM_LINES = [
     (22, 0, [("→ ", ACCENT), ("whoami", BODY)], True),
 ]
 
-# The joke, and it is true: a decentralized swarm has no leader by construction,
-# so asking it to elect one is not a bug report. Brand voice allows exactly one
-# joke and it has to be true — this is the one.
+# The joke, and it is true — it is his own line from v4's about copy: "my agents
+# get tools instead of instructions". Brand voice allows exactly one joke and it
+# has to be true, so this is the one, and it sets up the graph scene after it.
 JOKE_LINES = [
     (0,  0, [("guilyx", MUTED), (" on ", FAINT), ("master", MUTED),
              (" [!?]", FAINT)], False),
-    (2,  0, [("→ ", ACCENT), ("swarm --elect-leader", BODY)], True),
-    (15, 1, [("no leader found.", BODY)], False),
-    (18, 1, [("working as intended.", MUTED)], False),
+    (2,  0, [("→ ", ACCENT), ("agent --instructions", BODY)], True),
+    (15, 1, [("error: agents take tools,", BODY)], False),
+    (18, 1, [("not instructions.", MUTED)], False),
 ]
 
+# Every value below is lifted from v4's site.ts — the role line, the location,
+# the TII bullet on behaviour orchestration and lifecycle management, and the
+# Unchained/Kymatics work on agentic orchestration.
 SPEC = [
     ("role", "lead architect · robotics & ai systems"),
     ("based", "abu dhabi, uae"),
-    ("building", "decentralized swarm autonomy"),
+    ("building", "behaviour orchestration · autonomy stacks"),
+    ("also", "agentic ai orchestration · mcp"),
 ]
 
 TRAJECTORY = [
     (2019.6, "ingeniarius", "robotics"),
     (2020.7, "ecole centrale", "research"),
     (2021.5, "coalescent", "founding eng"),
-    (2022.6, "tii", "lead, swarms"),
+    (2022.6, "tii", "lead, autonomy"),
     (2024.3, "unchained", "agentic ai"),
     (2026.3, "sirb.ai", "lead, autonomy"),
 ]
@@ -789,7 +738,7 @@ def scene_term(d, f):
 
 
 def scene_joke(d, f):
-    """`swarm --elect-leader`. The pause before the second line is the joke."""
+    """`agent --instructions`. The pause before the answer is the joke."""
     draw_terminal(d, f, f - T_JOKE, JOKE_LINES, y0=172.0, tail_from=20)
 
 
@@ -810,11 +759,14 @@ def scene_identity(d, f):
         d.line([S(x0), S(172), S(x0 + 300 * e), S(172)],
                fill=fade(ACCENT, 0.9), width=max(1, int(S(1.5))))
 
-    # tagline, revealed left to right
+    # tagline — his own framing of the work, from the v4 about copy: the seams
     if t >= 5:
-        tag = "I make robot swarms think for themselves."
-        n = int((t - 5) * 3.0)
-        text(d, x0, 190, tag[:n], F_DISP_M, MUTED)
+        n = int((t - 5) * 3.4)
+        l1 = "Where a planner meets a controller."
+        l2 = "Where a model meets a tool."
+        text(d, x0, 188, l1[:n], F_DISP_M, MUTED)
+        if n > len(l1):
+            text(d, x0, 214, l2[:n - len(l1)], F_DISP_M, MUTED)
 
     # spec rows, staggered
     for i, (k, v) in enumerate(SPEC):
@@ -822,7 +774,7 @@ def scene_identity(d, f):
         if t < st:
             continue
         a = ease_out(seg(t, st, 5))
-        y = 252 + i * 22
+        y = 258 + i * 19
         text(d, x0, y, k, F_MONO_S, fade(FAINT, a))
         text(d, x0 + 92, y, v, F_MONO_S, fade(BODY, a))
 
@@ -830,37 +782,64 @@ def scene_identity(d, f):
         draw_mark(d, W - 100, 112, 48, ease_out(seg(t, 17, 5)))
 
 
-def scene_swarm(d, f, flock, rain):
-    """The rain resolves into the thing it was always standing in for."""
-    t = f - T_SWARM
+def scene_bt(d, f):
+    """A behaviour tree, ticked. Behaviour orchestration is the day job."""
+    t = f - T_BT
 
-    if t >= 2:
-        text(d, 54, 52, "→ ", F_MONO, fade(ACCENT, 0.9))
-        line = "swarm.spawn(agents=44, leader=none)"
-        n = int((t - 2) * 2.4)
-        text(d, 54 + 2 * CW, 52, line[:n], F_MONO, BODY)
+    if t >= 1:
+        text(d, 54, 52, "\u2192 ", F_MONO, fade(ACCENT, 0.9))
+        n = int((t - 1) * 1.9)
+        text(d, 54 + 2 * CW, 52, "bt tick --mission patrol"[:n], F_MONO, BODY)
 
-    # hud
-    if t >= 10:
-        a = ease_out(seg(t, 10, 8))
+    # the tree draws in a level at a time, edges with their child
+    for parent, child in BT_EDGES:
+        k = ease_out(seg(t, 6 + BT_LEVEL[child] * 3, 5))
+        draw_bt_edge(d, parent, child, t, k)
+    for node in BT_NODES:
+        k = ease_out(seg(t, 6 + BT_LEVEL[node] * 3, 5))
+        draw_bt_node(d, node, t, k)
+
+    if t >= 32:
+        a = ease_out(seg(t, 32, 5))
+        ctext(d, W / 2, 312, "the tick descends. the leaves answer.",
+              F_MONO_S, fade(MUTED, a))
+    if t >= 34:
+        a = ease_out(seg(t, 34, 4))
+        ctext(d, W / 2, 334, "behaviour orchestration \u00b7 lifecycle management",
+              F_MONO_XS, fade(FAINT, a * 0.9))
+
+    # readout, in the machine register
+    if t >= 20:
+        a = ease_out(seg(t, 20, 6))
         rows = [
-            ("agents", "044"),
-            ("leader", "none"),
-            ("rules", "separation · alignment · cohesion"),
+            ("tick", "0042"),
+            ("nodes", "7 \u00b7 1 not reached"),
+            ("status", "running"),
         ]
         for i, (k, v) in enumerate(rows):
-            y = H - 110 + i * 17
+            y = H - 96 + i * 15
             text(d, 54, y, k, F_MONO_XS, fade(FAINT, a))
-            text(d, 54 + 68, y, v, F_MONO_XS, fade(MUTED, a))
+            text(d, 54 + 54, y, v, F_MONO_XS, fade(MUTED, a))
 
-    # the formation resolves; caption lands after it
-    if t >= 34:
-        a = ease_out(seg(t, 34, 6))
-        ctext(d, W / 2, H / 2 + 74, "no leader. the shape is a consequence.",
+
+def scene_graph(d, f, positions, alive):
+    """The layer above: agents coordinated the way you'd orchestrate services."""
+    t = f - T_GRAPH
+
+    if t >= 1:
+        text(d, 54, 52, "\u2192 ", F_MONO, fade(ACCENT, 0.9))
+        n = int((t - 1) * 1.9)
+        text(d, 54 + 2 * CW, 52, "orchestrate agents"[:n], F_MONO, BODY)
+
+    draw_graph(d, t, ease_out(seg(t, 5, 6)), positions, alive)
+
+    if t >= 24:
+        a = ease_out(seg(t, 24, 5))
+        ctext(d, W / 2, 314, "a model meets a tool. that seam is the work.",
               F_MONO_S, fade(MUTED, a))
-    if t >= 38:
-        a = ease_out(seg(t, 38, 4))
-        ctext(d, W / 2, H / 2 + 96, "iros 2024 · decentralized acceleration-based flocking",
+    if t >= 27:
+        a = ease_out(seg(t, 27, 4))
+        ctext(d, W / 2, 336, "kymatics \u00b7 agentic orchestration \u00b7 mcp",
               F_MONO_XS, fade(FAINT, a * 0.9))
 
 
@@ -985,12 +964,14 @@ def flash_card(img, f):
 
 def render():
     rain = Rain(RNG)
-    flock = Flock(44, RNG)
-    mark_targets: list[tuple[float, float]] = []
-    chosen: list[int] = []
     frames: list[Image.Image] = []
-
     durations: list[int] = []
+
+    # graph node positions, mutated when three of them collapse into the mark
+    positions = [[x, y] for (_, x, y) in GRAPH_NODES]
+    home = [(x, y) for (_, x, y) in GRAPH_NODES]
+    alive = [True] * len(GRAPH_NODES)
+    mark_targets = mark_points(W / 2.0, 196.0, 124.0)
 
     for f in range(T_END):
         frozen = f in HOLD_MS
@@ -1005,11 +986,11 @@ def render():
             k_rain = 0.17
         elif f < T_JOKE:
             k_rain = 0.10
-        elif f < T_SWARM:
+        elif f < T_BT:
             k_rain = 0.12
-        elif f < T_SWARM + 10:
-            # the rain hands over to the flock
-            k_rain = 0.12 * (1 - seg(f, T_SWARM, 9))
+        elif f < T_BT + 8:
+            # the rain gets out of the way of the diagram
+            k_rain = 0.12 * (1 - seg(f, T_BT, 7))
         elif f < T_TRAJ:
             k_rain = 0.0
         elif f < T_SIGN:
@@ -1020,71 +1001,24 @@ def render():
             rain.step()
         rain.draw(d, k_rain)
 
-        # ---- flock lifecycle ------------------------------------------
-        if f == T_SWARM:
-            heads = rain.heads()
-            RNG.shuffle(heads)
-            # Every live rain head becomes an agent; the rest of the flock fills
-            # the frame. Spawning the remainder in a strip above the top edge
-            # instead makes them descend as one rigid row and they never flock.
-            for i in range(flock.n):
-                if i < len(heads):
-                    flock.spawn(i, heads[i][0], heads[i][1])
-                else:
-                    flock.spawn(i, RNG.uniform(70, W - 70), RNG.uniform(60, H - 90),
-                                falling=False)
+        # ---- three graph nodes settle into the mark --------------------
+        t_gr = f - T_GRAPH
+        if T_GRAPH <= f:
+            a = ease_in_out(seg(t_gr, 22, 8))
+            for slot, idx in enumerate(GRAPH_KEEP):
+                hx, hy = home[idx]
+                tx, ty = mark_targets[slot]
+                positions[idx] = [hx + (tx - hx) * a, hy + (ty - hy) * a]
+            for i in range(len(alive)):
+                alive[i] = i in GRAPH_KEEP or seg(t_gr, 22, 6) < 1.0
+            if a >= 1.0:
+                for i in range(len(alive)):
+                    alive[i] = False
 
-        t_sw = f - T_SWARM
-        if T_SWARM <= f and not frozen:
-            boost = ease_in_out(seg(t_sw, 18, 12)) if t_sw < 34 else 1.0
-            if f >= T_TRAJ:
-                boost = 0.0
-            flock.step(cohesion_boost=boost * 0.55)
-
-        # three agents settle into the mark
-        if t_sw == 22:
-            cx, cy = W / 2.0, H / 2.0 - 6
-            mark_targets[:] = mark_points(cx, cy, 132)
-            live = [i for i in range(flock.n) if flock.alive[i]]
-            chosen[:] = []
-            for tgt in mark_targets:
-                best = min(
-                    (i for i in live if i not in chosen),
-                    key=lambda i: (flock.pos[i][0] - tgt[0]) ** 2
-                    + (flock.pos[i][1] - tgt[1]) ** 2,
-                )
-                chosen.append(best)
-
-        if chosen and 22 <= t_sw:
-            a = ease_in_out(seg(t_sw, 22, 12))
-            for i, idx in enumerate(chosen):
-                tx, ty = mark_targets[i]
-                sx, sy = flock.pos[idx]
-                flock.pos[idx] = [sx + (tx - sx) * a * 0.55,
-                                  sy + (ty - sy) * a * 0.55]
-                flock.trail[idx].append(tuple(flock.pos[idx]))
-            # the rest of the flock stands down
-            fade_out = seg(t_sw, 26, 10)
-            if fade_out >= 1.0:
-                for i in range(flock.n):
-                    if i not in chosen:
-                        flock.alive[i] = False
-
-        # ---- draw the flock -------------------------------------------
-        if T_SWARM <= f < T_TRAJ:
-            k_flock = ease_out(seg(t_sw, 0, 8))
-            if t_sw >= 26:
-                others = 1 - seg(t_sw, 26, 10)
-            else:
-                others = 1.0
-            flock.draw_links(d, min(k_flock, others) * ease_out(seg(t_sw, 14, 10)))
-            flock.draw(d, k_flock * others)
-            if chosen:
-                a = ease_in_out(seg(t_sw, 24, 10))
-                if a > 0:
-                    draw_mark(d, W / 2, H / 2 - 6, 132, a)
-        elif f >= T_SIGN:
-            pass
+        if T_GRAPH <= f < T_TRAJ:
+            k_mark = ease_in_out(seg(t_gr, 24, 8))
+            if k_mark > 0:
+                draw_mark(d, W / 2, 196.0, 124.0, k_mark)
 
         # ---- scene ------------------------------------------------------
         if f < T_TERM:
@@ -1093,10 +1027,12 @@ def render():
             scene_term(d, f)
         elif f < T_JOKE:
             scene_identity(d, f)
-        elif f < T_SWARM:
+        elif f < T_BT:
             scene_joke(d, f)
+        elif f < T_GRAPH:
+            scene_bt(d, f)
         elif f < T_TRAJ:
-            scene_swarm(d, f, flock, rain)
+            scene_graph(d, f, positions, alive)
         elif f < T_SIGN:
             scene_trajectory(d, f)
         else:
@@ -1107,8 +1043,9 @@ def render():
             corner_ticks(d, 0.9)
             labels = {
                 T_ID: "identity",
-                T_JOKE: "swarm",
-                T_SWARM: "swarm",
+                T_JOKE: "agents",
+                T_BT: "behaviour tree",
+                T_GRAPH: "orchestration",
                 T_TRAJ: "trajectory",
                 T_SIGN: "open channel",
             }
