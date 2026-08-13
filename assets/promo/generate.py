@@ -7,9 +7,9 @@ answers `whoami` with the identity card, ticks a behaviour tree, runs an agent
 orchestration graph and lets three of its nodes settle into the mark, traces the
 trajectory, and signs off.
 
-The subject is orchestration — behaviour trees, lifecycle, and the graph of
-agents above them. Or, in Erwin's own words, the seams: where a planner meets a
-controller and a model meets a tool.
+The subject is orchestration — behaviour trees and lifecycle underneath, and
+above them the graph a fleet of agents gets planned over: many agents, one
+graph, and the conflict-free plan they all have to agree on.
 
 Palette, type registers and the accent budget come from guilyx/branding
 ("Ink & Iris"). The accent is the only saturated value in the system, so it is
@@ -696,25 +696,26 @@ TERM_LINES = [
     (22, 0, [("→ ", ACCENT), ("whoami", BODY)], True),
 ]
 
-# The joke, and it is true — it is his own line from v4's about copy: "my agents
-# get tools instead of instructions". Brand voice allows exactly one joke and it
-# has to be true, so this is the one, and it sets up the graph scene after it.
+# The joke, and it is true: optimal multi-agent pathfinding is NP-hard, and the
+# field plans anyway — bounded-suboptimal solvers exist precisely because nobody
+# waits for the optimum. Brand voice allows exactly one joke and it has to be
+# true, so this is the one, and it sets up the graph scene after it.
 JOKE_LINES = [
     (0,  0, [("guilyx", MUTED), (" on ", FAINT), ("master", MUTED),
              (" [!?]", FAINT)], False),
-    (2,  0, [("→ ", ACCENT), ("agent --instructions", BODY)], True),
-    (15, 1, [("error: agents take tools,", BODY)], False),
-    (18, 1, [("not instructions.", MUTED)], False),
+    (2,  0, [("→ ", ACCENT), ("mapf solve --optimal", BODY)], True),
+    (15, 1, [("optimal mapf is np-hard.", BODY)], False),
+    (18, 1, [("solving it anyway.", MUTED)], False),
 ]
 
 # Every value below is lifted from v4's site.ts — the role line, the location,
-# the TII bullet on behaviour orchestration and lifecycle management, and the
-# Unchained/Kymatics work on agentic orchestration.
+# the SIRB.AI bullet on multi-agent planning, the TII one on behaviour
+# orchestration, and the Unchained/Kymatics work on agentic orchestration.
 SPEC = [
     ("role", "lead architect · robotics & ai systems"),
     ("based", "abu dhabi, uae"),
-    ("building", "behaviour orchestration · autonomy stacks"),
-    ("also", "agentic ai orchestration · mcp"),
+    ("building", "multi-agent planning · behaviour orchestration"),
+    ("also", "agentic orchestration · mcp"),
 ]
 
 TRAJECTORY = [
@@ -807,7 +808,7 @@ def scene_term(d, f):
 
 
 def scene_joke(d, f):
-    """`agent --instructions`. The pause before the answer is the joke."""
+    """`mapf solve --optimal`. The pause before the answer is the joke."""
     draw_terminal(d, f, f - T_JOKE, JOKE_LINES, y0=172.0, tail_from=20)
 
 
@@ -828,11 +829,12 @@ def scene_identity(d, f):
         d.line([S(x0), S(172), S(x0 + 300 * e), S(172)],
                fill=fade(ACCENT, 0.9), width=max(1, int(S(1.5))))
 
-    # tagline — his own framing of the work, from the v4 about copy: the seams
+    # tagline — multi-agent planning in one line, which is what the graph scene
+    # goes on to draw
     if t >= 5:
         n = int((t - 5) * 3.4)
-        l1 = "Where a planner meets a controller."
-        l2 = "Where a model meets a tool."
+        l1 = "Many agents, one graph."
+        l2 = "The plan they can all agree on."
         text(d, x0, 188, l1[:n], F_DISP_M, MUTED)
         if n > len(l1):
             text(d, x0, 214, l2[:n - len(l1)], F_DISP_M, MUTED)
@@ -892,7 +894,7 @@ def scene_bt(d, f):
 
 
 def scene_graph(d, f, positions, alive):
-    """The layer above: agents coordinated the way you'd orchestrate services."""
+    """The graph a fleet gets planned over — routes that must not conflict."""
     t = f - T_GRAPH
 
     if t >= 1:
@@ -904,11 +906,12 @@ def scene_graph(d, f, positions, alive):
 
     if t >= 24:
         a = ease_out(seg(t, 24, 5))
-        ctext(d, W / 2, 314, "a model meets a tool. that seam is the work.",
+        ctext(d, W / 2, 314, "conflict-free, or it is not a plan.",
               F_MONO_S, fade(MUTED, a))
     if t >= 27:
         a = ease_out(seg(t, 27, 4))
-        ctext(d, W / 2, 336, "kymatics \u00b7 agentic orchestration \u00b7 mcp",
+        ctext(d, W / 2, 336,
+              "multi-agent pathfinding \u00b7 agentic orchestration",
               F_MONO_XS, fade(FAINT, a * 0.9))
 
 

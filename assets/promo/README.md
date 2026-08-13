@@ -50,18 +50,18 @@ Raising `Q` buys frame rate without touching a single beat.
 
 ## The sequence
 
-The subject is orchestration — behaviour trees and lifecycle underneath, the
-graph of agents above. Or, in the v4 about copy, *the seams*: where a planner
-meets a controller, and a model meets a tool.
+The subject is orchestration — behaviour trees and lifecycle underneath, and
+above them the graph a fleet of agents gets planned over: many agents, one
+graph, and the conflict-free plan they all have to agree on.
 
 | Beat | Frames | What happens |
 | :--- | :--- | :--- |
 | Power on | 0–11 | A CRT line opens vertically into the screen. |
 | Handshake | 11–35 | `ssh erwin@elejeune.me`, then `whoami`. |
 | Identity | 35–60 | Two frames of an inverted flash card, then the card itself. |
-| The joke | 60–82 | `agent --instructions`. |
+| The joke | 60–82 | `mapf solve --optimal`. |
 | Behaviour tree | 82–120 | `bt tick` — the tick descends, the leaves answer. |
-| Orchestration | 120–152 | An agent graph passing messages; three nodes settle into the mark. |
+| Orchestration | 120–152 | The graph the agents are planned over; three nodes settle into the mark. |
 | Trajectory | 152–174 | The path is planned, then followed, waypoint by waypoint. |
 | Open channel | 174–193 | Mark, wordmark, links. Fades out so the loop reads as a power cycle. |
 
@@ -109,9 +109,9 @@ Holds are spread across their layout frame's sub-frames, which are identical, so
 Pillow folds them back into one long delay — a hold costs the same however high
 `Q` goes.
 
-The joke gets the longest run in the piece — a beat after `error: agents take
-tools,` where it still looks like a real error, then a longer one after the
-second line lands.
+The joke gets the longest run in the piece — a beat after `optimal mapf is
+np-hard.`, where it still reads as a refusal, then a longer one after the second
+line lands.
 
 ## Design notes
 
@@ -130,14 +130,17 @@ Colour, type registers and the accent budget come from
   [`brand/logo.md`](https://github.com/guilyx/branding/blob/master/brand/logo.md)
   and the rest stand down — three agents holding a formation, which is what the
   mark has always been.
-- **One joke, and it is true.** It is his own line from the v4 about copy: *"my
-  agents get tools instead of instructions."* Asking an agent to take
-  instructions is the error. It sets up the graph scene that follows.
+- **One joke, and it is true.** Optimal multi-agent pathfinding is NP-hard, and
+  the field plans anyway — bounded-suboptimal solvers exist precisely because
+  nobody waits for the optimum. `mapf solve --optimal` answering *"optimal mapf
+  is np-hard. solving it anyway."* is a statement of practice, not a refusal. It
+  sets up the graph scene that follows.
 
 Every string traces back to `guilyx/v4`'s `site.ts`, the profile README, or
-`brand/voice.md` — the role line, the location, the TII bullet on behaviour
-orchestration and lifecycle management, and the Kymatics work on agentic
-orchestration.
+`brand/voice.md` — the role line, the location, the SIRB.AI bullet on
+multi-agent planning, the TII one on behaviour orchestration and lifecycle
+management, the published multi-agent pathfinding survey, and the
+Kymatics work on agentic orchestration.
 
 Substitutions, since the brand faces are not on the render box: DejaVu Sans Mono
 for JetBrains Mono, Liberation Sans Bold for Space Grotesk. The glyph rain runs
