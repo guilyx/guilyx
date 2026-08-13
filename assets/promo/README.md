@@ -1,7 +1,10 @@
 # Terminal profile promo
 
-`guilyx-terminal.gif` — the header loop on the profile README. 880 × 440,
-23.7s, 193 frames, ~1.1 MB.
+`guilyx-terminal.gif` — the header loop on the profile README. 2640 × 1320,
+23.7s, 193 frames, ~4.6 MB.
+
+`guilyx-terminal.webp` is the same sequence in full colour, ~2.9 MB. Both are
+written by the same run.
 
 Everything is generated. There is no video editor in the loop and no source
 footage: [`generate.py`](./generate.py) draws every frame with Pillow and
@@ -12,7 +15,27 @@ pip install pillow
 python3 assets/promo/generate.py
 ```
 
-The seed is fixed, so a re-run reproduces the same file byte for byte.
+The seed is fixed, so a re-run reproduces both files byte for byte.
+
+## Resolution
+
+Layout is authored in an 880 × 440 coordinate space and exported at `EXPORT`
+times that size — 3 by default, so 2640 × 1320. Override it per run:
+
+```bash
+PROMO_EXPORT=4 python3 assets/promo/generate.py   # 3520 x 1760
+```
+
+Nothing in the scene code changes when `EXPORT` does: positions and font sizes
+stay in layout units, and drawing happens at `SS * EXPORT` before the frame is
+resampled down. Scanlines are pinned to one *layout* pixel, so they stay visible
+instead of dissolving into sub-pixel moire as the export scale goes up.
+
+Past 2× this is headroom rather than something a reader sees. GitHub lays the
+README out in a ~880px column, so the delivered file is already being downscaled
+— 2× covers HiDPI, 3× covers the rest and leaves the asset usable outside the
+README. The visible ceiling from here is GIF's 256-colour palette, not pixels,
+which is what the WebP is for.
 
 ## The sequence
 

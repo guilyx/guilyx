@@ -38,19 +38,23 @@ from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageFont
 # --------------------------------------------------------------------------
 
 W, H = 880, 440           # logical (delivered) size
-SS = 2                    # supersample factor; all drawing happens at SS scale
-FW, FH = W * SS, H * SS
+SS = 2                    # supersample headroom, discarded on export
+EXPORT = int(os.environ.get("PROMO_EXPORT", "3"))  # delivered = EXPORT x layout
+DS = SS * EXPORT          # device scale: everything is drawn at this multiple
+FW, FH = W * DS, H * DS   # internal canvas
+OW, OH = W * EXPORT, H * EXPORT   # delivered size
 FRAME_MS = 90             # 90ms/frame ≈ 11fps for anything that moves
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "guilyx-terminal.gif")
+OUT_WEBP = os.path.join(HERE, "guilyx-terminal.webp")
 
 RNG = random.Random(7)    # fixed seed: regeneration is reproducible
 
 
 def S(v: float) -> float:
-    """Logical unit -> supersampled device unit."""
-    return v * SS
+    """Logical layout unit -> internal device unit."""
+    return v * DS
 
 
 # --------------------------------------------------------------------------
@@ -161,7 +165,7 @@ DISP_REG_PATH = "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf
 
 
 def font(path, size):
-    return ImageFont.truetype(path, int(round(size * SS)))
+    return ImageFont.truetype(path, int(round(size * DS)))
 
 
 F_MONO_XS = font(MONO_PATH, 10)
@@ -177,7 +181,7 @@ F_DISP_M = font(DISP_REG_PATH, 21)
 
 def cw(f) -> float:
     """Advance width of one monospace cell, in logical units."""
-    return f.getlength("M") / SS
+    return f.getlength("M") / DS
 
 
 CW = cw(F_MONO)
@@ -190,7 +194,7 @@ def text(d, x, y, s, f, fill, anchor="la"):
 
 
 def text_w(s, f) -> float:
-    return f.getlength(s) / SS
+    return f.getlength(s) / DS
 
 
 def ctext(d, cx, y, s, f, fill):
@@ -505,7 +509,7 @@ def status_bar(d, k, label):
 # Post-processing
 # --------------------------------------------------------------------------
 
-def bloom(img, radius=7, strength=0.55):
+def bloom(img, radius=7 * EXPORT, strength=0.55):
     """Glow, computed small and scaled back up — cheap and smoother than a
     full-resolution blur."""
     small = img.resize((FW // 4, FH // 4), Image.BILINEAR)
@@ -522,13 +526,13 @@ def build_screen_mask():
     The vignette stays gentle on purpose: the ground is already near-black, so
     anything heavier reads as a smudge rather than a screen.
     """
-    m = Image.new("L", (W, H), 255)
+    m = Image.new("L", (OW, OH), 255)
     px = m.load()
-    cx, cy = W / 2.0, H / 2.0
+    cx, cy = OW / 2.0, OH / 2.0
     maxd = math.hypot(cx, cy)
-    for y in range(H):
-        scan = 0.88 if (y % 2) else 1.0
-        for x in range(W):
+    for y in range(OH):
+        scan = 0.88 if ((y // EXPORT) % 2) else 1.0
+        for x in range(OW):
             d = math.hypot(x - cx, y - cy) / maxd
             vig = 1.0 - 0.14 * (d ** 2.0)
             px[x, y] = max(0, min(255, int(255 * scan * vig)))
@@ -538,11 +542,11 @@ def build_screen_mask():
 def build_scanline_mask():
     """Scanlines with no vignette — for the flash card, where a radial falloff
     across a bright ground is the one place this palette visibly contours."""
-    m = Image.new("L", (W, H), 255)
+    m = Image.new("L", (OW, OH), 255)
     px = m.load()
-    for y in range(H):
-        v = 214 if (y % 2) else 255
-        for x in range(W):
+    for y in range(OH):
+        v = 214 if ((y // EXPORT) % 2) else 255
+        for x in range(OW):
             px[x, y] = v
     return Image.merge("RGB", (m, m, m))
 
@@ -551,7 +555,7 @@ SCREEN_MASK = build_screen_mask()
 SCANLINE_MASK = build_scanline_mask()
 
 
-def slice_glitch(img, amount, rng, band=14):
+def slice_glitch(img, amount, rng, band=14 * DS // 2):
     """Horizontal slice displacement + a one-pixel channel split."""
     if amount <= 0:
         return img
@@ -560,7 +564,7 @@ def slice_glitch(img, amount, rng, band=14):
     while y < FH:
         h = rng.randint(band, band * 4)
         if rng.random() < 0.45:
-            dx = int(rng.uniform(-amount, amount) * SS)
+            dx = int(rng.uniform(-amount, amount) * DS)
             if dx:
                 box = (0, y, FW, min(FH, y + h))
                 strip = img.crop(box)
@@ -568,7 +572,7 @@ def slice_glitch(img, amount, rng, band=14):
         y += h
     if amount > 4:
         r, g, b = out.split()
-        off = int(max(1, amount * 0.25) * SS)
+        off = int(max(1, amount * 0.25) * DS)
         r = ImageChops.offset(r, off, 0)
         b = ImageChops.offset(b, -off, 0)
         out = Image.merge("RGB", (r, g, b))
@@ -1072,7 +1076,7 @@ def render():
         # glowing it just rings
         if card is None:
             img = bloom(img)
-        small = img.resize((W, H), Image.LANCZOS)
+        small = img.resize((OW, OH), Image.LANCZOS)
         small = ImageChops.multiply(
             small, SCANLINE_MASK if card is not None else SCREEN_MASK
         )
@@ -1081,7 +1085,7 @@ def render():
         if f >= T_END - 5:
             k = 1 - seg(f, T_END - 5, 5)
             small = ImageChops.multiply(
-                small, Image.new("RGB", (W, H), (int(255 * k),) * 3)
+                small, Image.new("RGB", (OW, OH), (int(255 * k),) * 3)
             )
 
         frames.append(small)
@@ -1105,9 +1109,26 @@ def render():
         optimize=True,
         disposal=1,
     )
-    size = os.path.getsize(OUT)
-    print(f"  done: {OUT} ({size / 1024 / 1024:.2f} MB, "
-          f"{len(frames)} frames, {sum(durations) / 1000:.1f}s)")
+
+    # The same sequence in full colour. GIF caps at 256 entries, and on a piece
+    # that is mostly one long ramp out of near-black that ceiling — not the
+    # resolution — is what shows as banding around the glow.
+    print(f"  encoding {len(frames)} frames -> {OUT_WEBP}")
+    frames[0].save(
+        OUT_WEBP,
+        format="WEBP",
+        save_all=True,
+        append_images=frames[1:],
+        duration=durations,
+        loop=0,
+        quality=90,
+        method=4,
+    )
+
+    for path in (OUT, OUT_WEBP):
+        size = os.path.getsize(path)
+        print(f"  done: {path} ({OW}x{OH}, {size / 1024 / 1024:.2f} MB, "
+              f"{len(frames)} frames, {sum(durations) / 1000:.1f}s)")
 
 
 if __name__ == "__main__":
