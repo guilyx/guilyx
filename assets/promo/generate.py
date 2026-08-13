@@ -2,7 +2,7 @@
 """
 guilyx — terminal profile promo.
 
-Renders `guilyx-terminal.gif`: a ~24s looping sequence that opens as a terminal,
+Renders `guilyx-terminal.gif`: a ~45s looping sequence that opens as a terminal,
 answers `whoami` with the identity card, ticks a behaviour tree, runs an agent
 orchestration graph and lets three of its nodes settle into the mark, traces the
 trajectory, and signs off.
@@ -16,9 +16,11 @@ Palette, type registers and the accent budget come from guilyx/branding
 spent once per scene and nowhere else. Everything else lives on the neutral
 ramp, which is what lets a single accent read as "this is the live path".
 
-Pacing is per frame, not global: motion runs at FRAME_MS and the frames with
-something to read hold for up to two seconds (see HOLD_MS). Nothing here is in a
-hurry, and the pause in the middle of the joke is the joke.
+Pacing is per frame and derived from the frame, not hand-tuned: `text()` counts
+the legible characters it draws, and a frame that puts new words on screen gets
+twice as long as one that only moves, while a frame being held is scaled by how
+much there is on it to read. Nothing here is in a hurry, and the pause in the
+middle of the joke is the joke.
 
 Deps: pillow >= 10
 Run:  python3 assets/promo/generate.py
@@ -43,7 +45,19 @@ EXPORT = int(os.environ.get("PROMO_EXPORT", "3"))  # delivered = EXPORT x layout
 DS = SS * EXPORT          # device scale: everything is drawn at this multiple
 FW, FH = W * DS, H * DS   # internal canvas
 OW, OH = W * EXPORT, H * EXPORT   # delivered size
-FRAME_MS = 90             # 90ms/frame ≈ 11fps for anything that moves
+FRAME_MS = 90             # 90ms/frame ≈ 11fps for anything that only moves
+READ_MS = 180             # a frame that puts new words on screen gets twice that
+HOLD_SCALE = 2.0          # and a frame being read holds twice as long again
+
+# Holds are scaled by how much legible text the frame carries, so the identity
+# card — a name, two lines of tagline and four spec rows — sits considerably
+# longer than the sign-off wordmark. INK_REF is roughly a middling frame.
+INK_REF = 95.0
+INK_MIN, INK_MAX = 0.8, 1.7
+
+
+def read_time(chars: int) -> float:
+    return max(INK_MIN, min(INK_MAX, chars / INK_REF))
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "guilyx-terminal.gif")
@@ -189,7 +203,36 @@ CW_S = cw(F_MONO_S)
 LH = 19.0            # mono line height, logical
 
 
+# How much legible text a frame carries. Pacing is derived from this rather than
+# hand-tuned per beat: a frame that puts new words on screen gets longer, and a
+# frame holding a dense card holds longer than one holding a wordmark.
+# `_reading` is switched off while the rain draws — the rain is texture, and
+# nobody reads it.
+_ink = 0
+_reading = True
+
+# dimmer than this and it is not being read: excludes the hairline, and text
+# that is still fading in
+_INK_FLOOR = 60
+
+
+def _legible(fill) -> bool:
+    return sum(fill) / 3.0 >= _INK_FLOOR
+
+
+def ink() -> int:
+    return _ink
+
+
+def reset_ink() -> None:
+    global _ink
+    _ink = 0
+
+
 def text(d, x, y, s, f, fill, anchor="la"):
+    global _ink
+    if _reading and _legible(fill):
+        _ink += len(s.strip())
     d.text((S(x), S(y)), s, font=f, fill=fill, anchor=anchor)
 
 
@@ -199,6 +242,9 @@ def text_w(s, f) -> float:
 
 def ctext(d, cx, y, s, f, fill):
     """Centred text."""
+    global _ink
+    if _reading and _legible(fill):
+        _ink += len(s.strip())
     d.text((S(cx), S(y)), s, font=f, fill=fill, anchor="ma")
 
 
@@ -276,8 +322,16 @@ class Rain:
         return out
 
     def draw(self, d, k):
+        global _reading
         if k <= 0.01:
             return
+        _reading = False
+        try:
+            self._draw(d, k)
+        finally:
+            _reading = True
+
+    def _draw(self, d, k):
         for i in range(self.ncols):
             if not self.on[i]:
                 continue
@@ -977,9 +1031,12 @@ def render():
     alive = [True] * len(GRAPH_NODES)
     mark_targets = mark_points(W / 2.0, 196.0, 124.0)
 
+    prev_ink = 0
+    debug = bool(os.environ.get("PROMO_DEBUG"))
+
     for f in range(T_END):
         frozen = f in HOLD_MS
-        durations.append(HOLD_MS.get(f, FRAME_MS))
+        reset_ink()
         img = Image.new("RGB", (FW, FH), BG)
         d = ImageDraw.Draw(img)
 
@@ -1070,6 +1127,20 @@ def render():
         card = flash_card(img, f)
         if card is not None:
             img = card
+
+        # ---- how long this frame stays up --------------------------------
+        chars = ink()
+        if frozen:
+            dur = int(round(HOLD_MS[f] * HOLD_SCALE * read_time(chars)))
+        elif chars > prev_ink:
+            dur = READ_MS          # new words landed — give them a beat
+        else:
+            dur = FRAME_MS         # nothing to read, only motion
+        durations.append(dur)
+        if debug:
+            print(f"    f{f:3d} chars={chars:4d} dur={dur:4d}"
+                  f"{' hold' if frozen else ''}")
+        prev_ink = chars
 
         # ---- post -------------------------------------------------------
         # the flash card skips bloom: it is already at full brightness, and

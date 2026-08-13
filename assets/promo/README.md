@@ -1,7 +1,7 @@
 # Terminal profile promo
 
 `guilyx-terminal.gif` — the header loop on the profile README. 2640 × 1320,
-23.7s, 193 frames, ~4.6 MB.
+44.9s, 193 frames, ~4.6 MB.
 
 `guilyx-terminal.webp` is the same sequence in full colour, ~2.9 MB. Both are
 written by the same run.
@@ -69,16 +69,34 @@ the scene: a tick descends, and status propagates back up.
 
 ## Pacing
 
-GIF delays are per frame, so the piece does not have to pick one speed. Motion —
-the graph, the typing, the path being drawn — runs at 90ms. The frames where
-there is something to *read* sit still for up to a second and a half instead,
-listed in `HOLD_MS`. The rain and the graph are frozen on a hold, so the pause
-reads as deliberate rather than as a dropped frame.
+GIF delays are per frame, so the piece does not have to pick one speed — and
+rather than hand-tune every beat, the timing is **derived from the frame**.
 
-This is also what keeps the file small: an unchanged frame costs almost nothing
-to encode, and Pillow folds consecutive identical frames into one longer delay.
+`text()` and `ctext()` count the legible characters they draw. The rain is
+excluded, because the rain is texture and nobody reads it. Each frame then gets
+its duration from what that count did:
 
-The joke gets the longest holds in the piece — a beat after `error: agents take
+| Frame | Duration |
+| :--- | :--- |
+| Only motion — packets, the path being drawn, the tube warming up | 90ms |
+| New words landed since the last frame — typing, a line appearing, a caption fading in | 180ms |
+| A hold | `HOLD_MS × 2 × read_time(chars)` |
+
+`read_time` scales between 0.8× and 1.7× around a middling frame, so the beats
+land where there is most to read. In practice: the identity card carries 238
+characters and holds for 1.29s per frame across three frames; the ticked
+behaviour tree carries 257 and holds 1.63s; the terminal handshake carries 88
+and holds 0.74s. Nobody had to type those numbers in — move a caption and the
+pacing follows it.
+
+The rain and the graph freeze on a hold, so the pause reads as deliberate rather
+than as a dropped frame.
+
+None of this costs file size. The frame *count* is unchanged, only the delays
+between them, and Pillow folds consecutive identical frames into one longer
+delay — so doubling the running time cost zero bytes.
+
+The joke gets the longest run in the piece — a beat after `error: agents take
 tools,` where it still looks like a real error, then a longer one after the
 second line lands.
 
