@@ -1,9 +1,9 @@
 # Terminal profile promo
 
-`guilyx-terminal.gif` — the header loop on the profile README. 2640 × 1320,
-44.9s, 193 frames, ~4.6 MB.
+`guilyx-terminal.gif` — the header loop on the profile README. 1760 × 880,
+35.7s, 386 frames, ~4.7 MB.
 
-`guilyx-terminal.webp` is the same sequence in full colour, ~2.9 MB. Both are
+`guilyx-terminal.webp` is the same sequence in full colour, ~2.8 MB. Both are
 written by the same run.
 
 Everything is generated. There is no video editor in the loop and no source
@@ -17,25 +17,36 @@ python3 assets/promo/generate.py
 
 The seed is fixed, so a re-run reproduces both files byte for byte.
 
-## Resolution
+## Resolution and frame rate
 
-Layout is authored in an 880 × 440 coordinate space and exported at `EXPORT`
-times that size — 3 by default, so 2640 × 1320. Override it per run:
+Two independent knobs, both env vars, both defaulting to 2:
 
 ```bash
-PROMO_EXPORT=4 python3 assets/promo/generate.py   # 3520 x 1760
+PROMO_EXPORT=3 python3 assets/promo/generate.py   # 2640 x 1320
+PROMO_Q=3 python3 assets/promo/generate.py        # ~37fps motion
 ```
+
+`EXPORT` is the spatial scale: layout is authored in an 880 × 440 coordinate
+space and delivered at `EXPORT` times that size.
 
 Nothing in the scene code changes when `EXPORT` does: positions and font sizes
 stay in layout units, and drawing happens at `SS * EXPORT` before the frame is
 resampled down. Scanlines are pinned to one *layout* pixel, so they stay visible
 instead of dissolving into sub-pixel moire as the export scale goes up.
 
-Past 2× this is headroom rather than something a reader sees. GitHub lays the
-README out in a ~880px column, so the delivered file is already being downscaled
-— 2× covers HiDPI, 3× covers the rest and leaves the asset usable outside the
-README. The visible ceiling from here is GIF's 256-colour palette, not pixels,
-which is what the WebP is for.
+Past 2× this is headroom rather than something a reader sees: GitHub lays the
+README out in a ~880px column, so at `EXPORT=2` the file is already
+pixel-for-pixel on a HiDPI display and anything beyond is being thrown away
+before anyone looks at it. `EXPORT=3` costs 7.9 MB against 4.7 MB for exactly
+that. The visible ceiling from here is GIF's 256-colour palette rather than
+pixels, which is what the WebP is for.
+
+`Q` is the temporal one. The scenes are authored against a *layout frame* clock;
+`Q` subdivides it, so `Q=2` renders two sub-frames per layout frame at half the
+delay each. Every threshold in the scene code is an inequality against a
+now-fractional clock, and every per-frame rate — typing, rain fall, packet
+travel — is expressed per layout frame, so both simply take smaller steps.
+Raising `Q` buys frame rate without touching a single beat.
 
 ## The sequence
 
@@ -76,25 +87,27 @@ rather than hand-tune every beat, the timing is **derived from the frame**.
 excluded, because the rain is texture and nobody reads it. Each frame then gets
 its duration from what that count did:
 
-| Frame | Duration |
+| Sub-frame | Duration |
 | :--- | :--- |
-| Only motion — packets, the path being drawn, the tube warming up | 90ms |
-| New words landed since the last frame — typing, a line appearing, a caption fading in | 180ms |
-| A hold | `HOLD_MS × 2 × read_time(chars)` |
+| Only motion — packets, the path being drawn, the tube warming up | 40ms (25fps) |
+| New words landed — typing, a line appearing, a caption fading in | 50ms (20fps) |
+| A hold | `HOLD_MS × HOLD_SCALE × read_time(chars) / Q` |
+
+Delays are rounded to a multiple of 10ms, because GIF stores them in hundredths
+of a second and anything else quietly drifts.
 
 `read_time` scales between 0.8× and 1.7× around a middling frame, so the beats
-land where there is most to read. In practice: the identity card carries 238
-characters and holds for 1.29s per frame across three frames; the ticked
-behaviour tree carries 257 and holds 1.63s; the terminal handshake carries 88
-and holds 0.74s. Nobody had to type those numbers in — move a caption and the
-pacing follows it.
+land where there is most to read: the identity card carries 238 characters, the
+ticked behaviour tree 257, the terminal handshake 88, and each holds in
+proportion. Nobody had to type those numbers in — move a caption and the pacing
+follows it.
 
 The rain and the graph freeze on a hold, so the pause reads as deliberate rather
 than as a dropped frame.
 
-None of this costs file size. The frame *count* is unchanged, only the delays
-between them, and Pillow folds consecutive identical frames into one longer
-delay — so doubling the running time cost zero bytes.
+Holds are spread across their layout frame's sub-frames, which are identical, so
+Pillow folds them back into one long delay — a hold costs the same however high
+`Q` goes.
 
 The joke gets the longest run in the piece — a beat after `error: agents take
 tools,` where it still looks like a real error, then a longer one after the

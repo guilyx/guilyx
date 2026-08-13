@@ -2,7 +2,7 @@
 """
 guilyx — terminal profile promo.
 
-Renders `guilyx-terminal.gif`: a ~45s looping sequence that opens as a terminal,
+Renders `guilyx-terminal.gif`: a ~36s looping sequence that opens as a terminal,
 answers `whoami` with the identity card, ticks a behaviour tree, runs an agent
 orchestration graph and lets three of its nodes settle into the mark, traces the
 trajectory, and signs off.
@@ -16,11 +16,15 @@ Palette, type registers and the accent budget come from guilyx/branding
 spent once per scene and nowhere else. Everything else lives on the neutral
 ramp, which is what lets a single accent read as "this is the live path".
 
-Pacing is per frame and derived from the frame, not hand-tuned: `text()` counts
-the legible characters it draws, and a frame that puts new words on screen gets
-twice as long as one that only moves, while a frame being held is scaled by how
-much there is on it to read. Nothing here is in a hurry, and the pause in the
-middle of the joke is the joke.
+Pacing is derived from the frame, not hand-tuned: `text()` counts the legible
+characters it draws, and a frame that puts new words on screen gets longer than
+one that only moves, while a held frame is scaled by how much there is on it to
+read. Nothing here is in a hurry, and the pause in the middle of the joke is the
+joke.
+
+Frame rate is separate from all of that. The scenes are authored against a
+"layout frame" clock and Q subdivides it, so raising Q buys smoothness without
+touching a beat.
 
 Deps: pillow >= 10
 Run:  python3 assets/promo/generate.py
@@ -41,13 +45,20 @@ from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageFont
 
 W, H = 880, 440           # logical (delivered) size
 SS = 2                    # supersample headroom, discarded on export
-EXPORT = int(os.environ.get("PROMO_EXPORT", "3"))  # delivered = EXPORT x layout
+EXPORT = int(os.environ.get("PROMO_EXPORT", "2"))  # delivered = EXPORT x layout
 DS = SS * EXPORT          # device scale: everything is drawn at this multiple
 FW, FH = W * DS, H * DS   # internal canvas
 OW, OH = W * EXPORT, H * EXPORT   # delivered size
-FRAME_MS = 90             # 90ms/frame ≈ 11fps for anything that only moves
-READ_MS = 180             # a frame that puts new words on screen gets twice that
-HOLD_SCALE = 2.0          # and a frame being read holds twice as long again
+# The scene code is authored against a "layout frame" clock. Q subdivides it,
+# so raising Q buys frame rate without touching a single beat: every threshold
+# in the scenes is an inequality against a now-fractional clock, and the
+# per-frame rates (typing, rain, packets) are expressed per layout frame, so
+# they simply take smaller steps.
+Q = int(os.environ.get("PROMO_Q", "2"))
+
+MOTION_MS = 40            # per sub-frame: 25fps while something is only moving
+READ_MS = 50              # per sub-frame while new words are landing
+HOLD_SCALE = 1.95          # a frame being read holds twice as long again
 
 # Holds are scaled by how much legible text the frame carries, so the identity
 # card — a name, two lines of tagline and four spec rows — sits considerably
@@ -301,16 +312,16 @@ class Rain:
             [rng.choice(GLYPHS) for _ in range(self.TRAIL)] for _ in range(self.ncols)
         ]
 
-    def step(self):
+    def step(self, dt=1.0):
         for i in range(self.ncols):
-            self.y[i] += self.speed[i]
+            self.y[i] += self.speed[i] * dt
             if self.y[i] > H + self.TRAIL * LH:
                 self.y[i] = self.rng.uniform(-H * 0.6, -20)
                 self.speed[i] = self.rng.uniform(1.8, 5.0)
                 self.on[i] = self.rng.random() < 0.6
             # glyphs mutate rarely: a column that reshuffles every frame is
             # just noise, and noise is what makes the whole thing feel busy
-            if self.rng.random() < 0.06:
+            if self.rng.random() < 0.06 * dt:
                 self.chars[i][self.rng.randrange(self.TRAIL)] = self.rng.choice(GLYPHS)
 
     def heads(self):
@@ -1002,9 +1013,9 @@ def flash_card(img, f):
     flip, so it stays inside the palette.
     """
     t = f - T_ID
-    if t not in (-2, -1):
+    if not (-2 <= t < 0):
         return None
-    ground = HEADING if t == -2 else mix(HEADING, BODY, 0.35)
+    ground = HEADING if t < -1 else mix(HEADING, BODY, 0.35)
     card = Image.new("RGB", (FW, FH), ground)
     d = ImageDraw.Draw(card)
     ctext(d, W / 2, H / 2 - 22, "whoami", F_MONO_XL, BG)
@@ -1034,8 +1045,10 @@ def render():
     prev_ink = 0
     debug = bool(os.environ.get("PROMO_DEBUG"))
 
-    for f in range(T_END):
-        frozen = f in HOLD_MS
+    for i in range(T_END * Q):
+        f = i / Q                     # layout-frame clock, fractional
+        layout = int(f)
+        frozen = layout in HOLD_MS
         reset_ink()
         img = Image.new("RGB", (FW, FH), BG)
         d = ImageDraw.Draw(img)
@@ -1059,7 +1072,7 @@ def render():
         else:
             k_rain = 0.07 * (1 - seg(f, T_SIGN + 8, 8))
         if not frozen:
-            rain.step()
+            rain.step(1.0 / Q)
         rain.draw(d, k_rain)
 
         # ---- three graph nodes settle into the mark --------------------
@@ -1131,14 +1144,18 @@ def render():
         # ---- how long this frame stays up --------------------------------
         chars = ink()
         if frozen:
-            dur = int(round(HOLD_MS[f] * HOLD_SCALE * read_time(chars)))
+            # the hold is spread across this layout frame's sub-frames; they are
+            # identical, so the encoder folds them back into one long delay
+            dur = HOLD_MS[layout] * HOLD_SCALE * read_time(chars) / Q
         elif chars > prev_ink:
             dur = READ_MS          # new words landed — give them a beat
         else:
-            dur = FRAME_MS         # nothing to read, only motion
+            dur = MOTION_MS        # nothing to read, only motion
+        # GIF stores delays in hundredths, so land on a multiple of 10ms
+        dur = max(20, int(round(dur / 10.0)) * 10)
         durations.append(dur)
-        if debug:
-            print(f"    f{f:3d} chars={chars:4d} dur={dur:4d}"
+        if debug and i % Q == 0:
+            print(f"    f{f:6.1f} chars={chars:4d} dur={dur:4d}"
                   f"{' hold' if frozen else ''}")
         prev_ink = chars
 
