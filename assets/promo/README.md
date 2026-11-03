@@ -1,148 +1,164 @@
 # Terminal profile promo
 
-`guilyx-terminal.gif` — the header loop on the profile README. 1760 × 880,
-35.7s, 386 frames, ~4.7 MB.
+`guilyx-terminal.gif` is the header on the profile README: 1760 × 960, 36.5 s,
+about 6 MB. `guilyx-terminal.webp` is the same loop in full colour, about 4.7 MB.
 
-`guilyx-terminal.webp` is the same sequence in full colour, ~2.8 MB. Both are
-written by the same run.
+Nothing in it is hand-copied any more. The copy comes from the portfolio's own
+data, the three systems are the portfolio's own animations, and the palette and
+type are the portfolio's own. When the site changes, the promo is three
+commands away from matching it.
 
-Everything is generated. There is no video editor in the loop and no source
-footage: [`generate.py`](./generate.py) draws every frame with Pillow and
-encodes the GIF directly.
+## How it's made
 
-```bash
-pip install pillow
-python3 assets/promo/generate.py
-```
+Three steps, each owning one kind of input:
 
-The seed is fixed, so a re-run reproduces both files byte for byte.
-
-## Resolution and frame rate
-
-Two independent knobs, both env vars, both defaulting to 2:
+| Step | Reads | Writes |
+| :--- | :--- | :--- |
+| [`sync.mjs`](./sync.mjs) | v4's `src/data/site.ts`, the `@theme` block, the Systems kit | `data/profile.json` (committed) |
+| [`capture.mjs`](./capture.mjs) | v4's `src/scripts/systems/*.ts`, v4's brand fonts | `.frames/` (gitignored) |
+| [`generate.py`](./generate.py) | `data/profile.json`, `data/cut.json`, `.frames/` | the GIF and the WebP |
 
 ```bash
-PROMO_EXPORT=3 python3 assets/promo/generate.py   # 2640 x 1320
-PROMO_Q=3 python3 assets/promo/generate.py        # ~37fps motion
+# a guilyx/v4 checkout next to this repo, with its dependencies installed
+git clone https://github.com/guilyx/v4 ../v4 && (cd ../v4 && npm ci)
+
+node --experimental-strip-types assets/promo/sync.mjs --v4 ../v4
+node assets/promo/capture.mjs --v4 ../v4
+python3 assets/promo/generate.py          # pip install pillow
 ```
 
-`EXPORT` is the spatial scale: layout is authored in an 880 × 440 coordinate
-space and delivered at `EXPORT` times that size.
+Needs Node 22.13 or later (for type stripping), Playwright with Chromium, and
+Pillow 10 or later. `profile.json` records the v4 commit it came from, and
+`generate.py` refuses to mix a profile and frames from different commits.
 
-Nothing in the scene code changes when `EXPORT` does: positions and font sizes
-stay in layout units, and drawing happens at `SS * EXPORT` before the frame is
-resampled down. Scanlines are pinned to one *layout* pixel, so they stay visible
-instead of dissolving into sub-pixel moire as the export scale goes up.
+Both outputs are byte-for-byte reproducible: same v4 commit in, same files out.
 
-Past 2× this is headroom rather than something a reader sees: GitHub lays the
-README out in a ~880px column, so at `EXPORT=2` the file is already
-pixel-for-pixel on a HiDPI display and anything beyond is being thrown away
-before anyone looks at it. `EXPORT=3` costs 7.9 MB against 4.7 MB for exactly
-that. The visible ceiling from here is GIF's 256-colour palette rather than
-pixels, which is what the WebP is for.
+## What comes from where
 
-`Q` is the temporal one. The scenes are authored against a *layout frame* clock;
-`Q` subdivides it, so `Q=2` renders two sub-frames per layout frame at half the
-delay each. Every threshold in the scene code is an inequality against a
-now-fractional clock, and every per-frame rate — typing, rain fall, packet
-travel — is expressed per layout frame, so both simply take smaller steps.
-Raising `Q` buys frame rate without touching a single beat.
+- **Copy** — name, role, tagline, the spec block, the seven career chapters and
+  each system's headline: `site.ts`, via `profile.json`.
+- **The three systems** — v4's own canvas scenes, `swarm.ts`, `bt.ts` and
+  `fmr.ts`, captured frame by frame. The promo used to redraw a toy behaviour
+  tree and agent graph in Pillow; the site's versions are far better, so now it
+  shows those.
+- **Palette** — v4's `@theme` tokens plus the Systems kit's `ok` / `warn` /
+  `fail`. The scenes render in v4's palette, so the chrome around them has to
+  match it exactly. It also matches `guilyx/branding`'s `tokens.json`.
+- **Type** — JetBrains Mono and Space Grotesk, from v4's `@fontsource`
+  packages, in the browser and in Pillow alike. They ship as latin subsets,
+  which leave out `→`; both fall back per glyph, so it never renders as a box.
+- **The promo's own** — the terminal, the joke, the identity card's layout, and
+  the order things happen in. That's what `generate.py` still owns.
+
+## Capturing the scenes
+
+Every v4 scene implements the same small contract: `resize(w, h)`, then
+`frame(dt)` to advance by `dt` seconds and draw. `capture.mjs` serves the `.ts`
+straight from the checkout — Node strips the types, a tiny HTTP server hands
+them to Chromium, no bundler — mounts each scene at the GIF's export scale, and
+steps it in exact 1/60 s increments. Nothing is screen-recorded and nothing
+depends on how fast the machine renders. `Math.random` is seeded per scene.
+
+`--survey` renders one still per second across each scene's loop, and
+`--size 760x380 --at 4,13.5` tries a size or a moment before committing to it.
+That is how the cut below was chosen.
+
+## The cut
+
+`data/cut.json` is the edit decision list both scripts read:
+
+| Shot | Scene time | Speed | Rate | What it shows |
+| :--- | :--- | :--- | :--- | :--- |
+| swarm | 1.0 → 21.4 s | 4.3× | 20 fps | Planned around the no-fly zone, V formation in transit, Voronoi coverage, a contact triangulated |
+| bt | 8.0 → 29.3 s | 4.3× | 20 fps | The tree flattened into its action graph, a gap and `mission 72 / 100`, the fix made in the tree, re-scored to 91 |
+| fmr | 0.6 → 6.6 s | 1.6× | 12.5 fps | One case: the agent reads the window, calls a link flap rather than a node fault, and suppresses the duplicates |
+
+Each shot ends on a held frame, so its outcome can be read.
+
+The scenes render at 760 × 380, which is 2:1. They size themselves to the
+frame, but `fmr` needs at least that much height: at 2.4:1 its verdict box
+runs into the rules-engine line. Slow-changing scenes get lower frame rates,
+because every frame they don't need is file size.
 
 ## The sequence
 
-The subject is orchestration — behaviour trees and lifecycle underneath, and
-above them the graph a fleet of agents gets planned over: many agents, one
-graph, and the conflict-free plan they all have to agree on.
+| Beat | What happens |
+| :--- | :--- |
+| Identity | The card, finished — this is frame 0 |
+| The joke | `mapf solve --optimal` |
+| 01 · 02 · 03 | Swarm navigation, behaviour trees, fault management — each under the site's own headline |
+| Trajectory | The seven chapters, planned and then followed, ending on the current role |
+| Power cycle → handshake → `whoami` | The screen goes off and back on, and asks who this is |
+| Reveal | The card answers, and resolves into frame 0 |
 
-| Beat | Frames | What happens |
-| :--- | :--- | :--- |
-| Power on | 0–11 | A CRT line opens vertically into the screen. |
-| Handshake | 11–35 | `ssh erwin@elejeune.me`, then `whoami`. |
-| Identity | 35–60 | Two frames of an inverted flash card, then the card itself. |
-| The joke | 60–82 | `mapf solve --optimal`. |
-| Behaviour tree | 82–120 | `bt tick` — the tick descends, the leaves answer. |
-| Orchestration | 120–152 | The graph the agents are planned over; three nodes settle into the mark. |
-| Trajectory | 152–174 | The path is planned, then followed, waypoint by waypoint. |
-| Open channel | 174–193 | Mark, wordmark, links. Fades out so the loop reads as a power cycle. |
+Two rules shaped it:
 
-## The behaviour tree is a real one
-
-Standard notation — `→` sequence, `?` fallback, `⇉` parallel, `▸` action,
-`○` condition — and the statuses are what this tree actually returns when ticked:
-
-- `battery ok` succeeds, so the fallback returns **success** immediately and
-  **`return home` is never reached** — it stays dim for the whole scene.
-- `track target` and `stream tlm` both report **running**, so the parallel is
-  running, so the root is running.
-
-The accent traces the live path from the root down. That is the whole point of
-the scene: a tick descends, and status propagates back up.
+- **Frame 0 is the card.** It's what loads first, and what GitHub shows when
+  animated images are paused (reduced motion, or autoplay turned off). Earlier
+  versions opened on a black CRT, which is a poor thing to show someone who
+  never presses play.
+- **`whoami` sits at the seam.** The last frame of the loop is pixel-identical
+  to frame 0, so it closes without a jump.
 
 ## Pacing
 
-GIF delays are per frame, so the piece does not have to pick one speed — and
-rather than hand-tune every beat, the timing is **derived from the frame**.
-
-`text()` and `ctext()` count the legible characters they draw. The rain is
-excluded, because the rain is texture and nobody reads it. Each frame then gets
-its duration from what that count did:
+GIF delays are per frame, and the timing is derived from the frame rather than
+hand-tuned. `text()` counts the legible characters it draws (the rain is
+texture and never counts), and each sub-frame gets its duration from that:
 
 | Sub-frame | Duration |
 | :--- | :--- |
-| Only motion — packets, the path being drawn, the tube warming up | 40ms (25fps) |
-| New words landed — typing, a line appearing, a caption fading in | 50ms (20fps) |
-| A hold | `HOLD_MS × HOLD_SCALE × read_time(chars) / Q` |
+| Only motion | 40 ms (25 fps) |
+| New words landed — typing, a line appearing | 50 ms (20 fps) |
+| A captured scene frame | 1000 / its shot's fps |
+| The held last frame of a shot | the shot's `hold` |
+| A held frame of text | `HOLD_MS × HOLD_SCALE × read_time(chars) / Q` |
 
-Delays are rounded to a multiple of 10ms, because GIF stores them in hundredths
-of a second and anything else quietly drifts.
+`read_time` scales a hold between 0.8× and 1.7× by how much is on screen, so
+the identity card holds longer than the handshake. Delays round to a multiple
+of 10 ms, because GIF stores them in hundredths of a second.
 
-`read_time` scales between 0.8× and 1.7× around a middling frame, so the beats
-land where there is most to read: the identity card carries 238 characters, the
-ticked behaviour tree 257, the terminal handshake 88, and each holds in
-proportion. Nobody had to type those numbers in — move a caption and the pacing
-follows it.
+## Where the bytes go
 
-The rain and the graph freeze on a hold, so the pause reads as deliberate rather
-than as a dropped frame.
+| Beat | Share |
+| :--- | ---: |
+| swarm | 33% |
+| bt | 20% |
+| handshake | 18% |
+| fmr | 11% |
+| everything else | 18% |
 
-Holds are spread across their layout frame's sub-frames, which are identical, so
-Pillow folds them back into one long delay — a hold costs the same however high
-`Q` goes.
+The scenes are what the GIF is for, so they get the bytes. The rain was the
+surprise: a few glyphs moving at both edges of the frame make every frame a
+full-width change, because GIF sends one changed rectangle per frame. It now
+steps once per layout frame rather than every sub-frame, and stays off the
+trajectory entirely. That halved what it cost.
 
-The joke gets the longest run in the piece — a beat after `optimal mapf is
-np-hard.`, where it still reads as a refusal, then a longer one after the second
-line lands.
+## Previewing
+
+A full render takes about four minutes. To check a few frames instead:
+
+```bash
+PROMO_PREVIEW="identity:0,bt:-1,reveal:-1" python3 assets/promo/generate.py
+```
+
+That renders just those sub-frames to PNGs in `.frames/preview/` in a few
+seconds. `-1` is a beat's last sub-frame.
 
 ## Design notes
 
 Colour, type registers and the accent budget come from
 [guilyx/branding](https://github.com/guilyx/branding) — "Ink & Iris".
 
-- **The accent is spent once per scene.** `#8b95f0` is the only saturated value
-  in the system, so it gets one moment per beat: the prompt arrow, the rule
-  under the name, the live path through the behaviour tree, the node the
-  orchestration runs from, the mark, `elejeune.me`. Nowhere else.
-- **Two type registers.** Lowercase mono is the machine talking; sentence-case
-  display is the person. `Erwin Lejeune` is set in the display face and `guilyx`
-  never is.
-- **The mark is earned, not drawn.** Three of the six graph nodes ease into the
-  vertices from
-  [`brand/logo.md`](https://github.com/guilyx/branding/blob/master/brand/logo.md)
-  and the rest stand down — three agents holding a formation, which is what the
-  mark has always been.
-- **One joke, and it is true.** Optimal multi-agent pathfinding is NP-hard, and
-  the field plans anyway — bounded-suboptimal solvers exist precisely because
-  nobody waits for the optimum. `mapf solve --optimal` answering *"optimal mapf
-  is np-hard. solving it anyway."* is a statement of practice, not a refusal. It
-  sets up the graph scene that follows.
+- **The accent is spent once per beat**: the prompt arrow, the rule under the
+  name, the shot numbers, the current chapter. The scenes bring their own, as
+  they do on the site.
+- **Two type registers.** Lowercase mono is the machine talking;
+  sentence-case display is the person.
+- **One joke, and it's true.** Optimal multi-agent pathfinding is NP-hard, and
+  the field plans anyway: bounded-suboptimal solvers exist because nobody
+  waits for the optimum. `optimal mapf is np-hard.` … `solving it anyway.` is a
+  statement of practice, not a refusal.
 
-Every string traces back to `guilyx/v4`'s `site.ts`, the profile README, or
-`brand/voice.md` — the role line, the location, the SIRB.AI bullet on
-multi-agent planning, the TII one on behaviour orchestration and lifecycle
-management, the published multi-agent pathfinding survey, and the
-Kymatics work on agentic orchestration.
-
-Substitutions, since the brand faces are not on the render box: DejaVu Sans Mono
-for JetBrains Mono, Liberation Sans Bold for Space Grotesk. The glyph rain runs
-on hex, greek and maths symbols rather than katakana — no kana-capable font is
-installed, and an engineering console set reads closer to the work anyway.
+The glyph rain runs on hex, greek, maths and box-drawing symbols rather than
+katakana: an engineering console's symbol set reads closer to the work.

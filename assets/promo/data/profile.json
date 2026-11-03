@@ -1,0 +1,114 @@
+{
+  "source": {
+    "repo": "guilyx/v4",
+    "commit": "f5885d75a70f1d5be4312271791cfdb16e481fa1",
+    "dirty": false
+  },
+  "site": {
+    "name": "Erwin Lejeune",
+    "handle": "guilyx",
+    "role": "Head of Robotics",
+    "tagline": "Leading robotics teams from the lab to the field.",
+    "location": "Abu Dhabi, UAE",
+    "url": "https://v4.elejeune.me"
+  },
+  "spec": [
+    {
+      "key": "role",
+      "value": "head of robotics @ sirb.ai"
+    },
+    {
+      "key": "based",
+      "value": "abu dhabi, uae"
+    },
+    {
+      "key": "leading",
+      "value": "teams since 2021"
+    },
+    {
+      "key": "hands-on",
+      "value": "ros 2 · c++ · python · go"
+    },
+    {
+      "key": "standards",
+      "value": "from embedded & web"
+    }
+  ],
+  "chapters": [
+    {
+      "tab": "metal",
+      "years": "2018 — 2019",
+      "where": "Hiventive, Ingeniarius",
+      "title": "Close to the metal"
+    },
+    {
+      "tab": "research",
+      "years": "2020 — 2021",
+      "where": "Centrale Nantes, Hiventive",
+      "title": "Research, and the web"
+    },
+    {
+      "tab": "field",
+      "years": "2021 — 2022",
+      "where": "Coalescent, Odense",
+      "title": "First robot in a real store"
+    },
+    {
+      "tab": "swarm",
+      "years": "2022 — 2024",
+      "where": "TII, Abu Dhabi",
+      "title": "One robot to many"
+    },
+    {
+      "tab": "team",
+      "years": "2024 — 2026",
+      "where": "TII, Abu Dhabi",
+      "title": "Leading the team"
+    },
+    {
+      "tab": "company",
+      "years": "2024 — now",
+      "where": "Unchained Labs",
+      "title": "Starting a company"
+    },
+    {
+      "tab": "now",
+      "years": "2026 — now",
+      "where": "SIRB.AI, Abu Dhabi",
+      "title": "Head of Robotics"
+    }
+  ],
+  "systems": [
+    {
+      "id": "swarm",
+      "tab": "Swarm navigation & coverage",
+      "headline": "Plan, fly in formation, cover the zone, find the target.",
+      "caption": "plan → formation transit → Voronoi coverage → triangulation"
+    },
+    {
+      "id": "bt",
+      "tab": "Behavior tree densification & scoring",
+      "headline": "Mission trees anyone can read, scored before they fly.",
+      "caption": "behavior tree → action graph → risk per branch"
+    },
+    {
+      "id": "fmr",
+      "tab": "Agentic fault management & recovery",
+      "headline": "One timeline for every fault, and an agent that proposes the repair.",
+      "caption": "report → one timeline → read the window → repair"
+    }
+  ],
+  "palette": {
+    "bg": "#12141b",
+    "raised": "#1a1d26",
+    "line": "#2c3040",
+    "faint": "#616779",
+    "muted": "#858b9c",
+    "body": "#aeb3c2",
+    "heading": "#e8eaf0",
+    "accent": "#8b95f0",
+    "ok": "#7ccfa6",
+    "warn": "#e3c07a",
+    "fail": "#ef806f"
+  }
+}
