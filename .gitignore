@@ -4,3 +4,6 @@ node_modules
 
 .vercel
 __pycache__
+
+# captured scene frames and fonts — rebuilt by assets/promo/capture.mjs
+assets/promo/.frames/

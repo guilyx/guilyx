@@ -1,0 +1,10 @@
+{
+  "export": 2,
+  "fps": 25,
+  "scene": { "w": 760, "h": 380 },
+  "shots": [
+    { "id": "swarm", "from": 1.0, "seconds": 4.8, "speed": 4.3, "fps": 20, "hold": 1.2 },
+    { "id": "bt", "from": 8.0, "seconds": 5.0, "speed": 4.3, "fps": 20, "hold": 1.5 },
+    { "id": "fmr", "from": 0.6, "seconds": 3.8, "speed": 1.6, "fps": 12.5, "hold": 1.6 }
+  ]
+}
