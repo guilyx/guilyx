@@ -5,12 +5,11 @@
  *   node --experimental-strip-types assets/promo/sync.mjs --v4 ../v4
  *
  * v4's src/data/site.ts is the single source of truth for the site's copy, so
- * the promo reads its copy from there instead of keeping its own: role,
- * tagline, the spec block, the career chapters, and the three Systems. The
- * palette comes from v4 too — the @theme block in global.css plus the status
- * colours in the Systems kit — because the Systems scenes are captured from
- * v4's own code and render in v4's palette, so the chrome around them has to
- * match it exactly.
+ * the promo reads its copy from there instead of keeping its own: name, role,
+ * tagline, the spec block, and the Systems headlines (fault management's is
+ * used as is). The palette comes from v4 too — the @theme block in global.css
+ * plus the status colours in the Systems kit — because every scene draws with
+ * v4's kit and v4's palette, so the chrome around them has to match it exactly.
  *
  * Writes assets/promo/data/profile.json, committed, so generating the promo
  * stays offline and reproducible. The v4 commit it came from is recorded in it.
@@ -84,7 +83,6 @@ const profile = {
     url: site.site.url,
   },
   spec: site.spec.map(({ key, value }) => ({ key, value })),
-  chapters: site.chapters.map(({ tab, years, where, title }) => ({ tab, years, where, title })),
   systems: site.systems.map(({ id, tab, headline, caption }) => ({ id, tab, headline, caption })),
   // the same shape as the Systems kit's Palette, so it can be handed straight to a scene
   palette: {

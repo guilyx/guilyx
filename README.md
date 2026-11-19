@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://elejeune.me">
-    <img alt="guilyx — Erwin Lejeune, robotics: identity, three systems, trajectory" width="880" src="assets/promo/guilyx-terminal.gif" />
+    <img alt="guilyx — Erwin Lejeune, robotics: a warehouse robot, a drone, a formation, fault management, RobotOps" width="880" src="assets/promo/guilyx-terminal.gif" />
   </a>
 </p>
 

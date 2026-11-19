@@ -1,18 +1,20 @@
 #!/usr/bin/env node
 /**
- * Render v4's three Systems scenes frame by frame, from v4's own code.
+ * Render the promo's scenes frame by frame: its own, and one of v4's.
  *
- *   node assets/promo/capture.mjs --v4 ../v4            # the shots in data/cut.json
- *   node assets/promo/capture.mjs --v4 ../v4 --survey   # one still per second, to plan a cut
+ *   node assets/promo/capture.mjs --v4 ../v4                  # the shots in data/cut.json
+ *   node assets/promo/capture.mjs --v4 ../v4 --survey         # one still per second, to plan a cut
+ *   node assets/promo/capture.mjs --v4 ../v4 --survey --ids amr --at 4,13.5
  *
- * The promo used to draw its own behaviour tree and agent graph in Pillow. v4
- * draws the same ideas far better, so now the promo shows v4's: this script
- * loads src/scripts/systems/*.ts straight from a v4 checkout (Node strips the
- * types, a tiny server hands them to Chromium), and drives each scene through
- * its own contract — resize(w, h), then frame(dt) — at exact steps. Nothing is
- * screen-recorded and nothing depends on the machine's speed: Math.random is
- * seeded per scene, and time only moves when this script says so. Same v4
- * commit in, same frames out.
+ * Every scene is a canvas scene on v4's Systems contract — resize(w, h), then
+ * frame(dt). The promo's own live in scenes/ (the warehouse robot, the drone,
+ * the formation, RobotOps) and draw with v4's kit; fault management is v4's
+ * own src/scripts/systems/fmr.ts. A module is looked up in scenes/ first, then
+ * in the v4 checkout, which is also where the kit comes from. Node strips the
+ * types, a tiny server hands them to Chromium, and each scene is driven at
+ * exact steps. Nothing is screen-recorded and nothing depends on the machine's
+ * speed: Math.random is seeded per scene, and time only moves when this script
+ * says so. Same inputs, same frames.
  *
  * Needs `npm ci` in the v4 checkout: the scenes draw in JetBrains Mono, and
  * the brand faces come from v4's @fontsource packages. They are copied next to
@@ -47,6 +49,7 @@ const cut = JSON.parse(readFileSync(join(HERE, "data", "cut.json"), "utf8"));
 const EXPORT = Number(process.env.PROMO_EXPORT ?? cut.export);
 
 const SYSTEMS = join(v4, "src", "scripts", "systems");
+const OWN = join(HERE, "scenes");   // the promo's own scenes, drawn with v4's kit
 const FONTSRC = join(v4, "node_modules", "@fontsource");
 const FONTVAR = join(v4, "node_modules", "@fontsource-variable");
 if (!existsSync(join(FONTSRC, "jetbrains-mono"))) {
@@ -98,7 +101,9 @@ const serve = (req, res) => {
     if (url.startsWith("/sys/")) {
       const name = url.slice(5).replace(/\.js$/, "");
       if (!/^[a-z]+$/.test(name)) throw new Error("bad module");
-      const ts = readFileSync(join(SYSTEMS, `${name}.ts`), "utf8");
+      // the promo's own scenes first, then v4's (which is where the kit lives)
+      const own = join(OWN, `${name}.ts`);
+      const ts = readFileSync(existsSync(own) ? own : join(SYSTEMS, `${name}.ts`), "utf8");
       // erase the types, and give the browser full specifiers for the kit
       const js = stripTypeScriptTypes(ts).replace(/from\s+"\.\/([a-z]+)"/g, 'from "./$1.js"');
       return send(res, "text/javascript", js);
@@ -140,12 +145,14 @@ if (survey) {
   const out = join(FRAMES, "survey");
   rmSync(out, { recursive: true, force: true });
   mkdirSync(out, { recursive: true });
-  for (const sys of profile.systems) {
+  const ids = arg("ids")?.split(",") ?? [...new Set(cut.shots.map((s) => s.id))];
+  for (const id of ids) {
+    const sys = { id };
     const poster = await tab.evaluate(([id, w, h, p]) => window.__mount(id, w, h, p, 7), [sys.id, w, h, pal]);
     let t = 0;
     for (const target of at) {
       t = await tab.evaluate((dt) => window.__advance(dt), target - t);
-      writePng(join(out, `${sys.id}_${String(target).padStart(4, "0")}.png`), await tab.evaluate(() => window.__grab()));
+      writePng(join(out, `${sys.id}_${target.toFixed(2).padStart(6, "0")}.png`), await tab.evaluate(() => window.__grab()));
     }
     console.log(`survey ${sys.id} @${w}x${h}: ${at.length} stills, poster at ${poster}s`);
   }
