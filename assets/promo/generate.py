@@ -3,34 +3,33 @@
 guilyx — terminal profile promo.
 
 Renders `guilyx-terminal.gif` (and a full-colour `.webp` of the same loop): an
-identity card, a joke, three systems from the portfolio, the career so far,
-and a `whoami` that lands back on the card.
+identity card, then the work in the order it grew — a ground robot, one drone,
+a formation, fault management, and the RobotOps around all of it — with one
+joke in the middle and a `whoami` that lands back on the card.
 
-Nothing here is hand-copied from elsewhere any more. Three steps, each owning
-one kind of input:
+Three steps, each owning one kind of input:
 
-    sync.mjs     v4's site.ts + palette   ->  data/profile.json   (committed)
-    capture.mjs  v4's Systems scenes      ->  .frames/            (gitignored)
-    generate.py  both of the above        ->  the gif and the webp
+    sync.mjs     v4's site.ts + palette     ->  data/profile.json   (committed)
+    capture.mjs  scenes/*.ts + v4's fmr.ts  ->  .frames/            (gitignored)
+    generate.py  both of the above          ->  the gif and the webp
 
-The copy — name, role, tagline, the spec block, the chapters, each system's
-headline — comes from profile.json, which sync.mjs reads out of v4's
-`src/data/site.ts`. The three systems are v4's own canvas scenes, rendered
-frame by frame by capture.mjs. The palette and the brand faces come from v4
-as well. When the site changes, the promo is three commands away from
-matching it, and never drifts in between.
+The identity copy — name, role, tagline, the spec block — comes from
+profile.json, which sync.mjs reads out of v4's `src/data/site.ts`. Four of the
+five scenes are the promo's own canvas scenes in `scenes/`, drawn with v4's
+Systems kit; fault management is v4's own scene. capture.mjs renders them all
+frame by frame. The palette and the brand faces come from v4 as well.
 
-What this file still owns is the part that is the promo's own: the terminal,
-the joke, the identity card and the order things happen in.
+What this file owns is the promo itself: the terminal, the joke, the identity
+card, the chrome around each scene, and the order things happen in.
 
 Two rules shaped the timeline:
 
 - **Frame 0 is the card.** It is what loads first, and what GitHub shows when
   animated images are paused (reduced motion, or autoplay turned off). So the
   loop opens on a finished identity card, not on a black screen.
-- **`whoami` sits at the seam.** The power cycle, the ssh handshake and the
-  `whoami` come at the *end*; the card that answers it resolves into exactly
-  frame 0, so the loop closes without a jump.
+- **`whoami` sits at the seam.** The power cycle and the `whoami` come at the
+  *end*; the card that answers it resolves into exactly frame 0, so the loop
+  closes without a jump.
 
 Pacing is derived from the frame, not hand-tuned: `text()` counts the legible
 characters it draws, a frame that puts new words on screen gets longer than one
@@ -221,7 +220,6 @@ F_MONO_XL = face("mono-700", 30)
 F_DISP_XL = face("display", 56, 700, _FALLBACK_SANS)
 F_DISP_HEAD = face("display", 19, 500, _FALLBACK_SANS)
 F_DISP_M = face("display", 23, 400, _FALLBACK_SANS)
-F_DISP_S = face("display", 19, 400, _FALLBACK_SANS)
 _rain_font = ImageFont.truetype(_FALLBACK_MONO, int(round(12 * DS)))
 F_RAIN = Face(_rain_font, _rain_font)
 
@@ -320,11 +318,6 @@ def clamp01(t):
 def ease_out(t):
     t = clamp01(t)
     return 1 - (1 - t) ** 3
-
-
-def ease_in_out(t):
-    t = clamp01(t)
-    return 3 * t * t - 2 * t * t * t
 
 
 def seg(t, start, length):
@@ -500,17 +493,11 @@ def slice_glitch(img, amount, rng):
 SITE = PROFILE["site"]
 SPEC = [(r["key"], r["value"]) for r in PROFILE["spec"]]
 SYSTEMS = {s["id"]: s for s in PROFILE["systems"]}
-CHAPTERS = PROFILE["chapters"]
-
 TERM_LINES = [
     # (start, indent, segments[(text, colour)], typed?)
     (0,  0, [("guilyx", MUTED), (" on ", FAINT), ("master", MUTED),
              (" [!?] ", FAINT), ("took 16s", FAINT)], False),
-    (2,  0, [("→ ", ACCENT), (f"ssh erwin@{HOST}", BODY)], True),
-    (18, 1, [("handshake ", FAINT), ("·" * 14, LINE), (" ok", BODY)], False),
-    (20, 1, [("locale ", FAINT), ("·" * 17, LINE),
-             (f" {SITE['location'].lower()} · utc+04", BODY)], False),
-    (22, 0, [("→ ", ACCENT), ("whoami", BODY)], True),
+    (2,  0, [("→ ", ACCENT), ("whoami", BODY)], True),
 ]
 
 # The joke, and it is true: optimal multi-agent pathfinding is NP-hard, and the
@@ -634,52 +621,20 @@ def scene_joke(d, t):
 
 
 def scene_term(d, t):
-    """The handshake. Terminal in the machine register."""
-    draw_terminal(d, t, TERM_LINES, tail_from=27)
+    """`whoami`, typed. Terminal in the machine register."""
+    draw_terminal(d, t, TERM_LINES, tail_from=6)
 
 
-def scene_trajectory(d, t):
-    """The career as a path: planned first, then followed, chapter by chapter."""
-    text(d, 60, 52, "→ ", F_MONO, fade(ACCENT, 0.9))
-    text(d, 60 + 2 * CW, 52, "trajectory --since 2018"[: int(max(0, t) * 2.4)], F_MONO, BODY)
-
-    ax0, ax1, ay = 100.0, W - 100.0, 226.0
-    n = len(CHAPTERS)
-    xs = [ax0 + (ax1 - ax0) * i / (n - 1) for i in range(n)]
-
-    e = ease_in_out(seg(t, 3, 12))
-    if e > 0:
-        d.line([S(ax0), S(ay), S(ax0 + (ax1 - ax0) * e), S(ay)], fill=LINE, width=max(1, int(S(1.4))))
-
-    for i, (x, ch) in enumerate(zip(xs, CHAPTERS)):
-        reach = (x - ax0) / (ax1 - ax0)
-        if e < reach:
-            continue
-        a = ease_out(seg(t, 3 + reach * 12, 3))
-        now = i == n - 1
-        r = 3.4 if now else 3.0
-        d.ellipse([S(x - r), S(ay - r), S(x + r), S(ay + r)], fill=fade(ACCENT if now else MUTED, a))
-        ctext(d, x, ay - 36, ch["tab"], F_MONO_S, fade(HEADING if now else BODY, a))
-        ctext(d, x, ay + 16, ch["where"].split(",")[0].strip().lower(), F_MONO_XS, fade(MUTED, a))
-        ctext(d, x, ay + 32, ch["years"].replace(" — ", "–"), F_MONO_XS, fade(FAINT, a * 0.9))
-
-    # the agent that follows the planned path — accent moment for this beat
-    if 0.02 < e < 1:
-        hx = ax0 + (ax1 - ax0) * e
-        d.ellipse([S(hx - 4), S(ay - 4), S(hx + 4), S(ay + 4)], fill=ACCENT)
-
-    if t >= 15:
-        a = ease_out(seg(t, 15, 4))
-        last = CHAPTERS[-1]
-        ctext(d, W / 2, 316, f"{last['title']} · {last['where']}", F_DISP_S, fade(MUTED, a))
+def headline(shot):
+    """The cut's own headline for the promo's scenes; v4's for the ones from the site."""
+    return shot.get("headline") or SYSTEMS[shot["id"]]["headline"]
 
 
 def shot_chrome(d, shot, k=1.0):
     """The band above a captured scene, and the panel it sits in — as on the site."""
-    sid = shot["id"]
-    num = f"{list(SYSTEMS).index(sid) + 1:02d}"
+    num = f"{[s['id'] for s in MANIFEST['shots']].index(shot['id']) + 1:02d}"
     text(d, 60, 24, num, F_MONO_S, fade(ACCENT, k))
-    text(d, 60 + 3.2 * cw(F_MONO_S), 19, SYSTEMS[sid]["headline"], F_DISP_HEAD, fade(HEADING, k))
+    text(d, 60 + 3.2 * cw(F_MONO_S), 19, headline(shot), F_DISP_HEAD, fade(HEADING, k))
     x, y, w, h = SCENE
     d.rounded_rectangle([S(x - 1), S(y - 1), S(x + w + 1), S(y + h + 1)], radius=S(8),
                         fill=RAISED, outline=LINE, width=max(1, int(S(1))))
@@ -721,7 +676,7 @@ def _shot_beats():
             name=shot["id"],
             subframes=shot["frames"] + 1,  # every captured frame, plus one held on the last
             draw=lambda d, t, i, shot=shot: shot_chrome(d, shot),
-            label=SYSTEMS[shot["id"]]["tab"].lower(),
+            label=shot.get("label") or SYSTEMS[shot["id"]]["tab"].lower(),
             glitch=6.0,
             scene=shot,
         ))
@@ -733,18 +688,19 @@ def L(frames):
     return frames * Q
 
 
+SHOTS = _shot_beats()
+
 TIMELINE = [
     # frame 0: the card, finished, and held — the poster
     Beat("identity", L(2), lambda d, t, i: scene_identity(d, REVEALED), "identity",
          holds={0: 420, 1: 420}),
+    *SHOTS[:2],                        # on the ground, then in the air
     Beat("joke", L(22), lambda d, t, i: scene_joke(d, t), "planning", rain=0.10,
          holds={16: 460, 19: 480, 20: 480}, glitch=6.0),
-    *_shot_beats(),
-    Beat("trajectory", L(22), lambda d, t, i: scene_trajectory(d, t), "trajectory",
-         holds={21: 420}, glitch=6.0),
+    *SHOTS[2:],                        # many in the air, when it breaks, how it ships
     Beat("power-off", L(7), lambda d, t, i: scene_power(d, t, off=True)),
     Beat("power-on", L(10), lambda d, t, i: scene_power(d, t)),
-    Beat("handshake", L(29), lambda d, t, i: scene_term(d, t), rain=0.17, holds={28: 380}),
+    Beat("whoami-typed", L(9), lambda d, t, i: scene_term(d, t), rain=0.17, holds={8: 300}),
     Beat("whoami", L(2), lambda d, t, i: None, flash=True, holds={0: 380, 1: 380}),
     # the answer resolves into frame 0, closing the loop
     Beat("reveal", L(22), lambda d, t, i: scene_identity(d, t), "identity", glitch=4.5),

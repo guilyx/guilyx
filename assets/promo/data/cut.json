@@ -1,10 +1,31 @@
 {
   "export": 2,
-  "fps": 25,
+  "fps": 16.667,
   "scene": { "w": 760, "h": 380 },
   "shots": [
-    { "id": "swarm", "from": 1.0, "seconds": 4.8, "speed": 4.3, "fps": 20, "hold": 1.2 },
-    { "id": "bt", "from": 8.0, "seconds": 5.0, "speed": 4.3, "fps": 20, "hold": 1.5 },
-    { "id": "fmr", "from": 0.6, "seconds": 3.8, "speed": 1.6, "fps": 12.5, "hold": 1.6 }
+    {
+      "id": "amr", "from": 0.3, "seconds": 8.4, "speed": 3.75, "hold": 1.6,
+      "label": "ground · vda 5050",
+      "headline": "On the ground: a robot on a fleet manager's orders, among people."
+    },
+    {
+      "id": "uav", "from": 0.2, "seconds": 6.6, "speed": 2.0, "hold": 1.5,
+      "label": "air · c2 · notam",
+      "headline": "Then the air: same stack, and airspace that changes mid-flight."
+    },
+    {
+      "id": "formation", "from": 0.2, "seconds": 5.8, "speed": 1.3, "hold": 1.5,
+      "label": "formation · c2 mesh",
+      "headline": "Then many: a formation, and the links that hold it together."
+    },
+    {
+      "id": "fmr", "from": 0.6, "seconds": 3.8, "speed": 1.6, "fps": 12.5, "hold": 1.6,
+      "label": "fault management"
+    },
+    {
+      "id": "robotops", "from": 0.0, "seconds": 6.4, "speed": 2.0, "hold": 1.6,
+      "label": "robotops",
+      "headline": "RobotOps: every change runs through a simulated fleet before it ships."
+    }
   ]
 }

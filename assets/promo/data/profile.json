@@ -1,7 +1,7 @@
 {
   "source": {
     "repo": "guilyx/v4",
-    "commit": "f5885d75a70f1d5be4312271791cfdb16e481fa1",
+    "commit": "d833c80b612428ce710984257e725cb0f5060326",
     "dirty": false
   },
   "site": {
@@ -32,50 +32,6 @@
     {
       "key": "standards",
       "value": "from embedded & web"
-    }
-  ],
-  "chapters": [
-    {
-      "tab": "metal",
-      "years": "2018 — 2019",
-      "where": "Hiventive, Ingeniarius",
-      "title": "Close to the metal"
-    },
-    {
-      "tab": "research",
-      "years": "2020 — 2021",
-      "where": "Centrale Nantes, Hiventive",
-      "title": "Research, and the web"
-    },
-    {
-      "tab": "field",
-      "years": "2021 — 2022",
-      "where": "Coalescent, Odense",
-      "title": "First robot in a real store"
-    },
-    {
-      "tab": "swarm",
-      "years": "2022 — 2024",
-      "where": "TII, Abu Dhabi",
-      "title": "One robot to many"
-    },
-    {
-      "tab": "team",
-      "years": "2024 — 2026",
-      "where": "TII, Abu Dhabi",
-      "title": "Leading the team"
-    },
-    {
-      "tab": "company",
-      "years": "2024 — now",
-      "where": "Unchained Labs",
-      "title": "Starting a company"
-    },
-    {
-      "tab": "now",
-      "years": "2026 — now",
-      "where": "SIRB.AI, Abu Dhabi",
-      "title": "Head of Robotics"
     }
   ],
   "systems": [
